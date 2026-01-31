@@ -2,7 +2,6 @@ import os
 import json
 
 from bs4 import BeautifulSoup
-from tabulate import tabulate
 
 html_paths = [
     "assets/bcp_atms.html",
