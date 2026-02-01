@@ -1,0 +1,1190 @@
+[
+    {
+        "id": "01fc3eb7-a7dc-4bbc-8880-48f756fad037",
+        "name": "Ventanilla de Cobranza SIN - Distrital El Alto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.50351388888889",
+        "longitude": "-68.16600000000001",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 a 14:30 a 18:30"
+        }
+    },
+    {
+        "id": "0b684939-99be-4b55-8da8-2042a22ff726",
+        "name": "El Tejar",
+        "phone": "(591-2) 2178570",
+        "addressName": "",
+        "latitude": "-16.49502222222222",
+        "longitude": "-68.15348333333334",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "0d710316-d970-4167-86c5-690c43ade2e6",
+        "name": "Cota Cota",
+        "phone": "(591-2) 2178740",
+        "addressName": "",
+        "latitude": "-16.541280555555556",
+        "longitude": "-68.06058333333333",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "11c69872-e558-4134-a931-96ce02c5e477",
+        "name": "San Miguel",
+        "phone": "(591-2) 2178670",
+        "addressName": "",
+        "latitude": "-16.541486111111112",
+        "longitude": "-68.07689722222221",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "1374ef07-dc8e-46b3-85c1-d8840289e55d",
+        "name": "Ventanilla de Cobranza SIN - Ballivian",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.496083333333335",
+        "longitude": "-68.13153333333332",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 a 14:30 a 18:30"
+        }
+    },
+    {
+        "id": "1dd43613-d496-4a3c-8eec-8f5a06e10c06",
+        "name": "Agencia Santiago II",
+        "phone": "(591-2) 2185440",
+        "addressName": "",
+        "latitude": "-16.536972222222225",
+        "longitude": "-68.17788611111112",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2037975a-8584-4a76-b91a-b0bd69d94d91",
+        "name": "Regional La Paz",
+        "phone": "(591-2) 2178500",
+        "addressName": "",
+        "latitude": "-16.49396388888889",
+        "longitude": "-68.13749444444446",
+        "officeType": {
+            "officeTypeName": "Sucursal",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "22646d48-e0e0-458f-97d3-aa29258cefd7",
+        "name": "Garita de Lima",
+        "phone": "(591-2) 2178610",
+        "addressName": "",
+        "latitude": "-16.49681388888889",
+        "longitude": "-68.14445277777779",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "27c8ed5a-60cb-45ae-81ba-632407a8da10",
+        "name": "Agencia Gran Poder",
+        "phone": "(591-2) 2178690",
+        "addressName": "",
+        "latitude": "-16.498705555555556",
+        "longitude": "-68.14071111111112",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2e82344f-6e4b-42a4-b92b-278ad25300ca",
+        "name": "Agencia Móvil La Paz",
+        "phone": "(591-2) 2842518/72038694",
+        "addressName": "",
+        "latitude": "-16.495136111111112",
+        "longitude": "-68.17411111111112",
+        "officeType": {
+            "officeTypeName": "Agencia Móvil",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:30 a 16:30; Sábado 09:30 a 16:30"
+        }
+    },
+    {
+        "id": "2f752abc-c93f-4d59-90a8-8ea51b0a061e",
+        "name": "Ballivian",
+        "phone": "(591-2) 2178680",
+        "addressName": "",
+        "latitude": "-16.495972222222225",
+        "longitude": "-68.13216666666666",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "33a5dcf4-78df-4e8d-ab56-1ac23879ecda",
+        "name": "Rio Seco",
+        "phone": "(591-2) 2185350",
+        "addressName": "",
+        "latitude": "-16.489836111111114",
+        "longitude": "-68.20734722222223",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "361bada3-f7f9-44bb-9736-b07ca894dcf5",
+        "name": "Agencia 12 de Octubre",
+        "phone": "(591-2) 2185470",
+        "addressName": "",
+        "latitude": "-16.512916666666666",
+        "longitude": "-68.16269444444445",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "37c9faee-f221-4b06-a911-76503a03285c",
+        "name": "Bolivia",
+        "phone": "(591-2) 2185390",
+        "addressName": "",
+        "latitude": "-16.519302777777778",
+        "longitude": "-68.2076388888889",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3ae01951-1c1f-4c5e-ae7b-64a9b9c61321",
+        "name": "Ag. Ventilla",
+        "phone": "(591-2) 2185460",
+        "addressName": "",
+        "latitude": "-16.619966666666667",
+        "longitude": "-68.1828888888889",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3cead017-ee8c-4486-b869-39d0709daff7",
+        "name": "Senkata",
+        "phone": "(591-2) 2185380",
+        "addressName": "",
+        "latitude": "-16.584799999999998",
+        "longitude": "-68.18530555555556",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3d02065f-4d1a-486a-9ee6-d1356798892b",
+        "name": "Agencia San Roque",
+        "phone": "(591-2) 2185490",
+        "addressName": "",
+        "latitude": "-16.475875",
+        "longitude": "-68.27513055555555",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "4406de6b-c449-45cf-965f-cce2880b1136",
+        "name": "Miraflores",
+        "phone": "(591-2) 2178650",
+        "addressName": "",
+        "latitude": "-16.498952777777777",
+        "longitude": "-68.12398888888889",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "503fbf6a-ca3b-497a-aed8-63c5b0f3394b",
+        "name": "Agencia Obrajes",
+        "phone": "(591-2) 2178780",
+        "addressName": "",
+        "latitude": "-16.5287",
+        "longitude": "-68.10184444444444",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 y 13:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "52c611ea-f3f7-4f03-8088-91781b3e4277",
+        "name": "Ventanilla de Cobranza SIN - Los Pinos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.5456",
+        "longitude": "-68.07089166666667",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 a 14:30 a 18:30"
+        }
+    },
+    {
+        "id": "6930f11e-47c9-4116-a071-6f245024bfbe",
+        "name": "Chacaltaya",
+        "phone": "(591-2) 2185310",
+        "addressName": "",
+        "latitude": "-16.498083333333334",
+        "longitude": "-68.17461111111112",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 17:00; sabados de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "6a141864-1a13-4a68-8ab7-7426ab5e6d90",
+        "name": "Agencia Vino Tinto",
+        "phone": "(591-2) 2178700",
+        "addressName": "",
+        "latitude": "-16.481536111111108",
+        "longitude": "-68.13988055555556",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "738ee3ff-3f6c-4c68-86c6-768b86e438be",
+        "name": "San Pedro",
+        "phone": "(591-2) 2178710",
+        "addressName": "",
+        "latitude": "-16.50218611111111",
+        "longitude": "-68.13426666666668",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "74ecfda1-ff16-48b5-8c91-cc63680514f9",
+        "name": "Agencia Villa Armonía",
+        "phone": "(591-2) 2178790",
+        "addressName": "",
+        "latitude": "-16.50818611111111",
+        "longitude": "-68.11274444444444",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 y 13:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "78116794-27c3-42e6-8755-417538565d1e",
+        "name": "Lagunas",
+        "phone": "(591-2) 2185310",
+        "addressName": "",
+        "latitude": "-16.48352777777778",
+        "longitude": "-68.23952777777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:30 a 17:00; Sabado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "7dd4ac67-5f77-45d2-b014-0335e3ea0e35",
+        "name": "Agencia Ingavi",
+        "phone": "(591-2) 2185480",
+        "addressName": "",
+        "latitude": "-16.651763888888887",
+        "longitude": "-68.29886388888889",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "VIACHA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "87803c9b-a3cd-4717-9642-7ef657c430de",
+        "name": "Agencia El Kenko",
+        "phone": "(591-2) 2185510",
+        "addressName": "",
+        "latitude": "-16.55996388888889",
+        "longitude": "-68.19432777777779",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "8d2315c4-1c63-46dc-bc97-9cfb68463078",
+        "name": "16 de Julio",
+        "phone": "(591-2) 2185330",
+        "addressName": "",
+        "latitude": "-16.495125",
+        "longitude": "-68.17410000000001",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "8e2ab65f-e4a7-467b-a1c3-6c1c2607e770",
+        "name": "Villa Dolores",
+        "phone": "(591-2) 2185420",
+        "addressName": "",
+        "latitude": "-16.509244444444445",
+        "longitude": "-68.15890833333334",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "95ab7f18-fb76-488d-b0cb-828011345d29",
+        "name": "Pampahasi",
+        "phone": "(591-2) 2176900",
+        "addressName": "",
+        "latitude": "-16.499916666666667",
+        "longitude": "-68.10549999999999",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:30 a 17:30; Sábados: 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "98e30060-b558-4fdd-a84f-1b7771a119eb",
+        "name": "Agencia Quiswaras",
+        "phone": "(591-2) 2185520",
+        "addressName": "",
+        "latitude": "-16.54151666666667",
+        "longitude": "-68.23107777777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "a8d3def5-e094-445f-8994-8b74bd78aa82",
+        "name": "Camacho",
+        "phone": "(591-2) 2178630",
+        "addressName": "",
+        "latitude": "-16.49981388888889",
+        "longitude": "-68.13195277777777",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "adfa4e75-eade-4373-bae6-cdd4de7e13f4",
+        "name": "Ventanilla de Cobranza GAMLP",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.498066666666666",
+        "longitude": "-68.13335833333333",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:30; Sábado 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "aeb7f313-2373-4a67-982f-1a6d8367dfb9",
+        "name": "Ventanilla de Cobranza SIN - 20 de Octubre",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.507447222222222",
+        "longitude": "-68.12910555555555",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 a 14:30 a 18:30"
+        }
+    },
+    {
+        "id": "b83425b0-153e-4fd0-a973-be270a6d3e85",
+        "name": "Agencia Franz Tamayo",
+        "phone": "(591-2) 2185530",
+        "addressName": "",
+        "latitude": "-16.504144444444446",
+        "longitude": "-68.24852777777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "c0fe3177-f37b-4f46-ba9d-5be3e1babca4",
+        "name": "Chuquiaguillo",
+        "phone": "(591-2) 2176900",
+        "addressName": "",
+        "latitude": "-16.457952777777777",
+        "longitude": "-68.10143333333333",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:30 a 17:00; Sábados: 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "c5ff86b5-981a-4bf2-a6b7-700dc90b2600",
+        "name": "Agencia Tembladerani",
+        "phone": "(591-2) 2178770",
+        "addressName": "",
+        "latitude": "-16.511605555555555",
+        "longitude": "-68.1427",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "d125994d-d747-4890-93f7-9a8b10beff6d",
+        "name": "Villa Copacabana",
+        "phone": "(591-2) 2178730",
+        "addressName": "",
+        "latitude": "-16.496294444444445",
+        "longitude": "-68.11661944444444",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "d1b2b84e-773d-4e5b-b855-c4ef7e8bf075",
+        "name": "Ventanilla de Cobranza GAMLP II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.498066666666666",
+        "longitude": "-68.13335833333333",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:30; Sábado 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "d1c0b067-1da9-4b7d-91ec-0c08a9c586e3",
+        "name": "Ventanilla de Cobranza SIN - Garita",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.496297222222225",
+        "longitude": "-68.14427777777779",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 a 14:30 a 18:30"
+        }
+    },
+    {
+        "id": "d39bdaf4-1c92-416b-8a02-a5716a579129",
+        "name": "Ciudad Satélite",
+        "phone": "(591-2) 2185410",
+        "addressName": "",
+        "latitude": "-16.52433333333333",
+        "longitude": "-68.14947222222223",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "d8de1a86-de65-4d59-a0aa-a8b4728ff78a",
+        "name": "Agencia Móvil II La Paz",
+        "phone": "(591-2) 2842518/72038694",
+        "addressName": "",
+        "latitude": "-16.495136111111112",
+        "longitude": "-68.17411111111112",
+        "officeType": {
+            "officeTypeName": "Agencia Móvil",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:30 a 16:30; Sábado 09:30 a 13:00"
+        }
+    },
+    {
+        "id": "db1d98b2-642d-4fbf-8e20-70b0018c9301",
+        "name": "Agencia La Portada",
+        "phone": "(591-2) 2178760",
+        "addressName": "",
+        "latitude": "-16.488761111111113",
+        "longitude": "-68.16761666666667",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "dece1bf6-d5c0-4b5e-bdb0-eddd59b5e298",
+        "name": "Villa Fátima",
+        "phone": "(591-2) 2178590",
+        "addressName": "",
+        "latitude": "-16.48101111111111",
+        "longitude": "-68.1213611111111",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e0637e54-8d5b-492a-ad6a-b16108014892",
+        "name": "Villa Adela",
+        "phone": "(591-2) 2185360",
+        "addressName": "",
+        "latitude": "-16.53463055555556",
+        "longitude": "-68.19011111111112",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e14c4c68-423d-42a7-a0d0-572839116cb2",
+        "name": "Alonso de Mendoza",
+        "phone": "(591-2) 2178550",
+        "addressName": "",
+        "latitude": "-16.493975000000002",
+        "longitude": "-68.13750277777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e46e0384-c196-4b75-8f01-7a2074601060",
+        "name": "La Ceja",
+        "phone": "(591-2) 2185340",
+        "addressName": "",
+        "latitude": "-16.507675",
+        "longitude": "-68.16316944444445",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e4b0abcf-b847-43f0-990b-c522951fa274",
+        "name": "Agencia Mercado El Carmen RS",
+        "phone": "(591-2) 2185430",
+        "addressName": "",
+        "latitude": "-16.496666666666666",
+        "longitude": "-68.2149",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e59dbbe0-d04c-47b3-a60e-3307c4441e0f",
+        "name": "Ventanilla de Cobranza Terminal Metropolitana",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.51897222222222",
+        "longitude": "-68.17555555555556",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00"
+        }
+    },
+    {
+        "id": "e8f4df2b-87fb-4364-84a9-29f48f3ba973",
+        "name": "Ventanilla de Cobranza SIN - Plaza Villarroel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.48573888888889",
+        "longitude": "-68.12242222222221",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 a 14:30 a 18:30"
+        }
+    },
+    {
+        "id": "f1c9fb84-5651-49ee-b0b2-b33075765f77",
+        "name": "Agencia Periférica",
+        "phone": "(591-2) 2178750",
+        "addressName": "",
+        "latitude": "-16.48038611111111",
+        "longitude": "-68.12824722222221",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f52d8ebf-283a-4bd6-9d2d-08172bb2b506",
+        "name": "Viacha",
+        "phone": "(591-2) 2185370",
+        "addressName": "",
+        "latitude": "-16.653166666666664",
+        "longitude": "-68.30058333333334",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "VIACHA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f83d8a45-ef8a-44ee-a10b-e16fc0601d24",
+        "name": "Regional El Alto",
+        "phone": "(591-2) 2185300",
+        "addressName": "",
+        "latitude": "-16.495125",
+        "longitude": "-68.17410000000001",
+        "officeType": {
+            "officeTypeName": "Sucursal",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f9f92a80-33ff-41c2-be8a-1bb12a92c81e",
+        "name": "Agencia Villa Ingenio",
+        "phone": "(591-2) 2185540",
+        "addressName": "",
+        "latitude": "-16.485986111111114",
+        "longitude": "-68.20655000000001",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

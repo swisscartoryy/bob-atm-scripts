@@ -1,0 +1,266 @@
+[
+    {
+        "id": "351fff2f-7042-4494-aa65-8d18905d2638",
+        "name": "Sol Amigo 225 - Azari",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.081944444444446",
+        "longitude": "-65.23666666666666",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3d9d224e-e029-477c-817f-800963a4e91c",
+        "name": "Sol Amigo 227 - Las Delicias",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.027749999999997",
+        "longitude": "-65.25666666666666",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "43e4be65-bf24-4f38-889f-5a9e034f02ca",
+        "name": "Sol Amigo 245 - Uyuni",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.045208333333335",
+        "longitude": "-65.26722777777778",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes: 08:30 a 13:00 y de 14: 00 a 17:00 ,Sábados: 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "4b9a85e5-66ec-488f-814c-bc166ee5ddd0",
+        "name": "Sol Amigo 155 - Parada a Ravelo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.027780555555555",
+        "longitude": "-65.28121944444445",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "77ae5f97-8652-4d8e-94c6-f80a225952da",
+        "name": "Sol Amigo 260 - Paseo La Plata",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.044222222222224",
+        "longitude": "-65.25761111111112",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 13:00 y 14:00 a 17:00; sabados de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "9cb3dc63-4177-4329-b20f-bed333da47ab",
+        "name": "Sol Amigo 186 - Terminal de Buses II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.039069444444447",
+        "longitude": "-65.24735",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "9d04cff5-d62a-4b42-8342-739c2e2d1a88",
+        "name": "Sol Amigo 198 - Tomas Katari",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.018730555555553",
+        "longitude": "-65.26360833333334",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "a5ac11d1-dba7-45c0-a83e-1e7e02637399",
+        "name": "Sol Amigo 4 - Quiroga Santa Cruz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.02938888888889",
+        "longitude": "-65.24565",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "ac339574-baf9-428a-afb3-3b24bcb30ebb",
+        "name": "Sol Amigo 169 - Tomina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.184994444444445",
+        "longitude": "-64.46133888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "TOMINA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "becb0382-89bf-460c-8f49-f39f6270e0b7",
+        "name": "Sol Amigo 244 - El Tejar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.0634",
+        "longitude": "-65.27263888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes: 08:30 a 13:00 y de 14: 00 a 17:00 ,Sábados: 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f22e1702-125a-4763-9980-8cd4c838d3a3",
+        "name": "Sol Amigo 199 - San Antonio",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.050197222222224",
+        "longitude": "-65.24443611111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f6d6a82e-89f4-4fdb-b000-06781679e242",
+        "name": "Sol Amigo 155 - Juana Azurduy de Padilla",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.035866666666667",
+        "longitude": "-65.26119166666666",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

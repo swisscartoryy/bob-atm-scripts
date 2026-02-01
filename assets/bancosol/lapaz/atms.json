@@ -1,0 +1,2048 @@
+[
+    {
+        "id": "069035d0-0743-4fe0-b9f2-0a8e583e0316",
+        "name": "12 de Octubre II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.512916666666666",
+        "longitude": "-68.16269444444445",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "086e9464-f9c9-4a22-8b3b-21e9a1094f43",
+        "name": "UPEA",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.491947222222223",
+        "longitude": "-68.1931888888889",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "0bfcc1cd-13b0-4cc9-8ad2-7cfa6d0643a8",
+        "name": "Mercado El Carmen",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.49666388888889",
+        "longitude": "-68.21486388888889",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "12 horas"
+        }
+    },
+    {
+        "id": "11a55d77-cbd7-4334-a31a-eae4cf1127fd",
+        "name": "Camacho II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.499772222222223",
+        "longitude": "-68.13206388888888",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "11b5fe6e-17f4-42dc-beca-0770d32a09d7",
+        "name": "Comercio II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.495280555555556",
+        "longitude": "-68.13527500000001",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "12 horas"
+        }
+    },
+    {
+        "id": "1e76afaa-c2a2-4afb-a88b-969360a0a1ae",
+        "name": "Mercado Rodriguez",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.50220277777778",
+        "longitude": "-68.13765833333333",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "22b373ac-d632-4f25-8be7-5a74f16ebe9a",
+        "name": "Manco Kapac",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.493261111111114",
+        "longitude": "-68.14233333333334",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "2e89ea67-010d-45ce-9af0-abfc1fa08c10",
+        "name": "Viacha",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.653166666666664",
+        "longitude": "-68.30058333333334",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "VIACHA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "3059aa87-805a-49e6-a6c9-915269a291f8",
+        "name": "Camacho",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.499780555555557",
+        "longitude": "-68.13204999999999",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "30c61f61-5e1f-45e9-8b4f-441b36d68ed7",
+        "name": "Plaza Eguino",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.493436111111112",
+        "longitude": "-68.14028333333334",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "34c25f25-8201-4d75-8f66-a15cd43fb6f9",
+        "name": "Teleferico Morado",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.50006388888889",
+        "longitude": "-68.13523611111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "16 horas"
+        }
+    },
+    {
+        "id": "361b2e2b-2386-48d5-884e-8155b5d88a74",
+        "name": "Chacaltaya - A. Ugarte",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.499280555555558",
+        "longitude": "-68.17491666666668",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "374b9360-aab7-485e-bcd1-4e91ef5d4110",
+        "name": "Puente Vita",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.493625",
+        "longitude": "-68.14480833333334",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "37f8e9c9-c680-4e25-a941-6f07df672124",
+        "name": "Central BCO SOL",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.502422222222222",
+        "longitude": "-68.13450277777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático para personas con discapacidad Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "3845fff7-1fb5-4f13-b93a-56deb27c3937",
+        "name": "Santiago II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.536947222222224",
+        "longitude": "-68.1778388888889",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "3d61a777-d24d-4a4d-9f28-120c9f3adbe0",
+        "name": "Estación Amarilla Satelite",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.518172222222223",
+        "longitude": "-68.15093333333334",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "3e1bced9-d010-4444-be61-7e4c6b8fb964",
+        "name": "Montes",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.491405555555556",
+        "longitude": "-68.1392",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "44e01bad-e7f7-4409-a6f7-e0548b63e402",
+        "name": "San Miguel 24/7 II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.541436111111114",
+        "longitude": "-68.07684166666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Sin Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "462050ca-06a5-4391-a09c-8369e3e6bae6",
+        "name": "Río Seco",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.489725",
+        "longitude": "-68.20730555555556",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "12 horas"
+        }
+    },
+    {
+        "id": "463963a3-8bd7-4ee6-993e-f4fb8c86edec",
+        "name": "IV Centenario",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.516602777777777",
+        "longitude": "-68.1134",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "48461bff-3313-487e-ad4d-05091b328794",
+        "name": "Uyustus",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.49394722222222",
+        "longitude": "-68.14823055555556",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "48cf450e-4bc3-45e9-97f0-b3638e2f3e2d",
+        "name": "Terminal de Buses LPZ",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.48865277777778",
+        "longitude": "-68.14119722222223",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "4ec3126f-21b1-4b65-a247-708649eb6922",
+        "name": "Plaza España",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.514080555555555",
+        "longitude": "-68.12901388888888",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "4f3ab11b-b85d-458f-a2d0-80635096cc4a",
+        "name": "Tembladerani II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.511605555555555",
+        "longitude": "-68.1427",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "50be51af-b433-4090-9dc8-fb676af36049",
+        "name": "Chasquipampa II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.537147222222224",
+        "longitude": "-68.04706944444445",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "53c7d1c5-d999-4828-9ccf-acf7bc8aca2a",
+        "name": "Villa Dolores",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.50922222222222",
+        "longitude": "-68.15889444444446",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "592eae04-15ea-4e77-ab9a-58bed728cfe2",
+        "name": "Bolivia",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.519302777777778",
+        "longitude": "-68.2076388888889",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "5b7c0f95-3eca-4bde-870d-83ae6e259ef5",
+        "name": "Calacoto Calle 10",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.54050555555556",
+        "longitude": "-68.08932777777777",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "60f260b8-f1d8-4aaf-b098-c04946ba98ab",
+        "name": "Hotel Gloria",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.495658333333335",
+        "longitude": "-68.13588055555556",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "61b585d5-e517-4121-9cef-3882b18ba896",
+        "name": "Satélite",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.522944444444445",
+        "longitude": "-68.15301666666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "6845acfd-3d4f-41fa-b65a-e89898651f11",
+        "name": "Illampu II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.497608333333336",
+        "longitude": "-68.13929722222223",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "69b62b67-de57-4a3b-8ccc-cc564d695935",
+        "name": "Ventilla",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.619972222222223",
+        "longitude": "-68.18216666666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "13 horas"
+        }
+    },
+    {
+        "id": "6a594a1e-a96d-4787-b3a9-8abb3607e83c",
+        "name": "Puente Topater",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.500130555555554",
+        "longitude": "-68.15294166666668",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "6b0fdefb-a3c6-4652-bccb-eaf3c1a19920",
+        "name": "Bicentenario",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.504852777777778",
+        "longitude": "-68.13055833333333",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "6d5ad66e-a620-4729-bc5d-e9800fa64327",
+        "name": "Villa Adela",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.534625000000002",
+        "longitude": "-68.19009722222222",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "71685dc8-7b66-4303-b9b1-c11cb4df2d26",
+        "name": "Hotel Alexander- Zona 12 de Octubre (La Ceja)",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.507691666666666",
+        "longitude": "-68.16309722222223",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "72d0971c-5c69-40c2-a419-1792366027bf",
+        "name": "Terminal Metropolitana",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.51945",
+        "longitude": "-68.17612222222223",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "18 horas"
+        }
+    },
+    {
+        "id": "76e3643e-b45e-4534-b88e-bb0cee34f5f7",
+        "name": "Villa Copacabana",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.496294444444445",
+        "longitude": "-68.11663055555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "7bc3622c-b151-4abe-b090-2deac4a76f6b",
+        "name": "Mercado Achumani",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.530575",
+        "longitude": "-68.07354166666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8088bb06-7973-48f1-b668-7e61a2924eb5",
+        "name": "Obrajes Calle 16",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.52958611111111",
+        "longitude": "-68.10219166666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8297a9c1-2fac-4933-a874-acafd8d57365",
+        "name": "Villa El Carmen",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.468863888888887",
+        "longitude": "-68.11462499999999",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "82b64f18-bc81-4434-bba0-d54f9402ec0e",
+        "name": "Senkata",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.584791666666664",
+        "longitude": "-68.1853138888889",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "82ce0155-9ef5-4b49-8d3b-7b2188377477",
+        "name": "Villa Fátima",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.481058333333333",
+        "longitude": "-68.12136666666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "83746a6f-34b2-4a58-8670-e248fd986e50",
+        "name": "6 de Marzo - Teleférico Morado",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.52324722222222",
+        "longitude": "-68.16893611111112",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "86e65e3a-0343-445b-9be3-2cefd87809ec",
+        "name": "Hipermaxi Ciudad Satélite",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.527288888888886",
+        "longitude": "-68.14865277777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "12 horas"
+        }
+    },
+    {
+        "id": "8a179f4e-effd-4188-b056-61b70213fe50",
+        "name": "16 de Julio II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.495147222222222",
+        "longitude": "-68.17408888888889",
+        "officeType": {
+            "officeTypeName": "Cajero Automático para personas con discapacidad Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8b8f90dd-0955-4f9f-8323-48bde5a3932f",
+        "name": "Plaza el Condor",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.509091666666666",
+        "longitude": "-68.13537777777779",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8bcc5198-8d87-4324-b357-7872fb8762d2",
+        "name": "San Miguel 24/7 I",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.541436111111114",
+        "longitude": "-68.07684166666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Especial Externo - Sin Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8d9f328e-6bfb-41b9-a248-7075e2d48023",
+        "name": "Pza. Policía",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.52195",
+        "longitude": "-68.21000555555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "919e5a8a-e6fb-42a2-bc81-71ebcfc8c8f1",
+        "name": "Villa Victoria",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.49146111111111",
+        "longitude": "-68.15255833333335",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "926d32cc-f85e-49d7-bab4-df04c65cc4f1",
+        "name": "Multicine RS",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.491111111111113",
+        "longitude": "-68.20361111111112",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "95082cf6-604c-4875-9e05-33ad5fdae09a",
+        "name": "Av. Satélite C11",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.51678888888889",
+        "longitude": "-68.16550833333334",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "9594792d-fb83-4653-9690-679363dd68fd",
+        "name": "Extranca RS",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.49041111111111",
+        "longitude": "-68.20678611111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "95a14cc0-cc43-42d8-912d-4e4c34b2ad58",
+        "name": "Illampu",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.4963",
+        "longitude": "-68.13990555555556",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "97994581-b70f-4998-8da5-7cbb26097124",
+        "name": "Cota Cota II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.54120277777778",
+        "longitude": "-68.06133888888888",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "97a4edb7-65b4-48fd-9fe1-632e750439ca",
+        "name": "21 de Calacoto - Ketal",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.540394444444445",
+        "longitude": "-68.07793055555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "9c470b7f-9620-4a4f-9856-f2152bf8c43e",
+        "name": "Comercio",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.495355555555555",
+        "longitude": "-68.1347138888889",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "9c4b37fb-dbce-4f57-afdd-cec14b49ddd5",
+        "name": "Alto Obrajes",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.52048611111111",
+        "longitude": "-68.11012777777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "9e7cf05e-3193-4588-a199-5caf2cbbe868",
+        "name": "Sagárnaga",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.49759166666667",
+        "longitude": "-68.13871111111112",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "a06bdcae-b3e2-4589-9d1c-39be89881e5b",
+        "name": "Plaza Ballivian-Viacha",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.653325",
+        "longitude": "-68.30210555555556",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "VIACHA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "a0edd537-2fad-4eed-8bf8-a5a062597558",
+        "name": "Mercado Irpavi",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.524638888888887",
+        "longitude": "-68.08739166666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "a1e50687-ca2a-4a22-956a-df631a7f3585",
+        "name": "Miraflores",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.498969444444445",
+        "longitude": "-68.12403055555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "a2462e23-af7e-4d47-809b-a24c05d98eca",
+        "name": "La Ceja",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.507675",
+        "longitude": "-68.16314166666668",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "a6bc99b0-aaad-40b2-8aa9-d5dae784f945",
+        "name": "El Prado II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.501594444444443",
+        "longitude": "-68.1331111111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "a6c35fa7-8e9e-44e8-ba4f-2f4b53cf8b5f",
+        "name": "Evaristo Valle",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.49390277777778",
+        "longitude": "-68.13755277777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "aa55fd06-415b-4426-9a75-c6918ed45db2",
+        "name": "Teleferico Rojo EA",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.497508333333336",
+        "longitude": "-68.16473055555556",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "16 horas"
+        }
+    },
+    {
+        "id": "aec9988f-f6a4-4d40-b7cd-7be837d3889c",
+        "name": "Stadium Obrero",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.50373888888889",
+        "longitude": "-68.12138888888889",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "b156a837-572d-4181-8b4d-18bf66c6bc93",
+        "name": "Av. Las Américas",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.475827777777777",
+        "longitude": "-68.11874444444443",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "b645da80-cc04-4804-a2b5-5a4788fa1ddc",
+        "name": "Rotonda Cementerio Jardin",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.52354722222222",
+        "longitude": "-68.1211361111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "b68d9375-a21e-47bf-99ff-52f61e156e6b",
+        "name": "Satelite 2",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.52433333333333",
+        "longitude": "-68.14947222222223",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "bc431d99-e5ec-40a4-8b86-11625e91cf11",
+        "name": "Juan Pablo II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.502716666666668",
+        "longitude": "-68.16541944444445",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "bedf809a-493f-43f6-9520-9664731f660c",
+        "name": "Multicine (Cajero Automático de Lobby)",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.5109",
+        "longitude": "-68.12240277777776",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "17 horas"
+        }
+    },
+    {
+        "id": "c236bfe3-2148-4ac3-a8e2-64c6ea78f549",
+        "name": "El Tejar",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.495008333333335",
+        "longitude": "-68.15350833333333",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "12 horas"
+        }
+    },
+    {
+        "id": "c52d4deb-b270-4241-9ae0-732b5e6549da",
+        "name": "Garita",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.496755555555556",
+        "longitude": "-68.14445833333335",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "c539bb52-cbc4-4178-b633-29bff2c9d265",
+        "name": "Vino Tinto",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.481463888888886",
+        "longitude": "-68.13986944444446",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "cd9a4064-23ef-4e1b-8aaa-0845d374e25b",
+        "name": "Aeropuerto El Alto (Cajero Automático de Lobby)",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.509172222222222",
+        "longitude": "-68.17670833333334",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "cf43d047-9cd8-4f61-9b3f-37162c761c6b",
+        "name": "La Portada",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.488761111111113",
+        "longitude": "-68.16761666666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "cfdc5370-7d73-4886-bdf9-ff8d938ee9ee",
+        "name": "16 de Julio",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.495175",
+        "longitude": "-68.17404166666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "d48ac1cf-eeb3-4113-8113-deeae799133c",
+        "name": "6 de Marzo C4",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.50903611111111",
+        "longitude": "-68.16421944444446",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "d6727333-9c4b-4888-8386-329c8d467d50",
+        "name": "Villa Adela 2",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.534650000000003",
+        "longitude": "-68.19013055555556",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "e59ac37c-60bf-4b86-a03a-bb2be77818ac",
+        "name": "Cielo Mall",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.516394444444444",
+        "longitude": "-68.16584166666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "e5cf73f8-2807-42d8-bb58-04c3e3740236",
+        "name": "Villa Armonía",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.50816111111111",
+        "longitude": "-68.112725",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "e624b8d6-b65a-4a24-88ee-d02c2db47003",
+        "name": "Gran Poder",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.498619444444444",
+        "longitude": "-68.14077222222222",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "12 horas"
+        }
+    },
+    {
+        "id": "e6788768-527a-4734-98b0-afed1b6c0e4a",
+        "name": "Pasoskanqui",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.497375",
+        "longitude": "-68.11888611111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "e94d1366-fed7-4e77-8ed4-8272f7cbb902",
+        "name": "Mercado Yungas",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.49739166666667",
+        "longitude": "-68.12877222222221",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "f099b371-07ef-4a38-9529-d4abeab87ab7",
+        "name": "Pampahasi II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.501894444444446",
+        "longitude": "-68.10522499999999",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "f33b9468-c874-4089-9592-525d722275af",
+        "name": "Lagunas",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.48352777777778",
+        "longitude": "-68.23952777777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "12 horas"
+        }
+    },
+    {
+        "id": "f845d003-4a0b-441f-8110-6f94ff1af216",
+        "name": "Plaza Satélite",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.52433333333333",
+        "longitude": "-68.14947222222223",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "fac0639b-7b30-4433-a6c1-8bf0707f636b",
+        "name": "Ballivian",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.488844444444446",
+        "longitude": "-68.171625",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "12 horas"
+        }
+    },
+    {
+        "id": "fbc05546-e24b-4574-aa62-aaeed6592dc5",
+        "name": "Monumento Busch",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.49485277777778",
+        "longitude": "-68.12108888888888",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "fda82081-b998-4696-bbe0-34aea8a9bd0c",
+        "name": "Sanchez Lima",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.510341666666665",
+        "longitude": "-68.12769166666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "fe8cd1c5-81dc-4a1e-8e31-8f43fafd5259",
+        "name": "El Kenko",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.55698888888889",
+        "longitude": "-68.19308611111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "ff6be956-3050-44f7-87ab-2f5b1c2607a7",
+        "name": "12 de Octubre C.2",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-16.506733333333333",
+        "longitude": "-68.16254722222223",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    }
+]

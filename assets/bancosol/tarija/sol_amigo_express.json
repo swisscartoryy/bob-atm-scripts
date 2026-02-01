@@ -1,0 +1,1256 @@
+[
+    {
+        "id": "047eef4a-3cd8-4cc0-90e1-ab401051806f",
+        "name": "Luis Espinal - Ustarez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.53003888888889",
+        "longitude": "-64.70828611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 13:30 hrs. - 15:00 a 21:00 hrs. Y Sabado 08:00 a 13:30 hrs."
+        }
+    },
+    {
+        "id": "07887acb-e8df-46d0-b7f9-77583e5282c2",
+        "name": "Central - Castro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-22.73451111111111",
+        "longitude": "-64.34508888888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "BERMEJO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 12:00 y de 15:00 a 19:00"
+        }
+    },
+    {
+        "id": "0cc3cc69-b0fe-4ecd-a7dc-23093c105289",
+        "name": "Petrolero-Lopez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-22.0038",
+        "longitude": "-63.67520555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "YACUIBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 09:00 a 19:00"
+        }
+    },
+    {
+        "id": "0f69d537-89b2-4dfe-bf31-fcaeae24e6a7",
+        "name": "Los Olivos - Coronado",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.500219444444443",
+        "longitude": "-64.75562777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado:09:00 a 12:00 y 15:00 a 20:00 Domingo:09:00 a 13:00"
+        }
+    },
+    {
+        "id": "13b24a8e-5a9d-459d-b834-f3f86b692fcb",
+        "name": "Fray Quebracho - Mendoza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.49867777777778",
+        "longitude": "-64.73674166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "15cf1373-4595-48b1-96d5-d3794f384763",
+        "name": "Tabladita - Mendivil",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.536705555555557",
+        "longitude": "-64.75978055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo:  07:30 a 21:30"
+        }
+    },
+    {
+        "id": "18ba1370-0e52-4a53-911b-18e38d0dea98",
+        "name": "Torrecillas - Avila",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.559627777777777",
+        "longitude": "-64.67368055555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "1a86a4e1-025d-4d63-a5e0-2260e4b4687c",
+        "name": "Guadalquivir - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.52249722222222",
+        "longitude": "-64.74525277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "1d5f2afe-cb66-4f5b-97c2-567b01d03998",
+        "name": "Defensores del Chaco - Ballesteros",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.520233333333334",
+        "longitude": "-64.74272500000001",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "1f73b6b3-25a6-4462-8bdd-9497b7491cdd",
+        "name": "Senac - Coronado",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.539058333333337",
+        "longitude": "-64.74724722222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 12:30 y de 15:00 a 19:00"
+        }
+    },
+    {
+        "id": "1f9d2308-652f-4595-b887-4f78612df045",
+        "name": "15 de Junio - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.504191666666667",
+        "longitude": "-64.74215",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:00 a 12:00 y de 141:00 a 18:00; sabados de 07:00 a 12:00"
+        }
+    },
+    {
+        "id": "23799580-b807-4256-8e26-71ca7f077799",
+        "name": "Padcaya - Gomez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.888241666666666",
+        "longitude": "-64.71270555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "PADCAYA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 18:00 y sabados de 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "2392c24b-54bd-4469-8d3a-b68b4ee23f31",
+        "name": "3 de Mayo - Yana",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.51237777777778",
+        "longitude": "-64.73550833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 12:00 y de 15:00 a 19:00"
+        }
+    },
+    {
+        "id": "25b20cc3-ad8b-48e8-b7a6-84d8bb5ca0b1",
+        "name": "1° de Abril- Casazola",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.527708333333333",
+        "longitude": "-64.70443055555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "277848c2-bbe0-4d63-914a-dca2f26807d2",
+        "name": "San Lorenzo - Claure",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.41781388888889",
+        "longitude": "-64.74967222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "SAN LORENZO"
+        },
+        "openingHours": {
+            "hour": "Lunesz a sabado de 08:30 a 13:00 y 15:00 a 19:30"
+        }
+    },
+    {
+        "id": "29c5b6eb-a26f-42bb-a34e-6d3026ba6ae3",
+        "name": "Tomatitas Norte - Miranda",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.485158333333334",
+        "longitude": "-64.7587",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "SAN LORENZO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 12:30 y 14:00 a 20:00; Domingo de 08:30 a 12:30"
+        }
+    },
+    {
+        "id": "2bd68cf8-02f2-428c-8c9e-07cc47ee363b",
+        "name": "San Luis - Aguilera",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.5688",
+        "longitude": "-64.69925833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo:  08:00 a 21:00"
+        }
+    },
+    {
+        "id": "2e208e39-695b-43db-aeee-7c851703e879",
+        "name": "El Constructor - Ocampo.",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.521413888888887",
+        "longitude": "-64.71187222222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:30 a 22:00"
+        }
+    },
+    {
+        "id": "2ffbb423-a27e-4ed6-adac-6a24d51a7319",
+        "name": "Lourdes - Gutierrez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.513852777777778",
+        "longitude": "-64.722425",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 13:00 y 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "3414eed6-1bbb-425d-a50e-ca998b3b7f83",
+        "name": "4 de Julio - Arias",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.523469444444444",
+        "longitude": "-64.73603611111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 13:00 y 15:00 a 21:00; Sábado 08:00 a 13:00 y 15:00 a 21:00"
+        }
+    },
+    {
+        "id": "3570b343-4476-4a98-8045-12434107820d",
+        "name": "Pedro Antonio Flores - Rodriguez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.53119722222222",
+        "longitude": "-64.71889444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de  08:30 a 13:00 y de 15:00 a 19:00; Sabado de 07:30 a 13:00 y de 15:00 a 19:00"
+        }
+    },
+    {
+        "id": "43ad107d-b119-498d-8bf2-b7f804eba8d6",
+        "name": "El Carmen - Cuevas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.525805555555554",
+        "longitude": "-64.74078055555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 06:30 am a 23:59 pm"
+        }
+    },
+    {
+        "id": "4d0c8407-cb6d-4677-9bb6-124877e9de79",
+        "name": "3 De Mayo - Cayo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.508191666666665",
+        "longitude": "-64.73289444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado 08:00 a 12:00 hrs. Y 14:00 a 20:00 hrs."
+        }
+    },
+    {
+        "id": "4d2f0143-71d0-45fb-949f-b975753e1ea5",
+        "name": "San Jorge II – Chumacero",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.552675",
+        "longitude": "-64.69358611111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y de 14:00 a 18:00; Sabado de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "5379012c-17b0-44e8-94f3-8c6559c53411",
+        "name": "Morros Blancos - Rojas ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.54462777777778",
+        "longitude": "-64.6996388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "58a61d94-28f8-4b4d-a204-810809d4ae46",
+        "name": "Defensores del Chaco - Ramirez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.51770833333333",
+        "longitude": "-64.73923333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 12:30 y de 14:30 a 19:00"
+        }
+    },
+    {
+        "id": "58b6d4cd-7fe4-4a43-b242-d72bd02aad5c",
+        "name": "Senac - Villena",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.54180555555556",
+        "longitude": "-64.746725",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:30 am a 12:30 pm y 14:30 pm a 19:30 pm sabado 08:30 am a 12:00"
+        }
+    },
+    {
+        "id": "622906c0-6462-4ad0-8419-931d97153d77",
+        "name": "Lourdes - Ordoñez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.517052777777778",
+        "longitude": "-64.72285833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "6283a134-7bb8-4150-9988-9820e0b84f78",
+        "name": "El Tejar - Giron",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.545650000000002",
+        "longitude": "-64.72280555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00; Sabado de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "641838ee-7406-4975-9b1a-98d2df71c116",
+        "name": " Aeropuerto - Solórzano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.539625",
+        "longitude": "-64.701575",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 06:30 a 20:00"
+        }
+    },
+    {
+        "id": "667571af-bfe0-42e1-96d5-ffc421ca0d42",
+        "name": "Turumayo - Choque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.550036111111112",
+        "longitude": "-64.78027777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 08:00 a 22:00 "
+        }
+    },
+    {
+        "id": "6ba30a72-65ff-4180-bc12-5c84689b4ba8",
+        "name": "La Florida - Callapa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.517116666666666",
+        "longitude": "-64.7267638888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 11:00 y de 13:00 a 17:00; Sabados de 08:00 a 12:00 y Domingos de 09:00 a 12:00"
+        }
+    },
+    {
+        "id": "75f9e9a1-5cce-4ac1-b92d-12eae43b525c",
+        "name": "Villa Avaroa - Calizaya",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.522877777777776",
+        "longitude": "-64.7312388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 12:00 y 14:00 a 20:00, Domingo 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "7ba13f58-8c40-42c9-ba80-fa4d502efa3c",
+        "name": "Lourdes - Vilte",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.511411111111112",
+        "longitude": "-64.72924166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes:08:00 a 18:00 Sábado:08:00 a 14:00"
+        }
+    },
+    {
+        "id": "7fe9d843-81c6-4f74-94a3-93d4fdcef0f5",
+        "name": "San Gerónimo - Tejerina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.543644444444446",
+        "longitude": "-64.71619444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 20:00 y Sabados de 08:00 a 14:00"
+        }
+    },
+    {
+        "id": "828af0ed-72e3-45af-803c-d1627c259453",
+        "name": "San Mateo - Chocala",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.47308333333333",
+        "longitude": "-64.74367777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 06:00 a 22:00"
+        }
+    },
+    {
+        "id": "94a38d2d-426b-415a-9cbe-a829d8e5cf99",
+        "name": "Las Panosas - Calderon",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.534911111111114",
+        "longitude": "-64.73013888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sábado: 09:30 a 13:00 y 15:30 a 20:00"
+        }
+    },
+    {
+        "id": "97887958-9559-4ff6-a618-e0c5ef6b5e80",
+        "name": "San Antonio - Clemente",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.530672222222222",
+        "longitude": "-64.76041666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "9d552497-ef30-49ac-b1ac-4c06c44b23ab",
+        "name": "Salamanca - Gerez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.529352777777778",
+        "longitude": "-64.72339722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 22:00; Domingo de 08:30 a 18:00"
+        }
+    },
+    {
+        "id": "9fac1327-1610-47ec-b9d3-18fa67e884f1",
+        "name": "Valle Hermoso - Flores",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.49513888888889",
+        "longitude": "-64.71760833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "a1d5e9fc-fde3-4b7b-92a1-9bcc5321f7f5",
+        "name": "Andaluz - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.520374999999998",
+        "longitude": "-64.7192388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 13:00 y 15:00 a 20:00 "
+        }
+    },
+    {
+        "id": "a1e59ed3-9985-4516-a90e-e6eb34c2a80b",
+        "name": "La Florida - Segovia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.517055555555554",
+        "longitude": "-64.72940833333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 07:30 a 20:00"
+        }
+    },
+    {
+        "id": "a490db17-ce64-4a04-829f-7af967e5d8b3",
+        "name": "Juan XXIII - Riera",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.538130555555558",
+        "longitude": "-64.71231944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00  a 20:00"
+        }
+    },
+    {
+        "id": "a5f99307-b822-4a13-bc65-200b3ae3ac35",
+        "name": "IV Centenario - Garcia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.519530555555555",
+        "longitude": "-64.73765277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 12:00 y de 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "ad374673-2a96-4e87-8d4e-2ad14842583e",
+        "name": "Villa Avaroa - Cruz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.524991666666665",
+        "longitude": "-64.72981388888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes:07:00 a 21:00 Sábado:09:00 a 13:00 Domingo: 16:00 a 20:00"
+        }
+    },
+    {
+        "id": "bd70f609-bd19-4780-832f-8332cf21f979",
+        "name": "Los Chapacos - Segovia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.511055555555554",
+        "longitude": "-64.73996111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado:08:30 a 19:30"
+        }
+    },
+    {
+        "id": "cfb6f388-d25d-4345-8f9d-98b5484ed5af",
+        "name": "Petrolero - Pinaya",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-22.000794444444445",
+        "longitude": "-63.67509166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "YACUIBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado 08:30 am a 12:30 pm y 15:00 pm a 20:00pm Domingo 08:30 a 12:30 pm"
+        }
+    },
+    {
+        "id": "d8106c7e-84ec-44e2-a4c8-0823db8e7463",
+        "name": "Calamuchita - Nieves",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.700966666666666",
+        "longitude": "-64.62118888888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "VALLE CONCEPCION"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabados de 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "d8bf9fc6-5134-44ac-aca4-0ae11b17b558",
+        "name": "La Loma - Angelo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.523394444444442",
+        "longitude": "-64.73964722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "dc2a9b5e-7ede-4d30-a5b3-526db23dff27",
+        "name": "Lourdes - Cazon",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.510883333333332",
+        "longitude": "-64.72450555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "dc4af8a9-694d-45b1-af14-57909db7c77b",
+        "name": "San Roque - Torrico",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.53025",
+        "longitude": "-64.73701111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sábado: 08:30 a 21:00"
+        }
+    },
+    {
+        "id": "df6867bc-25ca-49c8-ac9e-339993db6e18",
+        "name": "El Tejar - Valdez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.543725000000002",
+        "longitude": "-64.72649722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "e9168841-4754-43e9-b081-1c5afe559d87",
+        "name": "El Tejar - Avila",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.541780555555558",
+        "longitude": "-64.72449166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "ec1f5748-68c6-4a35-bdea-6b64366e961f",
+        "name": "Los Chapacos - Tejerina ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.51185",
+        "longitude": "-64.7427888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:00 a 12:30 y 15:00 a 19:00; Sabado 08:00 a 16:00."
+        }
+    },
+    {
+        "id": "ec5c3ff2-6fb5-4440-85ab-6e324a549ac3",
+        "name": "San Mateo - Oquendo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.48705277777778",
+        "longitude": "-64.75101666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "f0382c09-d71d-4257-8fb2-c77b2b4da019",
+        "name": "La Union - Lopez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.50813888888889",
+        "longitude": "-64.75206944444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "f442b00d-35c1-4ed0-9782-78bede9d5873",
+        "name": "Defensores del Chaco-Coronado",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.520322222222223",
+        "longitude": "-64.74126666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 12:00 y 15:00 a 19:00"
+        }
+    }
+]

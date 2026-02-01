@@ -1,0 +1,68 @@
+[
+    {
+        "id": "29360e43-77bd-4a7b-8245-08404e58c46f",
+        "name": "Uyuni",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.578736111111112",
+        "longitude": "-65.753375",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSÍ"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "6b424ccd-e1b1-4547-95ec-7705a721984f",
+        "name": "Boulevard",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.589777777777776",
+        "longitude": "-65.75242777777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSÍ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "9eab393d-2323-4595-835c-b967182dda3b",
+        "name": "Avenida Murillo",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.572166666666668",
+        "longitude": "-65.766475",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSÍ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    }
+]

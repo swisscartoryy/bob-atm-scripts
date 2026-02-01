@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1e217cfb-cc6b-47b4-bb06-47cd60833d40",
+        "name": "Agencia Tajibos",
+        "phone": "(591-3) 2185593",
+        "addressName": "",
+        "latitude": "-11.033380555555555",
+        "longitude": "-68.77506666666666",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "PANDO",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COBIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

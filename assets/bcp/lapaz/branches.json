@@ -1,0 +1,93 @@
+[
+    {
+        "Ciudad": "La Paz",
+        "Oficina": "Agencia Miraflores",
+        "Dirección": "Avenida Saavedra N 1845",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "La Paz",
+        "Oficina": "Sucursal La Paz",
+        "Dirección": "Calle Colón esquina Mercado Nro. 1308",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "El Alto",
+        "Oficina": "Agencia El Alto",
+        "Dirección": "Avenida 6 de Marzo S/N esquina Evadidos del Paraguay Villa\n                                                            Bolivar A",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "El Alto",
+        "Oficina": "Oficina de Negocios 6 de Marzo",
+        "Dirección": "Av. 6 de Marzo esquina E. Paraguay No. 334",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "La Paz",
+        "Oficina": "Agencia San Miguel",
+        "Dirección": "Avenida Montenegro esquina calle 21, Calacoto",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "La Paz",
+        "Oficina": "Agencia Obrajes",
+        "Dirección": "Av. Hernado Siles esq. Calle 10 - Obrajes",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "El Alto",
+        "Oficina": "Agencia Villa Adela",
+        "Dirección": "Av. Bolivia esquina camino a Viacha N° 1415 Cruce Villa\n                                                            Adela.",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "La Paz",
+        "Oficina": "Agencia Mercado Achumani",
+        "Dirección": "Calle 16 de Achumani N 6, Mercado de Achumani",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "La Paz",
+        "Oficina": "Agencia Tumusla",
+        "Dirección": "Avenida Tumusla No. 753 entre Av. Buenos Aires y Plaza Garita\n                                                            de Lima, Zona 14 de septiembre",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "La Paz",
+        "Oficina": "Agencia Arce",
+        "Dirección": "Avenida Arce esquina Romecín Campos No. 2675",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "La Paz",
+        "Oficina": "Agencia Calacoto",
+        "Dirección": "Edificio Green Tower, subsuelo 1, avenidas Gral. Clemente\n                                                            Inofuentes y Gral. Ballivian N°1075 y N°1087, entre calles\n                                                            17 y 18, Zona de Calacoto",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "El Alto",
+        "Oficina": "Agencia Ciudad Satélite",
+        "Dirección": "Avenida Satélite Plan 561 Calle 15B No. 573 - Ciudad Satélite",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    },
+    {
+        "Ciudad": "La Paz",
+        "Oficina": "Agencia 20 de Octubre",
+        "Dirección": "Avenida 20 de Octubre 2315, entre Belisario Salinas y Rosendo\n                                                            Gutierrez",
+        "HorarioLun.- Vie.": "09:00 a 16:00",
+        "HorarioSábado": "09:00 a 13:00"
+    }
+]

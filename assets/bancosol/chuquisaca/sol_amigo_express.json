@@ -1,0 +1,1916 @@
+[
+    {
+        "id": "0336cc1c-2d48-4ec1-ab96-b923c3d59d6b",
+        "name": "Totacoa - Besacho",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.15872222222222",
+        "longitude": "-65.24494444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "TOTACOA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 22:00;Sábado 08:00 a 22:00; Domingo 08:00 al 22:00"
+        }
+    },
+    {
+        "id": "0a6fb91a-f489-4e86-a43d-55d565480517",
+        "name": "M.A. Padilla - Garnica",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.039322222222225",
+        "longitude": "-65.25520555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "0d241ebf-2ed4-4818-9707-af0b5bef7f9a",
+        "name": "Inca Garcilazo - Lopez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.037311111111112",
+        "longitude": "-65.24258055555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "12a2ad6d-16d6-43c7-b677-cfbc052cd2b7",
+        "name": "Presto - Puma",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.934408333333334",
+        "longitude": "-64.93905555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "PRESTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 06:00 a 22:00"
+        }
+    },
+    {
+        "id": "13451e82-119d-435a-a76d-4c64e9deeba3",
+        "name": "Av. Dtto. Chuquisaca - Baptista",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.07061111111111",
+        "longitude": "-65.27251666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 09:00 a 22:00"
+        }
+    },
+    {
+        "id": "13d45188-a99f-43e7-b7d2-75cd6e1a7d09",
+        "name": "Av. Jaime Mendoza - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.036958333333335",
+        "longitude": "-65.2668361111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:00 a 21:30; sabado y domingo 09:00 a 21:30"
+        }
+    },
+    {
+        "id": "196dafb8-daf2-42bc-bb8a-d8428ed30d69",
+        "name": "Av. Estados Unidos - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.008861111111113",
+        "longitude": "-65.28323333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 21:00; Domingo 08:00 a 14:00"
+        }
+    },
+    {
+        "id": "19adb10f-5a65-4661-9082-63082dd3ace3",
+        "name": "25 de Julio - Barron",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.986922222222223",
+        "longitude": "-65.27509722222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 22:00, domingo de 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "1dcb4b11-d4be-454c-ab85-1d4d9c817863",
+        "name": "Av. German Busch-Aduviri",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.034105555555556",
+        "longitude": "-65.25940277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:00 a 21:00 sabado y domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "2359fdd8-7ee4-4f66-9026-169c83e85edc",
+        "name": "Av. Jaime Mendoza - Camargo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.041452777777778",
+        "longitude": "-65.25288055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:30 a 22:30"
+        }
+    },
+    {
+        "id": "23c4b5b2-d1f1-4215-8707-3faf0483ebee",
+        "name": "Los Olmos - Gomez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.029594444444445",
+        "longitude": "-65.26436666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 19:00"
+        }
+    },
+    {
+        "id": "24be6c2b-e3e0-425e-b643-1148926abcdc",
+        "name": "Av. Del Maestro - Nina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.035625000000003",
+        "longitude": "-65.25839444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 y 14:30 a 20:00; Sábados 08:30 a 12:30 y 14:30 a18:00"
+        }
+    },
+    {
+        "id": "255952ea-5c05-45a3-a1fa-179fcba2e8ae",
+        "name": "El Salvador-Delgadillo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.042305555555558",
+        "longitude": "-65.24393055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de hrs 09:00 a 12:30 y de 15:00 a 19:00, sabado de 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "25e3d917-e91d-4b18-8071-7e76d7a7df0b",
+        "name": "Av. Hernando Siles - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.043122222222223",
+        "longitude": "-65.26031944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de Hrs 08:00 a 22:00 y Domingo  de Hrs 09:00 a 22:00"
+        }
+    },
+    {
+        "id": "283d344c-09fd-413e-9c64-9d606cba9816",
+        "name": "Av. M. Q. Sta. Cruz - Salazar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.021155555555556",
+        "longitude": "-65.2487",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de Hrs. 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "2e382c7a-f020-4db5-bf43-3dfa95173761",
+        "name": "Av. Atahuallpa - Zarcillo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.000725",
+        "longitude": "-65.26843611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 06:00 a 21:30"
+        }
+    },
+    {
+        "id": "2f3f098a-f325-4d88-840e-303af35adcc5",
+        "name": "Av. J. A. de Padilla - Velez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.015769444444445",
+        "longitude": "-65.28345",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "2fd88f25-28da-465b-a26a-81779ba2bd7d",
+        "name": "B. Molle Mocko - Villarroel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.063375",
+        "longitude": "-65.29043055555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 22:00 y domingos de 07:00 a 13:00"
+        }
+    },
+    {
+        "id": "347aa96d-1889-4f76-be08-b5c81b3fc0a4",
+        "name": "Mercado Poconas- Valverde",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.047358333333335",
+        "longitude": "-65.24927777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 19:00 y domingo de 09:00 a 15:00"
+        }
+    },
+    {
+        "id": "37ca9fe4-bbd2-4e2d-8e74-7b4cac0bfc7c",
+        "name": "Ottawa – Miranda",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.01921111111111",
+        "longitude": "-65.26133055555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "3b15c0cd-3c43-470f-b0df-2b8081a1ef05",
+        "name": "Av. Santa Fe - Choque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.048822222222224",
+        "longitude": "-65.23941944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes  a Domingo de Hrs 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "3b6005a0-8f51-4564-956a-a80c1ad81a6b",
+        "name": "6 de Junio-Chambi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.028194444444445",
+        "longitude": "-65.26747222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "3b9b6a59-4cea-4403-9f02-cfcb156038da",
+        "name": "Av. Tokio - Urquizu",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.05288611111111",
+        "longitude": "-65.2363111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:00 a 21:00; sabado 07:00 a 18:30"
+        }
+    },
+    {
+        "id": "41a322f9-f33f-4288-80b8-207f8beede5a",
+        "name": "Rene Moreno - Otondo ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.045975000000002",
+        "longitude": "-65.26554444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 07:00 a 19:00"
+        }
+    },
+    {
+        "id": "46c2e7e0-fdd7-44c2-8496-6460b6f98f03",
+        "name": "Padilla - Diaz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.307994444444446",
+        "longitude": "-64.30333888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "PADILLA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "575499c9-463c-4299-9ac7-34cfe8539e36",
+        "name": "Yotala- Manzano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.16212222222222",
+        "longitude": "-65.26417777777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "YOTALA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 06:00  a 22:00"
+        }
+    },
+    {
+        "id": "5ac37486-7236-4e8c-88d8-6bd23cdf6d45",
+        "name": "Surima - Dias",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.77796111111111",
+        "longitude": "-65.12807222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SURIMA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 06:00 a 22:00"
+        }
+    },
+    {
+        "id": "5c5f5ef7-4006-4be5-b3bf-0d546c791a4b",
+        "name": "Destacamento 130-Llave",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.037633333333336",
+        "longitude": "-65.25041944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 18:30 y Sabado de 09:00 a 15:00"
+        }
+    },
+    {
+        "id": "5df25ea7-a9fa-4d11-a8a6-a971d805acf5",
+        "name": "Av. Circunvalación-Albis",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.015830555555556",
+        "longitude": "-65.25294444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de Hrs. 06:30 a 21:30"
+        }
+    },
+    {
+        "id": "5f3b9201-28d7-4815-91f2-eb12505dd018",
+        "name": "Tarabuco - Gomez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.182266666666667",
+        "longitude": "-64.91525277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "TARABUCO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 13:00  y   14:30 a 20:00, Sábado 08:00 a 14:00 y Domingo 09:00 a 19:00"
+        }
+    },
+    {
+        "id": "621873b4-1007-4efb-ad7d-34845643fee4",
+        "name": "Av. P. Joaquín Gantier - Mallcu",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.02550833333333",
+        "longitude": "-65.25881111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 13:00 y de 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "639821e3-25b0-43e7-8a0e-652191e1a3f4",
+        "name": "Av. Los Frutales - Chillo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.02343611111111",
+        "longitude": "-65.26874166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 23:00"
+        }
+    },
+    {
+        "id": "6970bd07-8e71-4cf1-aaa2-fd9b0ddbc370",
+        "name": "Fe & Alegria - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.03677777777778",
+        "longitude": "-65.26508333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:30 a 22:30;Sábado 07:30 a 22:30; Domingo 07:30 a 22:30"
+        }
+    },
+    {
+        "id": "6a00c5d1-7c7f-4a5d-ab5c-1890c7cfb5d8",
+        "name": "Aniceto Solarez  - Poveda",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.037744444444446",
+        "longitude": "-65.25766666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 21:30"
+        }
+    },
+    {
+        "id": "6aaefca2-4779-4e06-a1e6-84d98956d9a0",
+        "name": "Av. Aranjuez - Rueda",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.044280555555556",
+        "longitude": "-65.27281388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "6b38aed5-6e56-4497-afdb-248c4581f8c6",
+        "name": "Pje. Setesur - Perez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.032233333333334",
+        "longitude": "-65.25401944444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de Hrs. 08:00 a 12:30 y de 15:00 a 18:30, Sabado de 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "7b83f903-6e90-41c6-a523-9abbd7e11da1",
+        "name": "Eduardo Berdecio - Gonzales",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.046083333333335",
+        "longitude": "-65.25116666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 13:00 y 14:30 a 22:00; Sábados 09:00 a 13:00 y 15:00 a 22:00; Domingo 09:00 a 13:00 y 15:00 a 22:00"
+        }
+    },
+    {
+        "id": "7fc91fb0-37a4-4b1f-8da2-6ac021fa49f4",
+        "name": "Mercado El Morro- Michel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.026966666666667",
+        "longitude": "-65.24781944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 08:00 a 18:00 Y Domingo de 08:00 a 16:00"
+        }
+    },
+    {
+        "id": "850b6d9c-b185-4a88-96f8-3006235af984",
+        "name": "Av. Diagonal J.M. - Huanca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.069033333333334",
+        "longitude": "-65.24295555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:30 a 21:00; Domingo 10:00 a 20:00"
+        }
+    },
+    {
+        "id": "882ec35d-0cfc-4c68-80fa-c94b2d3695b6",
+        "name": "Mercado Campesino - Nina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.033194444444444",
+        "longitude": "-65.25422222222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:30 a 23:00  "
+        }
+    },
+    {
+        "id": "895d8038-b1bd-459d-bbf3-849b904c8f7a",
+        "name": "Mercado Abasto Azari - Huaywa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.082180555555556",
+        "longitude": "-65.23328333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y de  14:00 a 16:00; sabado y domingo de 09:00 a 12:00"
+        }
+    },
+    {
+        "id": "8c71859a-f24f-4dfd-ac24-31084cfe97e1",
+        "name": "Adrián Camacho - Medina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.025577777777777",
+        "longitude": "-65.24580833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 07:30  a 12:30 y de 15:00 a 20:00 Sábado de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "8ca0c5bd-c381-4a02-a9d1-cbe8daf20bd4",
+        "name": "27 de mayo - Moscoso",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.020330555555553",
+        "longitude": "-65.27618611111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de Hrs. 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "8e7bad69-8a1f-4918-816a-2c1ad35744df",
+        "name": "Av. Los Libertadores - Herrera",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.03604166666667",
+        "longitude": "-65.24071666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "8fe5f291-4875-4d5d-886f-3fdd0e6bdb2c",
+        "name": "Julio Villa - Aguilar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.02507222222222",
+        "longitude": "-65.26104722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes   08:30 a 19:00 ; Sábado y Domingo  08:30  a 21:00"
+        }
+    },
+    {
+        "id": "94708cf6-7f13-4df4-b851-0d047788b383",
+        "name": "Tupac Yupanqui - Valda",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.04950277777778",
+        "longitude": "-65.24614444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00; Domingo 13:00 a 20:00"
+        }
+    },
+    {
+        "id": "968a45a3-feda-4189-a9ca-2cd552dd75a7",
+        "name": "Potolo - Cayhuara",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.01645",
+        "longitude": "-65.53539166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "POTOLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 10:00 y de 15:00 a 22:00"
+        }
+    },
+    {
+        "id": "99f68e50-1d36-4eba-9961-ae8e6523045a",
+        "name": "Romero Linares - Achucarro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.02219722222222",
+        "longitude": "-65.25767777777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 21:00 y domingo de 09:00 a 12:00"
+        }
+    },
+    {
+        "id": "9be8bd6a-14f4-4d4f-b4e3-2c46982e45b7",
+        "name": "Nataniel Aguirre - Apaza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.039752777777778",
+        "longitude": "-65.2492388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de Hrs. 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "a0a7fdec-59b5-4193-91d5-1c7691c92b32",
+        "name": "Av. Navarra - Alvarez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.0173",
+        "longitude": "-65.29354166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "a1a96618-3c7b-4b4e-9ab7-1129a6111527",
+        "name": "Av. Dtto. Chuquisaca- Barrios",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.057555555555556",
+        "longitude": "-65.27128333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de Hrs. 07:00 a 22:00 y Domingo de Hrs 07:00 a 13:00"
+        }
+    },
+    {
+        "id": "a6061dcf-bf1e-4b37-9792-35e17a6f3ae5",
+        "name": "Av. Simón Bolívar - Villafuerte",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.031841666666665",
+        "longitude": "-65.28063333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 06:00 a 22:00"
+        }
+    },
+    {
+        "id": "a8729d43-893d-4812-b09f-08887d26a9cc",
+        "name": "M.A. Padilla - Cruz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.051283333333334",
+        "longitude": "-65.25546111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:30 a 18:00 y sabados de 09:00 a 12:00"
+        }
+    },
+    {
+        "id": "aaccf301-c04e-49fe-a75c-e8eecb80e856",
+        "name": "Av. Navarra - Miranda ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.014394444444445",
+        "longitude": "-65.30836666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado 08:00 a 21:30 y Domingos de 13:00 a 20:00"
+        }
+    },
+    {
+        "id": "abfc34a0-b53c-4b7d-8d34-3052632ec11a",
+        "name": "Av. Juana Azurduy - Paca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.012816666666666",
+        "longitude": "-65.28733333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:30 a 19:00; Sábados 08:00 a 16:00"
+        }
+    },
+    {
+        "id": "b1ae1df1-c711-4426-a776-98f6e23c29c8",
+        "name": "Av. Diagonal J.M. - Yucra",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.06969722222222",
+        "longitude": "-65.2427888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 07:00 a 20:00 y  Domingos de 09:00  a 12:00"
+        }
+    },
+    {
+        "id": "b44f15b3-1102-4805-b756-615531f354f3",
+        "name": "Marzana - Montalvo ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.03248333333333",
+        "longitude": "-65.25620555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 09:00 a 13:00 y de 15:00 a 19:00; Domingos 10:00 a 13:00 "
+        }
+    },
+    {
+        "id": "bc6238d7-b9de-4902-a118-e7d6cebf356c",
+        "name": "A. Jauregui - Martinez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.048083333333334",
+        "longitude": "-65.24478611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes  viernes de Hrs 08:30 a 12:00 y de 14:00 a 18:30, Sabado de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "bc668439-17ab-4f1e-a75f-d5b1ef59b17c",
+        "name": "Av. 6 De Agosto - Ayma",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.021036111111112",
+        "longitude": "-65.28546944444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  8:00 22:00 ; Sábados 8:00 22:00 y Domingo 8:00 22:00"
+        }
+    },
+    {
+        "id": "c1829b2f-b75e-4957-b967-0310a50893bd",
+        "name": "San Alberto - Mendoza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.046308333333336",
+        "longitude": "-65.25883611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:30 21:00 y domingo 08:00 a 15:30"
+        }
+    },
+    {
+        "id": "c51a2877-4515-4f07-b35a-32bb7b044020",
+        "name": "Aragon - Humerez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.02421111111111",
+        "longitude": "-65.28683055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "c535ae96-3e45-4fe5-bbdd-8a3f098edee9",
+        "name": "Daniel Sánchez - Gonzales",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.029341666666667",
+        "longitude": "-65.25560277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de Hrs 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "c81a5230-af02-4238-85c5-052291388584",
+        "name": "Av. M.Q.Sta. Cruz - Saci",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.02886388888889",
+        "longitude": "-65.24572777777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "c890ae16-68a3-4ca1-b441-18803ae276a8",
+        "name": "España - Condorcett",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.046444444444447",
+        "longitude": "-65.25761388888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de Hrs 09:00 a 13:00 y de 15:00 a 18:00, Sabado de 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "c8df3920-f68e-4e68-9862-2c847cc0afa2",
+        "name": "B. Jerusalen - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.029394444444442",
+        "longitude": "-65.30038333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de Hrs. 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "c93876b8-513d-4940-a8a2-5d828a762c22",
+        "name": "Av. M. Q. Sta. Cruz - Uyuni",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.016075",
+        "longitude": "-65.24991111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 18:00; Domingo de 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "ca94afc3-8a5d-46c5-9261-400dacb771c8",
+        "name": "Av. Julio Villa - Lázaro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.017558333333334",
+        "longitude": "-65.25680555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 17:00; sabados de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "cb3e8b77-4c2f-4f25-9abf-d424d5e72df1",
+        "name": "B. Cessa-Rios",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.005619444444445",
+        "longitude": "-65.25525833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de hrs 07:00 a 22:00 "
+        }
+    },
+    {
+        "id": "cb5d8c9d-61e2-4c1b-9283-c2dc65a5f84c",
+        "name": "Junín - Villca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.053230555555555",
+        "longitude": "-65.26626944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "ce2c329d-ddb7-4572-83ed-c6b744e2f3dc",
+        "name": "San Lucas-Nieto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.05856111111111",
+        "longitude": "-65.26614722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 06:00 a 22:00"
+        }
+    },
+    {
+        "id": "cf45c30b-e884-4b5c-b8fc-198866ed3c8c",
+        "name": "Av. Diagonal J.M. - Peñaranda",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.07976111111111",
+        "longitude": "-65.2382638888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 20:00; Domingo de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "d282b295-c728-4075-bba1-392f0c301be8",
+        "name": "Claudio Peñaranda - Apaza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.03527777777778",
+        "longitude": "-65.25416666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a12:00 y de 14:00 a20:00, domingos de 09:00 a 14:00"
+        }
+    },
+    {
+        "id": "d2e3fbc2-974a-4a56-8b20-26f2ff4b80c2",
+        "name": "Av. J. Mendoza - Urquizo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.049680555555558",
+        "longitude": "-65.24815277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  08:00  a 21:00"
+        }
+    },
+    {
+        "id": "d4529bbf-7865-4f97-8ed5-72b61c7815a5",
+        "name": "Av. Jaime de Zudañez - Barral",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.057861111111112",
+        "longitude": "-65.27743333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 22:00; Domingo 17:00 a 22:00"
+        }
+    },
+    {
+        "id": "d4f296c3-5faa-42b2-a8b7-7e2d8d410a36",
+        "name": "Ckora Ckora - Quiroga",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.08206111111111",
+        "longitude": "-65.21900833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "d7302c09-18d1-4ed7-b15b-7b5b609c0737",
+        "name": "Emilio Mendizabal - Arandia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.037972222222223",
+        "longitude": "-65.24224166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:00 y 14:30 a 20:00; Sábados 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e060e587-7c05-4fad-bc77-d71bde4bedbd",
+        "name": "Av. de Las Américas - Méndez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.04384166666667",
+        "longitude": "-65.24553055555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 09:00 a 13:00 y de 16:00 a 22:00"
+        }
+    },
+    {
+        "id": "e69461f7-a99e-4b34-b9d1-a55aad556524",
+        "name": "Av. Republica - Medina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.02566388888889",
+        "longitude": "-65.27766388888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 06:00 a 20:00; Domingo 06:00 a 13:00"
+        }
+    },
+    {
+        "id": "ec35d404-8c41-4271-905b-d8309c5c5a58",
+        "name": "Olañeta - Pampa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.04325",
+        "longitude": "-65.26781388888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "ecf7dff9-a4e0-4209-8c39-00779a192dcc",
+        "name": "B. Betania - Lezano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.024963888888887",
+        "longitude": "-65.30595277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de Hrs 08:00 a 12:00 y de 15:00 a 20:00"
+        }
+    },
+    {
+        "id": "ed5d243e-8a8b-4bbf-959e-3c16da8a814c",
+        "name": "Villa Serrano - Medina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.1217",
+        "longitude": "-64.32368333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "VILLA SERRANO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "ee43e576-6fb5-434f-8837-78acff3cbe74",
+        "name": "G. de las Cuevas - Sunagua",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.029130555555554",
+        "longitude": "-65.24436111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:30 a 21:00"
+        }
+    },
+    {
+        "id": "eef81e31-425e-4e91-a758-e0c40a0663c2",
+        "name": "El Villar - Rios",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.629825",
+        "longitude": "-64.30975",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 21:00 ; Sábado y Domingo  08:00  a 12:00"
+        }
+    },
+    {
+        "id": "f98c7704-7cf3-4bec-a437-19224f46e176",
+        "name": "Calama - Mollo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.04126666666667",
+        "longitude": "-65.26773333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00a 22:00, sabado y domingo de 09:00 a 22:00"
+        }
+    },
+    {
+        "id": "fbeafd2a-f3d9-4b90-8034-d41a49c84f81",
+        "name": "Barrio America - Paco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.060833333333335",
+        "longitude": "-65.26694444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "fc58d16a-b225-49e9-8912-e669cf7df3d2",
+        "name": "Dtto. 317-Cayo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.042811111111114",
+        "longitude": "-65.24824722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de hrs 07:00 a 19:00"
+        }
+    },
+    {
+        "id": "fe1d2fb5-1488-45cc-b06e-6e95ca6bc527",
+        "name": "Jesús Lara-Duran",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.03061111111111",
+        "longitude": "-65.25368611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de hrs 07:00 a 22:00 y domingo de hrs 07:00 a 12:00"
+        }
+    }
+]

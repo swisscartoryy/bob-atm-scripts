@@ -1,0 +1,178 @@
+[
+    {
+        "id": "0f77e41e-eb64-4a43-a302-06d347ed022f",
+        "name": "Mercado Campesino",
+        "phone": "(591-4) 6123701",
+        "addressName": "",
+        "latitude": "-21.521258333333332",
+        "longitude": "-64.74196388888889",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "55728c0b-2849-41e7-9635-13eb579e3eba",
+        "name": "Agencia 15 de Abril",
+        "phone": "(591-4) 6123705",
+        "addressName": "",
+        "latitude": "-21.533125",
+        "longitude": "-64.73452222222222",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "65952e5a-a94f-46bc-9807-ad5338535937",
+        "name": "Palmarcito",
+        "phone": "(591-4) 46123702",
+        "addressName": "",
+        "latitude": "-21.532916666666665",
+        "longitude": "-64.71691666666666",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:30 a 17:00; Sábados: 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "815e414e-9246-4cbb-b437-43353cbf9f82",
+        "name": "Regional Tarija",
+        "phone": "(591-4) 6123700",
+        "addressName": "",
+        "latitude": "-21.533125",
+        "longitude": "-64.73452222222222",
+        "officeType": {
+            "officeTypeName": "Sucursal",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "a13f14e6-aece-49d5-85eb-09325eca0893",
+        "name": "Agencia Yacuiba",
+        "phone": "(591-4) 6826561/6826599/6826563",
+        "addressName": "",
+        "latitude": "-22.01848611111111",
+        "longitude": "-63.67774166666666",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "YACUIBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "a2276fd3-41f2-48bd-a6a3-1366da806c72",
+        "name": "Agencia Tabladita",
+        "phone": "(591-4) 6123707",
+        "addressName": "",
+        "latitude": "-21.537622222222225",
+        "longitude": "-64.75393611111112",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e64bcd5a-27f7-454d-bf9f-e9597e53ac20",
+        "name": "Agencia Sur",
+        "phone": "(591-4) 6123703",
+        "addressName": "",
+        "latitude": "-21.538394444444446",
+        "longitude": "-64.72404166666666",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "ea0dbece-ff52-4b84-9085-66708cc05cb0",
+        "name": "Mercado Campesino - Yacuiba",
+        "phone": "(591-4) 46123702",
+        "addressName": "",
+        "latitude": "-22.00340277777778",
+        "longitude": "-63.676427777777775",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "YACUIBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:30 a 17:00; Sábados: 09:00 a 13:00"
+        }
+    }
+]

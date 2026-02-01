@@ -1,0 +1,244 @@
+[
+    {
+        "id": "042afd01-f319-49f7-8246-e994d00e2d6d",
+        "name": "La Torre TJA",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-21.51443888888889",
+        "longitude": "-64.73688055555556",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "195c7fbb-3ae2-4696-977b-a96912c63ece",
+        "name": "Palmarcito",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-21.532916666666665",
+        "longitude": "-64.71691666666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "20a4d604-b9ad-44a6-b7d8-921707542a66",
+        "name": "Mercado Campesino Tarija",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-21.52125",
+        "longitude": "-64.74195277777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "15 horas"
+        }
+    },
+    {
+        "id": "27ebbf4b-f278-410c-9538-71a0ac738bf1",
+        "name": "Juan XXIII",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-21.53846111111111",
+        "longitude": "-64.7121361111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "2a15b2fd-9081-40c5-8476-7fcee809b6d2",
+        "name": "Sur",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-21.538466666666668",
+        "longitude": "-64.72389166666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "3b3efa95-a28b-4cff-8ae4-d02da685d814",
+        "name": "Aeropuerto",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-21.545980555555555",
+        "longitude": "-64.70214722222222",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "461f05b1-a9a9-43b6-baf0-4a30e98b4747",
+        "name": "Tabladita",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-21.537569444444447",
+        "longitude": "-64.75395",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "6000ef80-6499-4be5-9839-bd0a874c397d",
+        "name": "Mdo.CampesinoYacuiba",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-22.00340277777778",
+        "longitude": "-63.676427777777775",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "YACUIBA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "a9c2d147-570a-4745-bd1d-c844aa61c30b",
+        "name": "15 de Abril I",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-21.533125",
+        "longitude": "-64.73452222222222",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "b7570cdd-e671-499d-8597-7aa330a8de9f",
+        "name": "15 de Abril II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-21.533125",
+        "longitude": "-64.73452222222222",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "e76eb959-2c97-420e-95ba-a7395aa137ea",
+        "name": "Yacuiba",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-22.01864722222222",
+        "longitude": "-63.678044444444446",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "YACUIBA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "Nombre": "Av. Bolivar",
+        "Dirección": "Avenida Bolivar casi esq. Alberto Reyes Davis",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    },
+    {
+        "Nombre": "Of. Central TDD 1",
+        "Dirección": "Calle Manuel Limpias S-34 casi esquina Cipriano Barace, Zona\n                                                        Central",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    }
+]

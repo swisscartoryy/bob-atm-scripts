@@ -1,0 +1,24 @@
+[
+    {
+        "id": "438c5713-dcfb-4dcb-825c-c5cf3e1ddaca",
+        "name": "Santa Rosa Abuna - Chacon",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-10.607888888888889",
+        "longitude": "-67.45375",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "PANDO",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA ROSA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 12:30 y de 14:30 a 18:30; sabados de 09:00 a 13:00"
+        }
+    }
+]

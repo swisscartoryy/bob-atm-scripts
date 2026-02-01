@@ -1,0 +1,68 @@
+[
+    {
+        "id": "62ec7649-9fcb-42b8-bd27-0f8a3f04a315",
+        "name": "Sol Amigo 36 - Av. 6 de Octubre",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.954533333333334",
+        "longitude": "-67.10910277777778",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 y 13:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e28253dd-5624-460a-8b70-f0bec105f060",
+        "name": "Sol Amigo 189 - Av. Al Valle",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.946691666666666",
+        "longitude": "-67.10678888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00 "
+        }
+    },
+    {
+        "id": "fa17dae6-4064-4c4e-a84e-555b95aa7bfb",
+        "name": "Sol Amigo 75 - Mercado Young",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.978788888888886",
+        "longitude": "-67.13216944444444",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 12:30 y 13:30 a 17:30; Sábado 09:00 a 13:00"
+        }
+    }
+]

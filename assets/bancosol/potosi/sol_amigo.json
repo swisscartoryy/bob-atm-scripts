@@ -1,0 +1,46 @@
+[
+    {
+        "id": "5ea79565-0460-4001-817c-1f709a9c9a94",
+        "name": "Sol Amigo 182 - Segip",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.57315277777778",
+        "longitude": "-65.7598388888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "be171b62-e33a-4e86-8326-ba8c684d9698",
+        "name": "Sol Amigo 258 - Murillo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.577005555555555",
+        "longitude": "-65.76548611111112",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 13:00 y 14:00 a 17:00; sabados de 09:00 a 13:00"
+        }
+    }
+]

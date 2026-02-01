@@ -1,0 +1,90 @@
+[
+    {
+        "id": "2c8d3e46-b377-41a4-b0a5-f3bf045db69b",
+        "name": "Agencia Trinidad",
+        "phone": "(591-3) 4634444/4634445",
+        "addressName": "",
+        "latitude": "-14.83283611111111",
+        "longitude": "-64.90617777777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "BENI",
+            "holidays": "18 de noviembre"
+        },
+        "locality": {
+            "localitynName": "TRINIDAD"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "5f858c46-a27d-4777-83c8-2df7be9a3d45",
+        "name": "Agencia Riberalta",
+        "phone": "(591-3) 8524751/8524750    ",
+        "addressName": "",
+        "latitude": "-10.998455555555555",
+        "longitude": "-66.07614166666666",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "BENI",
+            "holidays": "18 de noviembre"
+        },
+        "locality": {
+            "localitynName": "RIBERALTA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "a4d4c7fc-c6dd-4bb4-82e5-f3de00265144",
+        "name": "Regional Beni",
+        "phone": "(591-3) 4634444/4634445",
+        "addressName": "",
+        "latitude": "-14.832816666666666",
+        "longitude": "-64.9062138888889",
+        "officeType": {
+            "officeTypeName": "Sucursal",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "BENI",
+            "holidays": "18 de noviembre"
+        },
+        "locality": {
+            "localitynName": "TRINIDAD"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "df70a4c4-54e3-4c37-92be-de0f53472c78",
+        "name": "Agencia Guayaramerin",
+        "phone": "(591-3) 8559133/34/29",
+        "addressName": "",
+        "latitude": "-10.816502777777778",
+        "longitude": "-65.35399166666666",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "BENI",
+            "holidays": "18 de noviembre"
+        },
+        "locality": {
+            "localitynName": "GUAYARAMERIN"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

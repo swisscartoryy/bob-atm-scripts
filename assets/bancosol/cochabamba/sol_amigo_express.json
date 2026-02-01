@@ -1,0 +1,5040 @@
+[
+    {
+        "id": "015f23e3-08b1-4c21-8bde-a85e6435fa58",
+        "name": "San Antonio de Buena Vista – Franco ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.462775",
+        "longitude": "-66.15126666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 07:00 a 20:00 hrs."
+        }
+    },
+    {
+        "id": "037f11bb-7bf9-41ef-9f80-a0084c19cdbc",
+        "name": "Colquiri Sud - Carrasco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.36041666666667",
+        "longitude": "-66.18332777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Martes a sabado de 11:00 a 19:00"
+        }
+    },
+    {
+        "id": "054fbf29-3b24-44e5-b101-8f0f6c2ed93a",
+        "name": "Sumumpaya Sud - Mayta ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.397713888888887",
+        "longitude": "-66.23037222222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  09:00 a 16:00 y Sábados  09:00 a 12:00 "
+        }
+    },
+    {
+        "id": "056ccbca-69cf-4ce3-bbcf-0bdb992fb759",
+        "name": "Nueva Vera Cruz II - Crespo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.46009722222222",
+        "longitude": "-66.11588888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 16:00"
+        }
+    },
+    {
+        "id": "06d5a830-1a20-4d12-bb31-537216fe7956",
+        "name": "La Chimba II - Ledezma",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.408624999999997",
+        "longitude": "-66.18424444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 19:00"
+        }
+    },
+    {
+        "id": "06f043e0-0507-4662-8efa-ce07114e7cde",
+        "name": "Barrio 12 de Enero - Calle",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.389836111111112",
+        "longitude": "-66.29139166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 20 :00"
+        }
+    },
+    {
+        "id": "092b22c0-03bb-454f-a6f1-bdd60beed4a8",
+        "name": "Apote - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.328883333333334",
+        "longitude": "-66.2442",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "0b351f09-7af2-4c80-9380-c75192bf0009",
+        "name": "Colcapirhua - Estrada",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39057777777778",
+        "longitude": "-66.23932222222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "0b9e14fa-6089-44ea-be00-5dd58094f02b",
+        "name": "Ayacucho - Cahuaya",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.394875",
+        "longitude": "-66.1582138888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 20:00 y sabados de 08:30 a 13:00"
+        }
+    },
+    {
+        "id": "0c72ba91-ccf5-49fa-a0e1-b30aa958f8c7",
+        "name": "Pucarita Chica - Teran",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.452716666666667",
+        "longitude": "-66.20125277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "0e0e5f75-22e2-4d34-88dd-229d88ad91f8",
+        "name": "Pucara Grande - Pinto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.45386388888889",
+        "longitude": "-66.16704722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 12:00 y de 13:00 a 18:00"
+        }
+    },
+    {
+        "id": "0f22075e-5277-442a-b878-f4e66a8acff5",
+        "name": "Av. Santa Cruz Cliza - Escobar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.591602777777776",
+        "longitude": "-65.93258055555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CLIZA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 08:30 a 14:00; Domingo 08:30 a 13:00"
+        }
+    },
+    {
+        "id": "0f412efe-0ba8-48e8-a050-dd6630387b52",
+        "name": "Urbanización Ecológica - Paco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.34266111111111",
+        "longitude": "-66.19619722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TIQUIPAYA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:30 a 18:30"
+        }
+    },
+    {
+        "id": "0fcba7c9-5691-41c8-9363-3050710064a3",
+        "name": "Av. Chapare - Solíz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.38923611111111",
+        "longitude": "-66.11056388888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Mircoles y Viernes y Sábado 08:00 a 20:00 ; Domingo 08:00 a 14:00"
+        }
+    },
+    {
+        "id": "11b145ad-0286-4cfa-9f07-302d5867035e",
+        "name": "Parotani - Flores",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.568616666666667",
+        "longitude": "-66.34693333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PAROTANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "11ccb614-ef41-4a9d-b8c6-8e4b5ce7795a",
+        "name": "Maximiliano Kolbe Abra - Vargas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.398891666666668",
+        "longitude": "-66.11296944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "1237b6e6-0c05-46f4-bfb4-e90eb587f682",
+        "name": "Walker Mareño Qllo. - Abasto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.396030555555555",
+        "longitude": "-66.274875",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 09:00 a 18:00 hrs"
+        }
+    },
+    {
+        "id": "1266e215-1335-42f6-a578-0e927d2b308c",
+        "name": "Tiquirani II - Suarez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.46159722222222",
+        "longitude": "-66.13478055555557",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "12d4945f-c5cd-4254-a18c-4767547db265",
+        "name": "Av. Santa Cruz Qllo. - Torrez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.396608333333333",
+        "longitude": "-66.282825",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes, Miercoles y Jueves: 08:30 a 12:30 y 14:00 a 18:00, Martes, Viernes; Domingo 08:00 a 18:00, Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "16a31bbf-e0b4-419b-ae0c-a000984ded50",
+        "name": "Iquircollo - Quinteros",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.386469444444444",
+        "longitude": "-66.27563333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a  Sábado  07:30 a 12:00 "
+        }
+    },
+    {
+        "id": "17429b11-1aac-40d7-9f99-ef993daafa06",
+        "name": "Monseñor Alcocer Sacaba - Bazoalto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.401161111111108",
+        "longitude": "-66.03852499999999",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 22:00; Sábado 08:00 a 22:00; Domingo 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "17cea67b-42e4-43ae-9f7c-3069322a5ce7",
+        "name": "Colquiri Qllo - Arias",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.38723611111111",
+        "longitude": "-66.2594888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de  11:30 a 17:30 hrs. Sabados y Domingos  de 11:00 a 18:30 hrs."
+        }
+    },
+    {
+        "id": "199e79b4-b542-4038-926e-cc35c200829d",
+        "name": "Bella Vista - Churata",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.375966666666667",
+        "longitude": "-66.09544444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 22:00; Sábados 08:30 a 22:00; Domingo 09:00 a 21:00"
+        }
+    },
+    {
+        "id": "1c3a26c5-f37b-43e2-b68a-64ce47e10762",
+        "name": "Mizque - Diaz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.941505555555555",
+        "longitude": "-65.34159166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MIZQUE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "1d08f4e4-9bdf-4c36-87c9-29f119ed2bde",
+        "name": "Coña Coña - Huarachi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.390738888888887",
+        "longitude": "-66.199675",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:00 a 12:00 y de 14:30 a 20:00"
+        }
+    },
+    {
+        "id": "1fc24c18-ddf3-4051-a862-95feec5a9b35",
+        "name": "Antofagasta Sacaba - Ayala",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.410249999999998",
+        "longitude": "-66.03427222222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a  viernes de 07:30 a 13:00 y de 14:00 a 20:00, sabado y domingo de 07:30 a 12:00 y 15:00 a 20:00 horas"
+        }
+    },
+    {
+        "id": "20367ddf-b43e-482d-9e34-a8fa921254d0",
+        "name": "OTB Universitario Bajo - Salvador",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.441827777777778",
+        "longitude": "-66.14468611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:30 a 20:00; Sabado de 08:30 a 15:00"
+        }
+    },
+    {
+        "id": "206dd060-b578-4100-a3dc-31e32c154ae7",
+        "name": "Los Olivos - Patton",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.377927777777778",
+        "longitude": "-66.17644722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "22c8b839-c941-4593-b2e7-a50d7b8107c8",
+        "name": "Guadalupe Sacaba - Gomez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.386588888888888",
+        "longitude": "-66.07496944444443",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 16:00 "
+        }
+    },
+    {
+        "id": "249ca873-7654-4f83-bd41-db1056e4b539",
+        "name": "Alalay II - Ovando",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.43196388888889",
+        "longitude": "-66.12753888888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 17:00; Domingo de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "25b9b341-8e1c-4b67-9240-0dba264d7780",
+        "name": "Esmeralda Norte II - Saravia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.377872222222223",
+        "longitude": "-66.08281388888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "2625bc76-c2d6-41f3-8345-95365f5c9c4e",
+        "name": "Concordia  - Bustos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.38931388888889",
+        "longitude": "-66.2217888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 13:00 a 20:00"
+        }
+    },
+    {
+        "id": "271b0c9c-a9e8-4820-975e-712e7d4ba782",
+        "name": "Buen Retiro Capinota - Terrazas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.697069444444445",
+        "longitude": "-66.26227222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CAPINOTA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00 y sabado de 08:00 a 16:00"
+        }
+    },
+    {
+        "id": "27f23a71-8d00-4625-b103-e5d43c7a0d8b",
+        "name": "Argelia - Soto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.44713611111111",
+        "longitude": "-66.13284444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 06:00 a 20:00 horas"
+        }
+    },
+    {
+        "id": "2b09d28f-216e-48e9-b7b8-bf859e0d2197",
+        "name": "Av. Independencia - Gamboa ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.412055555555554",
+        "longitude": "-66.15600555555557",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  09:00 a 12:00 y  14:00 a 18:00 "
+        }
+    },
+    {
+        "id": "2b5cb384-98b5-441f-9f36-4d069361737d",
+        "name": "La Chimba - Montaño",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.399366666666666",
+        "longitude": "-66.18281666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 1800"
+        }
+    },
+    {
+        "id": "2be3e3cb-757d-4184-84d9-b4427f0146bd",
+        "name": "Sivingani - Chocala",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.472672222222222",
+        "longitude": "-66.1788638888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes, Martes, Jueves y Viernes: 08:00 a 20:00 ;Miércoles y Sábado: 08:00 a 10:00  y 15:00 a 20:00"
+        }
+    },
+    {
+        "id": "2cc85a9e-b3d9-45df-bfe8-398f46739838",
+        "name": "Villa Pagador - Laura",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.440244444444446",
+        "longitude": "-66.11636666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  07:00 a 20:00 "
+        }
+    },
+    {
+        "id": "2e0e8708-7768-4427-a0ac-7e6b5670b52c",
+        "name": "Paz Nueva Jerusalen - Leon",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.497005555555557",
+        "longitude": "-66.17940555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  06:00 a 20:00"
+        }
+    },
+    {
+        "id": "303474ed-903c-477a-8fd5-61e4108a7f0a",
+        "name": "Taquiña Central - Peredo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.34265",
+        "longitude": "-66.17894166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 20:00 a Sábado; Domingo 08:00 a 14:00 "
+        }
+    },
+    {
+        "id": "31148472-32a9-404c-83c2-a5e8a63ab0f8",
+        "name": "Bella Vista - Sevillanos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.321319444444445",
+        "longitude": "-66.28156944444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  08:00 a 22:00 "
+        }
+    },
+    {
+        "id": "31e266fa-97b2-473f-8db9-bc2bf70df6ec",
+        "name": "San Benito - Arnez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.521349999999998",
+        "longitude": "-65.89419166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN BENITO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 15:00"
+        }
+    },
+    {
+        "id": "34568e14-95fa-4eb6-b78b-65d729cb63f1",
+        "name": "Sicaya - Chumacero",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.80095",
+        "longitude": "-66.3341361111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SICAYA"
+        },
+        "openingHours": {
+            "hour": "Martes y Jueves 08:00 a 12:00 y 14:00 a 18:00; Sábado; Domingo 08:30 a 12:30"
+        }
+    },
+    {
+        "id": "3904cb68-e000-479c-b43a-add0a65f98e6",
+        "name": "Servicio De Caminos - Zeballos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.37517777777778",
+        "longitude": "-66.12954444444443",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "392e8246-3495-460c-914d-019346e7fd4f",
+        "name": "Blanco Galindo Km4 - Contreras",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39319722222222",
+        "longitude": "-66.19396666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 18:00 y sabado de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "39f68d18-bc07-4997-808c-61d7ddc7133e",
+        "name": "Ayacucho - Suaznabar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.400008333333332",
+        "longitude": "-66.28128055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 12:00 y 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "3ad73575-b6dd-4f2d-8045-10c5dceec493",
+        "name": "Media Luna - Garcia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.465833333333332",
+        "longitude": "-66.14076111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 16:00"
+        }
+    },
+    {
+        "id": "3c70ffa0-91ad-4650-b6a0-12bab00f651e",
+        "name": "Valle Hermoso - Gallardo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.440261111111113",
+        "longitude": "-66.12496666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "3c923895-0708-4905-b321-eb6594a41b75",
+        "name": "Manuel Ascencio Villarroel Punata - Mejia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.53896388888889",
+        "longitude": "-65.83622777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUNATA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 07:00 a 20:00 hrs"
+        }
+    },
+    {
+        "id": "3cda247f-2600-4757-848e-66b323120e28",
+        "name": "Bolivar Sacaba II - Lopez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.408158333333333",
+        "longitude": "-66.0404638888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 12:00 a 20:00"
+        }
+    },
+    {
+        "id": "3ce58606-6472-423c-ac47-54d2f335ba21",
+        "name": "Av. Diamante - Lovera ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.46748611111111",
+        "longitude": "-66.20734166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes, Martes, Jueves, Viernes, Sabado y Domingo de 07:00 a 20:00 hrs"
+        }
+    },
+    {
+        "id": "3d9f2082-b808-4b21-b9a2-89df82c955ae",
+        "name": "Huayra K’hasa - Nina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.42010555555556",
+        "longitude": "-66.14040277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 19:00; Sábado y Domingo  08:30 a 19:00"
+        }
+    },
+    {
+        "id": "3e065020-bc59-4267-94fc-fcfd432855fd",
+        "name": "Sipe Sipe II - Muñoz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.453777777777777",
+        "longitude": "-66.35598888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SIPE SIPE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:00 a 15:00; domingos de 07:00 a 12:00"
+        }
+    },
+    {
+        "id": "3e43219d-2239-43c4-9f11-75c3aeadddb7",
+        "name": "Ayacucho II - Quisbert",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.38966388888889",
+        "longitude": "-66.15960000000001",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 20:00; domingo de 13:00 a 20:00"
+        }
+    },
+    {
+        "id": "3f37027f-99c6-46c4-8239-dd916012d5f6",
+        "name": "Vinto - Torrico",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.396355555555555",
+        "longitude": "-66.31612777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "VINTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 18:00"
+        }
+    },
+    {
+        "id": "3f64e519-3b35-4b5b-b7da-9943059e1050",
+        "name": "Alalay Norte - Camacho",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.423297222222224",
+        "longitude": "-66.13605833333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 10:00 a 13:00 y de 14:00 a 18:00; Sabados de 10:00 a 20:00"
+        }
+    },
+    {
+        "id": "3fe2afa3-3e3a-461c-909f-501e7d400de3",
+        "name": "Cliza - Velasquez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.592077777777778",
+        "longitude": "-65.93564166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CLIZA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  07:00 a 19:00  Sábado y Domingo  07:00 a 14:00 "
+        }
+    },
+    {
+        "id": "3ff62b1c-900c-4853-b357-121b651dced9",
+        "name": "Alto Pagador - Soto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.44936388888889",
+        "longitude": "-66.11408055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 12:00 y 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "40ac97b4-b0d4-417a-9263-68237e56597d",
+        "name": "Korihuma Sacaba - Soria",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.44753888888889",
+        "longitude": "-66.03868333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "412c8949-4a89-44f0-a82e-9009fe3d45ae",
+        "name": "Esmeralda Sud II - Equise",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.41714166666667",
+        "longitude": "-66.08254166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "415f9919-7ff6-4428-ba41-47a2472feaf8",
+        "name": "El Morro Sacaba - Orosco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39657777777778",
+        "longitude": "-66.03250833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "4296f491-7470-4513-be6a-a8887e48833c",
+        "name": "Jaihuayco - Troncoso",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.417094444444444",
+        "longitude": "-66.16603055555557",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "43416fab-cbcf-4964-9a94-a30723a67737",
+        "name": "Tiquirani - Quiroga",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.466794444444442",
+        "longitude": "-66.13515555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "444eced1-8159-43dd-89a4-f31cfbf23826",
+        "name": "Bolivar Sacaba - Sanchez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.401002777777776",
+        "longitude": "-66.03714722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "458ae8de-84e6-4398-9fc1-2c9b4239811d",
+        "name": "Bolivar - Camacho",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.392352777777777",
+        "longitude": "-66.15127500000001",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 14:00 y 15:30 a 18:30; Sábados 08:00 a 14:00 y 15:30 a 18:30"
+        }
+    },
+    {
+        "id": "4c035d08-85a2-4fae-9f18-c0a6605f2d35",
+        "name": "Nueva Fortaleza Sacaba - Viracochea",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.413574999999998",
+        "longitude": "-66.07071944444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 20:00 hrs."
+        }
+    },
+    {
+        "id": "4c1bc84f-09e4-4d0d-8e14-65678f17d930",
+        "name": "Colomi-Montaño",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.338427777777778",
+        "longitude": "-65.86593611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLOMI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Jueves  09:00 a 16:00; Domingos 09:00 a 12:00"
+        }
+    },
+    {
+        "id": "4edd209b-83b4-4e5c-9be4-23b504338b55",
+        "name": "OTB Chojñacollo - Illanes",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.36374166666667",
+        "longitude": "-66.27551944444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  07:00 a 19:00 "
+        }
+    },
+    {
+        "id": "4ee076e9-4441-4ef8-9a58-5304be8f8579",
+        "name": "Punata III - Ferrufino",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.547008333333334",
+        "longitude": "-65.83630555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUNATA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:30 a 18:00 y sabado de 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "4f22eac6-57b3-4992-af6d-611015ba0c4e",
+        "name": "21 de Septiembre – Quispe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.48343611111111",
+        "longitude": "-66.18126666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 18:00 "
+        }
+    },
+    {
+        "id": "4fa92e49-328b-405e-94dd-5c4b7625fb41",
+        "name": "Mercado Santa Barbara - Vega  ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.42861388888889",
+        "longitude": "-66.15566111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 14:00 a 20:00; Sábados 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "5380d6ba-2e9e-4dbf-b73c-82f9fdd2ff6c",
+        "name": "Alto Buena Vista – Arnez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.468224999999997",
+        "longitude": "-66.15148333333335",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  07:00 a 20:00 "
+        }
+    },
+    {
+        "id": "54d5829b-54ec-45e9-98de-55205a78faf6",
+        "name": "Alto Cochabamba II - Cahuaya",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.426383333333334",
+        "longitude": "-66.14277222222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y de 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "54e698f1-5889-40b5-9938-90474d0ebd2c",
+        "name": "Lomas De Santa Barbara II - Vique",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.46297222222222",
+        "longitude": "-66.10778055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 20:00 "
+        }
+    },
+    {
+        "id": "54ed90cd-f810-4959-8930-59705de7ec6a",
+        "name": "República - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.404816666666665",
+        "longitude": "-66.15064444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:30 a 2030; Sábado 07:30 a 2030; Domingo 07:30 a 2030"
+        }
+    },
+    {
+        "id": "54f96985-7628-4a38-9a13-000181423473",
+        "name": "Totora - Davila",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.736008333333334",
+        "longitude": "-65.19180555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TOTORA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:30 a 18:00 y domingo de 07:30 a 18:00"
+        }
+    },
+    {
+        "id": "5520dce0-c9a4-4a13-b5ee-756e6397ff77",
+        "name": "Irpa Irpa II - Montaño",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.721888888888888",
+        "longitude": "-66.28312777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CAPINOTA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 16:00"
+        }
+    },
+    {
+        "id": "5664482a-6e3d-4e12-88e8-ef3057a21976",
+        "name": "Panamericana - Loayza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.416516666666666",
+        "longitude": "-66.15728333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 22:00; Sábado 08:00 a 18:00; Domingo 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "5b3f7bc2-c005-44fa-8c80-6fed2942087e",
+        "name": "Quintanilla - Carvajal",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.384963888888887",
+        "longitude": "-66.11775555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "5b42f5fc-dd4e-4ff0-8230-44c9320c9dfc",
+        "name": "Punata - Torrico ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.543058333333335",
+        "longitude": "-65.83144444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 12:00 y 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "5b98743c-13b4-4575-aa0a-f06443782432",
+        "name": "El Abra Baja Sacaba - Blacutt",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.403724999999998",
+        "longitude": "-66.10161666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 15:00"
+        }
+    },
+    {
+        "id": "5c34d9cf-a712-43ed-a4f8-317424611ea7",
+        "name": "Av. Pairumani - Ovando",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.393",
+        "longitude": "-66.31686388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "VINTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 10:00 a 19:00 horas"
+        }
+    },
+    {
+        "id": "5f5dd970-5812-4d10-8a57-2b53612f1a5c",
+        "name": "Ironcollo II - Vallejos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.37291111111111",
+        "longitude": "-66.28318333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "60150757-2d11-449d-a95f-7eb97b2cc0c8",
+        "name": "Barrio Don Bosco – Mano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.435008333333332",
+        "longitude": "-66.156425",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 07:00 a 19:00 y Domingo de 07:00 a 12:00 horas"
+        }
+    },
+    {
+        "id": "6146b981-fab6-491c-8f25-5f9366d65bba",
+        "name": "Aiquile - Zurita",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.200913888888888",
+        "longitude": "-65.17975277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "AIQUILE"
+        },
+        "openingHours": {
+            "hour": "Lunes a  Viernes  14:00 a 18:00 ; Sábados  08:30 a 12:00 "
+        }
+    },
+    {
+        "id": "62aa94a1-eadf-4933-b094-b05fdbcf821e",
+        "name": "Av. Benjo Cruz - Galindo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.364461111111112",
+        "longitude": "-66.18392777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 19:00; sabado de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "639d3c94-0eb6-4ce2-a85d-82bba34641b9",
+        "name": "Circunvalación I - Gomez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.36105277777778",
+        "longitude": "-66.17046111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a  Sábado  09:00 a 20:00 "
+        }
+    },
+    {
+        "id": "63a8baf3-23ad-4897-82b2-bfd4bbf3ae20",
+        "name": "Vila Vila -  Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.984811111111114",
+        "longitude": "-65.6295611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "VILA VILA"
+        },
+        "openingHours": {
+            "hour": "Lunes, Martes, Jueves y Viernes 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "65313b49-25c3-4279-9f22-8fb252b9c6d5",
+        "name": "Juan del Valle - Ticona",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.34971388888889",
+        "longitude": "-66.26530555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "66b8c146-5bdf-4ec0-806c-c1d3f6b470c8",
+        "name": "Plazuela 27 De Mayo Tarata – Sansuste ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.614716666666666",
+        "longitude": "-66.0246138888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TARATA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y de 13:00 a 18:00, sabados y domingos de 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "66daabc2-c506-4b13-b743-70f49ad89e4e",
+        "name": "Capitan Lozada - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.402013888888888",
+        "longitude": "-66.03728611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 19:00 "
+        }
+    },
+    {
+        "id": "66ef9dcd-3679-4a61-a003-82a9ab7a246c",
+        "name": "El Paso II - Ugarte",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.338749999999997",
+        "longitude": "-66.26249722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "67017f0b-2396-4f12-bc2a-bac1d1a81928",
+        "name": "Farmacia Eliana Colcapirhua - Ulunque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.391241666666666",
+        "longitude": "-66.23854444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:00 a 20:00 hrs"
+        }
+    },
+    {
+        "id": "68bff705-9c0f-4370-9ee3-25c3c0572a6e",
+        "name": "Av. Humberto Asin - Beltran",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.442380555555555",
+        "longitude": "-66.1164",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  07:00 a 20:00 "
+        }
+    },
+    {
+        "id": "6918042d-03a8-46ce-bbc5-9257f7f0d8e3",
+        "name": "Mercado Campesino II - Tangara",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.42938888888889",
+        "longitude": "-66.12687777777776",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a  Viernes  09:00 a 19:00 "
+        }
+    },
+    {
+        "id": "6ae76f86-5381-4d35-92c8-72085d3fe6ed",
+        "name": "Simón López - Bazoalto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.354755555555556",
+        "longitude": "-66.18710833333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 21:00 Sábado08:00 a 21:00, Domingo 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "6b3b5064-46de-487d-899c-6f0c44f85100",
+        "name": "Llauquenquiri - Calderon",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.362061111111114",
+        "longitude": "-66.25309166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 12:00 y de 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "6ba6f6f2-dc59-48cd-b691-2ea6823cfd62",
+        "name": "Plaza de Papas Qllo.-Ajhuacho",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.399313888888887",
+        "longitude": "-66.28209166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "6ea9bd40-4dfa-4809-9406-e3ab8cee81bd",
+        "name": "Camarones - Marquina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39221111111111",
+        "longitude": "-66.18683333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 07:00 a 20:00; Domingo de 07:00 a 15:00"
+        }
+    },
+    {
+        "id": "6f5be7ff-e939-4fab-84b9-c7b12869f3cc",
+        "name": "Sauce Rancho II - Guarachi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.42644166666667",
+        "longitude": "-66.3295",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SIPE SIPE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "6f9b6c34-4155-4902-99c0-a483014c6ae5",
+        "name": "Las Cuadras - Soto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.397191666666668",
+        "longitude": "-66.14595277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 21:30; Sábados 08:00 a 21:30; Domingo 08:00 a 21:30"
+        }
+    },
+    {
+        "id": "7039030e-3ff9-43e6-aa76-ea07351ff23a",
+        "name": "Puente Tamborada - Merida",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.440925",
+        "longitude": "-66.16308611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  07:00 a 20:00 "
+        }
+    },
+    {
+        "id": "71682bbc-b124-4b1d-b47b-2e4e17a191da",
+        "name": "Condebamba II - Callisaya",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.347252777777776",
+        "longitude": "-66.17660277777779",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "752d844a-280d-47ef-88c6-97bc14f2b763",
+        "name": "Kara Kara - Laura",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.464333333333332",
+        "longitude": "-66.127625",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 18:00; Domingo 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "761e72f8-2f64-4121-b117-93aeb172f449",
+        "name": "Sipe Sipe - Juarez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.45676111111111",
+        "longitude": "-66.35728055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SIPE SIPE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:30 a 12:00 y 14:00 a 17:00 "
+        }
+    },
+    {
+        "id": "77608800-3ece-4c47-8941-d81374353d23",
+        "name": "Libertadores Punata - Meneses",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.54761388888889",
+        "longitude": "-65.83843888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUNATA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:30 a 20:00; Sábado 08:00 a 12:00; Domingo 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "77bbca1b-7c77-44ce-a50d-c5925ff08b1b",
+        "name": "Av. Suecia - Choque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.419675",
+        "longitude": "-66.14738333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 18:00"
+        }
+    },
+    {
+        "id": "792c27f2-82cb-4bdd-8b79-7f94bbfeea84",
+        "name": "1° de Mayo - Sullca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.466897222222222",
+        "longitude": "-66.20429166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:30  a 13:30  y Sábado 07:30  a 13:00 "
+        }
+    },
+    {
+        "id": "7c0c9bf1-93c8-4a5f-9862-a09510bc7098",
+        "name": "San Jose Kami - Martinez ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.369966666666667",
+        "longitude": "-66.23615",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 14:30 a 18:00 hrs"
+        }
+    },
+    {
+        "id": "7e4371e4-d25f-4b1a-9030-5a3d4139487d",
+        "name": "Esmeralda Norte - Churata",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.37775277777778",
+        "longitude": "-66.0810361111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 20:00 hrs."
+        }
+    },
+    {
+        "id": "7ef6025f-1775-40c4-b4e5-5e438841e179",
+        "name": "Plaza 21 De Septiembre Cliza - Torrico ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.59153611111111",
+        "longitude": "-65.93411666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CLIZA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 17:30; sabado de 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "8119345f-0ffe-4511-85a0-8d844c16a2c3",
+        "name": "Av. Final Beijing - Quispe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.401163888888888",
+        "longitude": "-66.18703611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábados: 09:00 a 20: 00 horas. "
+        }
+    },
+    {
+        "id": "844c8f2f-7ef1-443b-ac8a-b1fb74b6b1df",
+        "name": "25 De Mayo - Chucamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.389094444444446",
+        "longitude": "-66.15604166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 20:00 horas"
+        }
+    },
+    {
+        "id": "84a302d1-41f9-4ae3-8dd2-29ad5d105d57",
+        "name": "Av. 21 De Enero Colcapirhua - Guachalla",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.384266666666665",
+        "longitude": "-66.22929722222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "84cd807a-d539-4bd7-acfb-bd5761c0fb88",
+        "name": "Matias Cotrina - Vega",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.436830555555556",
+        "longitude": "-66.15559166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 06:30 a 20:00 hrs"
+        }
+    },
+    {
+        "id": "85084ba2-db92-4412-932e-dfaf538f2050",
+        "name": "Alto Cochabamba - Cerezo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.424680555555558",
+        "longitude": "-66.14871944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 12:00 y 14:00 a 18:00 "
+        }
+    },
+    {
+        "id": "88395b23-3759-4af0-b3df-999efae895e6",
+        "name": "Alto Libertador Abra - Cadima",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.424533333333333",
+        "longitude": "-66.093825",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 20:00 hrs."
+        }
+    },
+    {
+        "id": "88642a6a-d033-4e35-9589-a4d785ed03f4",
+        "name": "Los Angeles - Vallejos ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.432961111111112",
+        "longitude": "-66.12184166666665",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a  Viernes  10:30 a 18:00 "
+        }
+    },
+    {
+        "id": "8a5e0a09-26be-4b20-a17f-6750ce6df40c",
+        "name": "Temporal Pampa - Asistiri",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.350825",
+        "longitude": "-66.16336111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  09:00 a 20:00 ;  Sábados  09:00 a 12:00 "
+        }
+    },
+    {
+        "id": "8b076ae0-2e7a-4c2f-bb07-bc340bb64d04",
+        "name": "Segip Quillacollo - Laura",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40758333333333",
+        "longitude": "-66.2809",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 16:00"
+        }
+    },
+    {
+        "id": "8cfe731d-52d2-4383-b7a2-b2acef7f76b6",
+        "name": "Valle Hermoso - Cotaña",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.439452777777777",
+        "longitude": "-66.12868055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabados de 09:00 a 19:00"
+        }
+    },
+    {
+        "id": "8dc59e88-3359-4105-bd8c-4f7f975b6408",
+        "name": "Capinota- Linaja",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.71469722222222",
+        "longitude": "-66.26223611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CAPINOTA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  07:30 a 19:00"
+        }
+    },
+    {
+        "id": "8f7f0898-79a7-4580-a00e-54fbd4ce3092",
+        "name": "Urb. San Andres - Dorado",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.341794444444442",
+        "longitude": "-66.1742388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 18:00"
+        }
+    },
+    {
+        "id": "917f0697-233b-48d8-ba7d-7c96b173f8b1",
+        "name": "Piñami Sud - Borja",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.392344444444443",
+        "longitude": "-66.25983055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 07:00 a 20:00 horas"
+        }
+    },
+    {
+        "id": "94edd831-731b-4f60-ad17-4d080e09bede",
+        "name": "Esquilan Grande - Bustamante",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40392222222222",
+        "longitude": "-66.23721666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "9579d634-04e6-4c18-8f43-f3b1c2242ea1",
+        "name": "Guadalupe Sacaba II - Amusquivar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.390125",
+        "longitude": "-66.07574444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 09:00 a 20:00 hrs"
+        }
+    },
+    {
+        "id": "95e1fcc0-e290-4963-a424-e8c7bf07c3cf",
+        "name": "Las Acacias Esmeralda - Lora",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.386813888888888",
+        "longitude": "-66.08501388888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "98a69124-bfb1-43fd-abd8-4ac11c53bd6b",
+        "name": "Chiriguano - Valeriano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.37358888888889",
+        "longitude": "-66.18966944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 13:00 a 20:00"
+        }
+    },
+    {
+        "id": "9bd5ae06-18b0-4230-8221-af59bfd46a06",
+        "name": "General Pando Quillacollo - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.395152777777778",
+        "longitude": "-66.28217777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "9c6050de-2276-459f-80f9-8b397b3675c5",
+        "name": "Av. Bolivia El Abra - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.408094444444444",
+        "longitude": "-66.09972777777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "9cf6aaef-c704-480e-b064-b2fe2dbb6d63",
+        "name": "Av. Indepencia - Mercado",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.437530555555554",
+        "longitude": "-66.146775",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 06:30 a 20:00"
+        }
+    },
+    {
+        "id": "9e211b33-8c56-465a-8bba-6dae2ff701bd",
+        "name": "Santa Rosa Lima – Chocllo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.49298611111111",
+        "longitude": "-66.11149999999999",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  08:00 a 20:00 "
+        }
+    },
+    {
+        "id": "9ec5b909-07bc-4efb-804c-306dbf035477",
+        "name": "Dorbigny - Choque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.38646111111111",
+        "longitude": "-66.18491388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes 07:00 a 22:00; Miercoles a Domingo 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "9ec8e873-b335-47ea-8c96-4df04d217ada",
+        "name": "Calama - Angulo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.396905555555556",
+        "longitude": "-66.15867777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 18:00; Sábados 08:00 a 14:00"
+        }
+    },
+    {
+        "id": "9f47f6a4-81a6-498f-8b45-b50b68a86107",
+        "name": "Otb Bello Horizonte - Cruz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.450719444444445",
+        "longitude": "-66.10729444444443",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 06:00 a 13:00"
+        }
+    },
+    {
+        "id": "9fd8f2de-c2e6-4f00-aed9-8f7d0b8e5bbc",
+        "name": "Hans Greter - Miranda",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.397866666666665",
+        "longitude": "-66.13955277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes: 07:30  a 20:00 hrs."
+        }
+    },
+    {
+        "id": "a0d1e0cd-fe8c-4d88-93be-bf2c7eb07d09",
+        "name": "Villa San Andres - Villca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.456875",
+        "longitude": "-66.11104722222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 17:00 hrs"
+        }
+    },
+    {
+        "id": "a0ea7304-5556-4073-9b02-eab0fb2a87ad",
+        "name": "Villa Moderna Qllo. - Pozo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.381733333333333",
+        "longitude": "-66.28181388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 19:00; domingo de 08:30 a 14:00"
+        }
+    },
+    {
+        "id": "a28e50fd-eb1d-414f-9f9f-a05d7d7ec39e",
+        "name": "Pucara Grande Norte - Montaño",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.444491666666668",
+        "longitude": "-66.16423888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 16:00"
+        }
+    },
+    {
+        "id": "a2f80fe4-6fdf-4fb3-a8f3-118d046efacb",
+        "name": "Otb La Viña - Heredia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.416772222222225",
+        "longitude": "-66.0881",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 07:30 a 20:00 hrs"
+        }
+    },
+    {
+        "id": "a379951a-e848-49a1-88e8-8559e860f56f",
+        "name": "Terminal Sacaba - Medrano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40128888888889",
+        "longitude": "-66.04155555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  07:00 a 20:00 "
+        }
+    },
+    {
+        "id": "a5af86cb-b228-453f-b23d-8ee329daf1ab",
+        "name": "Pacata Alta - Garcia  ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.364972222222224",
+        "longitude": "-66.12080277777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes y Jueves 08:00 a 18:00; Martes, Miercoles y Viernes 08:00 a 20:00; Sábado 08:00 a 12:00; Domingo 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "a6689ba7-0449-4ff1-b64d-171dedb34f6c",
+        "name": "Punata II - Hinojosa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.545472222222223",
+        "longitude": "-65.83562222222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUNATA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 12:00 y de 13:00 a 18:00 y Sabados de 08:00 a 12:00 hrs"
+        }
+    },
+    {
+        "id": "a8ad201f-d8f2-4fea-9191-ece677e5c1e8",
+        "name": "Segip San Benito - Alba",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.52306111111111",
+        "longitude": "-65.90178611111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN BENITO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 16:00"
+        }
+    },
+    {
+        "id": "a95b7c05-19c2-4d87-84ad-684be3e7fbab",
+        "name": "Otb Bartos - Lopez ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.382605555555557",
+        "longitude": "-66.21031666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 08:00 a 19:00 y Domingo de 08:00 a 12:00 hrs"
+        }
+    },
+    {
+        "id": "abab2851-3c43-4ca7-842e-2a0f49cf2a7e",
+        "name": "Korihuma II Sacaba - Guzman",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.448983333333334",
+        "longitude": "-66.03589166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 21:00"
+        }
+    },
+    {
+        "id": "adf69913-1715-4bcd-aa96-6c5e59a5663b",
+        "name": "Chimba - Figueroa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40425833333333",
+        "longitude": "-66.17580555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes  08:00 a 19:00 y sábado  08:30 a 13:30 "
+        }
+    },
+    {
+        "id": "af203b4d-5b87-41ff-9a85-136a998eba12",
+        "name": "Itocta - Coca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.458383333333334",
+        "longitude": "-66.184875",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 17:30; sabado de 09:00 a 12:00"
+        }
+    },
+    {
+        "id": "b188b49d-4785-45cc-a867-2a4d6c6924d4",
+        "name": "Mayorazgo II - Medrano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.359458333333336",
+        "longitude": "-66.17206111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y de 14:00 a 17:00"
+        }
+    },
+    {
+        "id": "b7b02376-5d98-48e3-8418-648c55e5eadc",
+        "name": "Pampa San Miguel II - Chura",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.464866666666666",
+        "longitude": "-66.1464388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 10:00 a 20:00 y domingo de 10:00 a 20:00"
+        }
+    },
+    {
+        "id": "b88a0762-45e6-45c7-998c-17feedaea03d",
+        "name": "Linde Sud Tiquipaya - Quispe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.354058333333334",
+        "longitude": "-66.19438333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TIQUIPAYA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 18:00 y sabado de 09:00 a 14:00"
+        }
+    },
+    {
+        "id": "b955dd45-ed42-4ab2-9178-99f4d045fae1",
+        "name": "Av. America - Pacheco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.370966666666668",
+        "longitude": "-66.18506666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  09:00 a 18:00"
+        }
+    },
+    {
+        "id": "b98d6461-441c-4436-8e8b-b5c28cd143eb",
+        "name": "Estadium Sacaba - Oña",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.406299999999998",
+        "longitude": "-66.03851388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 18:00 "
+        }
+    },
+    {
+        "id": "bad221ed-af9c-4672-aa80-5f77186adadf",
+        "name": "Barrio San Joaquin - Peredo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.429980555555556",
+        "longitude": "-66.17048333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábados: 06:00 a 20:00 horas.  "
+        }
+    },
+    {
+        "id": "bd5fb081-6a73-49a5-b7da-1519aad2acf0",
+        "name": "San Felipe de Austria - Calle",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.441105555555556",
+        "longitude": "-66.11833888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 20:00; sabado de 08:30 a 14:00"
+        }
+    },
+    {
+        "id": "bd8332d5-c056-475b-9493-41b46b5bdba9",
+        "name": "Alto Kara Kara – Zuñiga",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.469516666666664",
+        "longitude": "-66.13366388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  08:00 a 20:00 "
+        }
+    },
+    {
+        "id": "be000fea-1acb-44fb-af6e-2e768026ee95",
+        "name": "Alto Paraíso – Martinez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.47710833333333",
+        "longitude": "-66.13956111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 12:00 y  14:00 a 18:00 "
+        }
+    },
+    {
+        "id": "be8e7b44-fe6a-4602-a9aa-fbb646471bdf",
+        "name": "Aniceto Padilla - Pol",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.377747222222222",
+        "longitude": "-66.16042777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 19:00"
+        }
+    },
+    {
+        "id": "bee642b3-1e7d-4f55-b94d-e4a32e8261bd",
+        "name": "Av. La Patria - Torrez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.419833333333333",
+        "longitude": "-66.15870277777779",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 10:00 a 12:00 y 14:30 a 20:00; Sábado 10:00 a 20:00"
+        }
+    },
+    {
+        "id": "c00b88e2-df56-43c3-a63b-caefd157aeb0",
+        "name": "Arocagua - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.37677777777778",
+        "longitude": "-66.10546111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  08:00 a 18:00 "
+        }
+    },
+    {
+        "id": "c09b172b-97e8-4145-a769-90a7af0fe0bb",
+        "name": "Tunel Abra - Vidal",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.410705555555555",
+        "longitude": "-66.09195",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 20:00; Sábado 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "c15011b5-b312-44f4-b00d-f81213e83574",
+        "name": "Av. Suarez Miranda Qllo. - Yuca ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39318888888889",
+        "longitude": "-66.2805861111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 20:00 y Sábados  08:00 a 12:00 "
+        }
+    },
+    {
+        "id": "c227a829-3be4-456f-a5cb-15bee2af16f2",
+        "name": "Villa Israel - Valles",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.48643888888889",
+        "longitude": "-66.1727138888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:30 a 12:00 y 14:30 a 18:00; Sábado 08:30 a 12:00"
+        }
+    },
+    {
+        "id": "c2ba5435-27de-4995-9e8a-ce7c408a0db8",
+        "name": "Encañada - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.447644444444446",
+        "longitude": "-66.15529166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 20:00; Sábado 09:00 a 20:00; Domingo 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "c3404f1c-9c93-48da-aaa6-a99a26a5dafd",
+        "name": "Antezana - Hernani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39296111111111",
+        "longitude": "-66.15193611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:30 a 20:00"
+        }
+    },
+    {
+        "id": "c37734ed-53cb-4c30-b845-bd3cfee40a83",
+        "name": "Av. Panamericana - Teran",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.471544444444444",
+        "longitude": "-66.17074166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 17:00"
+        }
+    },
+    {
+        "id": "c3b4331c-e1e5-4914-bf6f-259c00dbe135",
+        "name": "Trojes Tiquipaya - Aguila",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.345627777777775",
+        "longitude": "-66.20408333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TIQUIPAYA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "c415e204-b491-4e1d-865f-091e63c99cc8",
+        "name": "6 de Agosto - Ureña",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.412002777777776",
+        "longitude": "-66.15283611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 20:00 Sábado 08:00 a 17:00"
+        }
+    },
+    {
+        "id": "c4822db3-4019-492b-82cf-22f924322c89",
+        "name": "Dorbigni II - Juchasara",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.385927777777777",
+        "longitude": "-66.18756944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y de 14:00 a 18:00; sabado de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "c4f14244-d475-4bc7-bf37-d813b37e5d4b",
+        "name": "6 De Abril Punata - Rojas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.545847222222225",
+        "longitude": "-65.839975",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUNATA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 12:30 y de 13:00 a 16:30"
+        }
+    },
+    {
+        "id": "c507d849-dddb-4374-9fe5-331e58e9f41a",
+        "name": "Trafalgar - Perez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.44739722222222",
+        "longitude": "-66.10643888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  09:00 a 19:00 "
+        }
+    },
+    {
+        "id": "c5ec20bd-fb08-4b67-9cb8-c65078cd5a48",
+        "name": "Barrio Villa San Miguel - Veliz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.441655555555556",
+        "longitude": "-66.14204722222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes  08:30 a 19:00 ,  Martes a Domingo  08:30 a 20:00 "
+        }
+    },
+    {
+        "id": "c647a335-0220-4428-8f01-e237dc74130b",
+        "name": "Esteban Arze - Condo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.400430555555555",
+        "longitude": "-66.15534444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabados de 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "c7d22347-32d8-44bf-a23a-357edf4ed67e",
+        "name": "Irpa Irpa - Valencia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.71716111111111",
+        "longitude": "-66.28904722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CAPINOTA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 12:00 y de 14:30 a 17:00"
+        }
+    },
+    {
+        "id": "c82f0a51-5b96-41d0-9e7f-5bf7314ef871",
+        "name": "Villa Rivero - Orellana",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.615650000000002",
+        "longitude": "-65.81014722222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "VILLA RIVERO"
+        },
+        "openingHours": {
+            "hour": "Lunes, miercoles, jueves y viernes de 09:00 a 12:00 y de 14:00 a 16:00"
+        }
+    },
+    {
+        "id": "c837bec1-de6e-4328-acd8-bdead917afee",
+        "name": "Batalla de Junin - Hidalgo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40328333333333",
+        "longitude": "-66.04119722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a18:00  y Sábado 08:00 a 15:00 "
+        }
+    },
+    {
+        "id": "c8f0234f-a8a4-4f85-83b9-c8ab75be70f9",
+        "name": "Plaza Lanza - Roman",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.394816666666667",
+        "longitude": "-66.27805555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 y 14:30 a 18:30; Sábado 08:30 a 13:00"
+        }
+    },
+    {
+        "id": "ca52fea8-5171-4350-9a5e-c20ea4a43c62",
+        "name": "Av. Libertadores - Conde ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.376786111111112",
+        "longitude": "-66.16161666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 09:00 a 12:00 y de 14:00 a 19:00 hrs"
+        }
+    },
+    {
+        "id": "ca5fd2e5-318a-462f-8878-9fccde72136e",
+        "name": "Cementerio Sacaba - Churata",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.415747222222222",
+        "longitude": "-66.04139722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 19:00; Sábado 09:00 a 19:00"
+        }
+    },
+    {
+        "id": "cc328b56-51cd-4ca7-bd21-e93025bd6b7b",
+        "name": "Calatayud - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.398591666666665",
+        "longitude": "-66.15204722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabados de hrs. 08:30 a 19:00"
+        }
+    },
+    {
+        "id": "ce6ae479-1d9f-451a-8d29-c8a23fe9c396",
+        "name": "10 de Junio Sacaba - Claros",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.402849999999997",
+        "longitude": "-66.03556666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "cef760b0-90c4-46cf-a4a5-0a7ae6c10067",
+        "name": "Sucre - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.393855555555554",
+        "longitude": "-66.15346666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes: 09:00 a 18: 00 horas. "
+        }
+    },
+    {
+        "id": "d03f4e2c-2dca-4126-a42d-039b763f3756",
+        "name": "Tomas Barron - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.441472222222224",
+        "longitude": "-66.11318055555554",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 12:30 y de 15:00 a 20:00"
+        }
+    },
+    {
+        "id": "d085b185-b608-401c-a3e8-e0d258172373",
+        "name": "Villa Busch Sud - Villarroel ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.396944444444443",
+        "longitude": "-66.19752222222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:30 a 19:00 y Sábados  08:30 a 12:00 "
+        }
+    },
+    {
+        "id": "d1249bbc-5361-4e70-8ff8-92bfd7856497",
+        "name": "Kanarrancho - Yavi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.355822222222223",
+        "longitude": "-66.2078138888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TIQUIPAYA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "d12ab1fe-6ad5-4bc7-bca6-c1306f2ce0fe",
+        "name": "Uspha Uspha - Villca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.462152777777778",
+        "longitude": "-66.10473055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:30 a 12:30 y de 15:30 a 20:00 hrs"
+        }
+    },
+    {
+        "id": "d14e8500-86d9-44d3-81f9-156205144fbd",
+        "name": "Sumumpaya II - Cachi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.400125",
+        "longitude": "-66.226875",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:00 a 16:00"
+        }
+    },
+    {
+        "id": "d1872ea8-14f1-41f9-9ceb-a71249888440",
+        "name": "Max Fernandez Arocagua - Arellano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.375069444444446",
+        "longitude": "-66.10618333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 13:00 y de 17:00 a 20:00"
+        }
+    },
+    {
+        "id": "d3953a40-3baf-4f08-afa1-84e4bbc4ffac",
+        "name": "Pucara Grande Sur - Condo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.466419444444444",
+        "longitude": "-66.169875",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "d39808fe-7ad9-4524-af8d-d965b5f6059b",
+        "name": "Catolica - Merida",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.372977777777777",
+        "longitude": "-66.1429638888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 20:00 "
+        }
+    },
+    {
+        "id": "d3f80955-0e53-458e-99a0-9dc9ea616134",
+        "name": "Minero San Juan - Vigabriel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.481069444444444",
+        "longitude": "-66.10262499999999",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 08:00 a 20:00 hrs"
+        }
+    },
+    {
+        "id": "d5716d77-822b-48de-9d82-98680229278f",
+        "name": "Templo Llauquenquiri - Vargas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.360525000000003",
+        "longitude": "-66.25305277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 19:00; sabados de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "d5bc28d5-ecb8-4ad0-a63e-6c5ea61fde41",
+        "name": "Villa Rosedal - Rodriguez ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.398083333333332",
+        "longitude": "-66.252725",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a  Viernes  08:30 a 18:30 "
+        }
+    },
+    {
+        "id": "d7ec5a7e-ba60-4b87-bb05-de7b03d34da3",
+        "name": "Oroncota - Saravia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40043888888889",
+        "longitude": "-66.04899444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 07:30 a 21:00"
+        }
+    },
+    {
+        "id": "d974cedb-4ba5-425f-bd91-ad14cde9298a",
+        "name": "Av. Segunda - Pacheco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.365483333333334",
+        "longitude": "-66.18948611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  09:00 a 18:00 "
+        }
+    },
+    {
+        "id": "da0356ea-a803-48fe-8226-5972cf61f1f8",
+        "name": "Ironcollo - Choque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.361019444444445",
+        "longitude": "-66.28554722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  09:00 a 12:00 a 14:00 a 18:00 "
+        }
+    },
+    {
+        "id": "da45aea0-ae44-48c9-b5ac-aea38f6cae51",
+        "name": "Pacata - Michel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.37351111111111",
+        "longitude": "-66.12216944444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "dad9a33d-b087-48c8-90f1-d1b993ac79d9",
+        "name": "Mercado Campesino - Garcia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.432161111111114",
+        "longitude": "-66.12432222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  08:00 a 19:00 "
+        }
+    },
+    {
+        "id": "dc0a1da7-28c9-410f-833f-089110219278",
+        "name": "Av. Circunvalación III - Pereira",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.352647222222224",
+        "longitude": "-66.182275",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "de6af379-ec79-46f1-9c32-caab968e7266",
+        "name": "Alalay Alto Mirador – Gonzales",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.455199999999998",
+        "longitude": "-66.11182222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 10:00 a 17:00"
+        }
+    },
+    {
+        "id": "deecb3af-5865-4a5a-8dc1-48351dda47f3",
+        "name": "Junin Tiraque - Cayo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.427147222222224",
+        "longitude": "-65.7239",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TIRAQUE"
+        },
+        "openingHours": {
+            "hour": "Lunes, martes, jueves y viernes de 08:00 a 12:00 y de 14:00 a 15:00; miercoles de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "defbaf59-e262-471f-bedd-a36dbdbbba39",
+        "name": "Colcapirhua Sud - Canaviri",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.391152777777776",
+        "longitude": "-66.24225277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 17:00 y sabado de 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "df576de8-3c36-4270-8ae2-53014fbc301a",
+        "name": "Motecato Vinto - Rocha",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.38254166666667",
+        "longitude": "-66.34322777777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "VINTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  07:00 a 20:00 "
+        }
+    },
+    {
+        "id": "e1c4d980-649f-4038-a44a-ef5051b24b14",
+        "name": "Incacollo Muyurina - Zurita",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.385808333333333",
+        "longitude": "-66.14545555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 20:00 hrs."
+        }
+    },
+    {
+        "id": "e33bbf50-b919-4624-ae68-cc60a8fafad9",
+        "name": "Agronomin II - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.471319444444443",
+        "longitude": "-66.14243611111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 17:00"
+        }
+    },
+    {
+        "id": "e417f4aa-9660-4739-a317-163394986a7c",
+        "name": "Blanco Galindo Km15 - Calle",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.395705555555555",
+        "longitude": "-66.30313888888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "e4d517f1-2ed0-44c7-8d6a-8bcbbc49c8ee",
+        "name": "San Luis Copacabana - Veliz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.425786111111112",
+        "longitude": "-66.15539166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "e76437bc-0c26-4a8e-b53d-0f71e863acff",
+        "name": "Av. Segunda - Arispe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.396530555555554",
+        "longitude": "-66.19778611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 17:30 hrs."
+        }
+    },
+    {
+        "id": "e7f069d0-3615-4f97-8af2-143628c136f2",
+        "name": "Alonzo de Ibañez - Cotrina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39475",
+        "longitude": "-66.1559",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a  Viernes  09:00 a 17:30 "
+        }
+    },
+    {
+        "id": "eae47d47-72e4-4bc7-aab3-7e9efb7cdc69",
+        "name": "Plaza Villa Israel - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.491641666666666",
+        "longitude": "-66.17730277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  09:00  a 20:00 "
+        }
+    },
+    {
+        "id": "ec053224-efd2-401b-8e90-84e2850f3cf0",
+        "name": "El Paso - Lazarte",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.338627777777777",
+        "longitude": "-66.26524166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 12:00 y 14:00 a 18:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "ecdca383-5839-4271-af19-d5acc48639e2",
+        "name": "América II - Flores",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.37119722222222",
+        "longitude": "-66.18044166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 22:00; Sábados 08:30 a 22:00; Domingo 13:00 a 22:00"
+        }
+    },
+    {
+        "id": "ee9b2806-2968-4610-8fe8-545fcb8fec19",
+        "name": "Alalay - Garcia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.425083333333333",
+        "longitude": "-66.13249166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 20:30 Sábado 08:30 a 20:30, Domingo 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "eff9b367-f7ff-4529-9d0a-710b43932c5a",
+        "name": "Barrientos - Luna",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40427222222222",
+        "longitude": "-66.15320277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "f256af3f-0368-402f-94fb-08ff59056c8e",
+        "name": "OTB Agromin - Jimenez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.468530555555553",
+        "longitude": "-66.13830555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 09:00 a 12:00 y de 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "f26b21c4-2519-4cf6-ac32-7977d375f1f8",
+        "name": "Cementerio Quillacollo - Garcia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40341944444444",
+        "longitude": "-66.29474444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 18:00"
+        }
+    },
+    {
+        "id": "f2aee633-b5d5-4f2a-92db-b6e5050917d2",
+        "name": "Loreto - Belen",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.41883888888889",
+        "longitude": "-66.15739444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 18:00; sabado de 09:00 a 14:00"
+        }
+    },
+    {
+        "id": "f35dfbd4-af00-462e-87f1-387ceaddb74c",
+        "name": "Edificio Los Alamos - Zeballos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.381788888888888",
+        "longitude": "-66.17677222222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "f3c68e6d-3dae-4e12-95e5-6b5cfe5edf68",
+        "name": "Barrio Kami - Guzman",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.36651666666667",
+        "longitude": "-66.234475",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 18:00 y Sábado 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "f530e4bf-537b-496d-8ea0-af08ad1744ba",
+        "name": "Villa Busch II - Aguilar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39883611111111",
+        "longitude": "-66.18635833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "f68e7ec7-481b-4fb0-b083-48ee919a25e0",
+        "name": "Av. Santa Cruz Tiraque - Montaño",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.43216388888889",
+        "longitude": "-65.72259166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TIRAQUE"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 17:00; sabado de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "f82820d2-c559-423b-928d-86ab2250d079",
+        "name": "Calama – Sola",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.395652777777777",
+        "longitude": "-66.15167222222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 18:00 y Sábado  08:00 a 14:00 "
+        }
+    },
+    {
+        "id": "fa2684cc-c1dc-42a2-8c54-ec5dd1a8ce3e",
+        "name": "Av. Ecologica - Callapa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.350380555555557",
+        "longitude": "-66.19303611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TIQUIPAYA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:00 y 14:00 a 22:00; Sábados 08:30 a 12:00 y 14:00 a 22:00; Domingo 08:30 a 12:00 y 14:00 a 22:00"
+        }
+    },
+    {
+        "id": "fb6f3d4f-b3c2-4d54-92d3-e4d378f13e0b",
+        "name": "Imba - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39720833333333",
+        "longitude": "-66.19615833333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 20:30; Sábados 08:30 a 20:30; Domingo 08:30 a 20:30"
+        }
+    },
+    {
+        "id": "fb9bda63-2014-48f0-abb6-634f97a32957",
+        "name": "SPR Villa Pagador - Choque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.43711111111111",
+        "longitude": "-66.11619999999999",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": " Lunes a Viernes  07:30 a 20:00 "
+        }
+    },
+    {
+        "id": "fbe373d3-0961-42e2-bc9d-c0d4c50d1a60",
+        "name": "Barrio Lazarte Vinto - Atocha",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39207777777778",
+        "longitude": "-66.31692777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "VINTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 14:00; Domingo 09:00 a 14:00"
+        }
+    },
+    {
+        "id": "fea13227-015b-4985-bc79-28ae88d3e306",
+        "name": "Plaza Sipe Sipe - Luna",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.45464722222222",
+        "longitude": "-66.35959166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SIPE SIPE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 16:00"
+        }
+    },
+    {
+        "id": "fede8146-25db-49b3-bead-67fc690f18f6",
+        "name": "Ticti Norte - Sanchez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.348583333333334",
+        "longitude": "-66.16848333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "fff0f7d8-8e4f-483f-95c1-358d861b8db0",
+        "name": "Yuracaré - Loayza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.375408333333333",
+        "longitude": "-66.18531111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 16:00"
+        }
+    }
+]

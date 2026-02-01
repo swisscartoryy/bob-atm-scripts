@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1c410b38-29ba-4951-aea6-f69b5e84e801",
+        "name": "Riberalta",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-10.998455555555555",
+        "longitude": "-66.07614166666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "BENI",
+            "holidays": "18 de noviembre"
+        },
+        "locality": {
+            "localitynName": "RIBERALTA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "235e7fe7-b4ed-4bb5-b7c9-48a0571d3fcc",
+        "name": "Guayaramerin",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-10.816502777777778",
+        "longitude": "-65.35399166666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "BENI",
+            "holidays": "18 de noviembre"
+        },
+        "locality": {
+            "localitynName": "GUAYARAMERIN"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "c4ab8eb4-327b-4735-8bc0-7c7a88c90dac",
+        "name": "Trinidad",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-14.83285",
+        "longitude": "-64.90615833333334",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "BENI",
+            "holidays": "18 de noviembre"
+        },
+        "locality": {
+            "localitynName": "TRINIDAD"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    }
+]

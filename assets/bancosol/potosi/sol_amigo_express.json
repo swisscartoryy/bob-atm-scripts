@@ -1,0 +1,662 @@
+[
+    {
+        "id": "014bee46-a5ac-41a9-b103-140355b14d07",
+        "name": "Vasquez - Rivera",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.578041666666667",
+        "longitude": "-65.76422777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:30 a 21:00"
+        }
+    },
+    {
+        "id": "0ab09861-e29e-4536-bba3-f00c90369e2d",
+        "name": "Av. H. Vasquez - Gutierrez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.592744444444442",
+        "longitude": "-65.75784444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 09:00 a 20:00; sabado 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "0baf6f09-dd47-48b7-97e4-48b3fd41455b",
+        "name": "Av. Prado San Clemente - Chiri",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.571202777777778",
+        "longitude": "-65.75580555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 13:00 y 14:00 a 19:00"
+        }
+    },
+    {
+        "id": "17befde2-52ac-4aba-b9ee-a90977086464",
+        "name": "Av. Ferroviaria - Mérida",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.580358333333333",
+        "longitude": "-65.76021944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 12:00y de 14:00a 20:00, Sabado y domingo de 09:00 a 15:00"
+        }
+    },
+    {
+        "id": "1d0557ff-63e7-4c4c-b179-6a15218501bc",
+        "name": "14 de Infantería - Morales",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.584175",
+        "longitude": "-65.74669166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00a 21:00; domingo 09:00 a 18:00"
+        }
+    },
+    {
+        "id": "1d74abba-a7fc-4075-8091-2d1ec2c28ee5",
+        "name": "Av. Las Palmeras - Barrios",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.559697222222223",
+        "longitude": "-65.76642222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "34fa257b-af24-4605-8974-778d7a7dbaa6",
+        "name": "10 De Marzo - Callapa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.595119444444443",
+        "longitude": "-65.78154444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 13:00 y 14:30 a 21:00"
+        }
+    },
+    {
+        "id": "5ae8ca18-bd74-422a-9b43-18799c374419",
+        "name": "Ravelo - Ayaviri ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.807683333333333",
+        "longitude": "-65.51105",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "RAVELO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 07:00 a 20:30; Domingo de 09:00 a 20:30"
+        }
+    },
+    {
+        "id": "5c6f99e8-92bb-47a8-968a-3ca4dd32e38d",
+        "name": "Av. Las Banderas - Rojas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.562947222222224",
+        "longitude": "-65.76143888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 20:30"
+        }
+    },
+    {
+        "id": "5e0d4236-25e1-4aa6-bf32-1aa5c1edb519",
+        "name": "Av. Argentina - Loayza ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.57027777777778",
+        "longitude": "-65.76572222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "5f49fa1c-2247-46d4-8ec4-74cec59dc5ea",
+        "name": "Av. Independencia - Castro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.57871388888889",
+        "longitude": "-65.76796944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 08:00 a 12:00 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "628d7b18-2761-4a99-935c-48602c912710",
+        "name": "Esperanza Poppe - Veliz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.57491111111111",
+        "longitude": "-65.74615",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 12:00 y 15:00 a 22:00"
+        }
+    },
+    {
+        "id": "72cd17fe-e786-4def-af85-87b682bc3a27",
+        "name": "Sagarnaga - Campos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.59454722222222",
+        "longitude": "-65.74427777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "8077345e-42a0-48a6-b04d-b424962d9a45",
+        "name": "Pando-Garabito",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.578441666666667",
+        "longitude": "-65.75342222222223",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 07:00 a 21:30 y Domingo de 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "946c7148-c7b4-493d-bf6c-b67220e3d33d",
+        "name": "Oruro-Cari",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.587041666666664",
+        "longitude": "-65.75548888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de Hrs. 09:00 a 13:00 y de 14:30 a 20:30"
+        }
+    },
+    {
+        "id": "9dec961b-7c63-4eba-9d59-e58ed7f18c30",
+        "name": "Mejillones - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.59068333333333",
+        "longitude": "-65.75681666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "9fca9f18-da23-40ee-9916-7b0278ea29a0",
+        "name": "Av. Panamericana - Barrientos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.577305555555554",
+        "longitude": "-65.76596111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  08 :00 19:30 y Domingo 08:00 a 13:00 y  14:30 a 20:00"
+        }
+    },
+    {
+        "id": "a01bdca6-5e7e-41ef-acd1-b779f67d5fa6",
+        "name": "Av. Tinkuy - Cardenas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.591413888888887",
+        "longitude": "-65.76145",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00  a 20:00 y Sábado de 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "bf944683-0ba0-407d-b283-beb28d88f2a4",
+        "name": "Rafael Pavon - Bautista",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.581219444444443",
+        "longitude": "-65.745225",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 6:30 21:30"
+        }
+    },
+    {
+        "id": "c093f863-552a-4fe1-91e9-22a965c497c9",
+        "name": "Hrnos. Ortega - Huanaco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.57523611111111",
+        "longitude": "-65.75219444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "c7c5c551-6a31-47aa-873b-77fceef270ff",
+        "name": "Av. Panamericana-Martinez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.869158333333335",
+        "longitude": "-65.54606388888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "TRES CRUCES GARNICA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 08:30 a 22:00 y Domingo de 15:00 a 19:00"
+        }
+    },
+    {
+        "id": "ca346d92-b008-4707-acc7-e036c181f0cd",
+        "name": "Corea del Norte - Santos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.560858333333336",
+        "longitude": "-65.76075555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado   08:00 a 20:00 ; Domingo  14:00  a 19:00"
+        }
+    },
+    {
+        "id": "cd9ec701-81ea-4e80-81d0-0cbb44604051",
+        "name": "Omiste-Valencia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.58525",
+        "longitude": "-65.75083055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:30 y de 14:30 a 18:30, sabado de 08:00 A12:30"
+        }
+    },
+    {
+        "id": "cf1a2242-06dc-42a5-aece-12fd6a3d92ca",
+        "name": "Av. Los Pinos - Arredondo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.569175",
+        "longitude": "-65.761125",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:30 a 21:30"
+        }
+    },
+    {
+        "id": "d4c896b4-fb05-44ce-bc98-d6b41cb5000a",
+        "name": "Pje. Boulevard - Claros",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.58774722222222",
+        "longitude": "-65.75242777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:30 a 21:30"
+        }
+    },
+    {
+        "id": "d765cd25-e59b-4812-9a7e-7a4265591858",
+        "name": "Cobija - Pary",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.58963333333333",
+        "longitude": "-65.75466944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:30 a 12:30 y 14:30 a 18:30"
+        }
+    },
+    {
+        "id": "eaa46e05-80a1-43fd-be3d-db53bfa3cb7d",
+        "name": "Junín-Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.585841666666667",
+        "longitude": "-65.75251666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de Hrs 07:00 a 21:00"
+        }
+    },
+    {
+        "id": "eb574df4-3421-4b39-bea2-00ee7429ba99",
+        "name": "Chayanta-Yucra",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.575483333333334",
+        "longitude": "-65.75023611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "f659ceca-103d-4ccb-b8cd-d709edbd1d41",
+        "name": "15 de Mayo - Hoyos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.579419444444444",
+        "longitude": "-65.754125",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 13:00 y 14:30 a 19:00"
+        }
+    },
+    {
+        "id": "fb2221ef-e562-4bb9-bb37-3b297980fae0",
+        "name": "Av. Universitaria - Lupe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.581286111111112",
+        "longitude": "-65.76208888888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 22:00"
+        }
+    }
+]

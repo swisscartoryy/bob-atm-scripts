@@ -1,0 +1,222 @@
+[
+    {
+        "id": "17c949df-0fc1-4aa5-b9a2-ac8592c3b306",
+        "name": "Sol Amigo 252 - Mercado San Bernardo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.525230555555556",
+        "longitude": "-64.72368055555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 13:30 y de 14:30 a 17:00; sabados de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2206e295-b5d3-43a1-a286-b9a5d2ea0dd4",
+        "name": "Sol Amigo 236 - Mercado Central",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.531475",
+        "longitude": "-64.7333111111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  8:30 a 13:30  y  14:30 a 17:00;  Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2dccd8ff-5599-4a6a-ac2f-c5dd1a2d913c",
+        "name": "Sol Amigo 192 - San Martín II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.535022222222224",
+        "longitude": "-64.74153611111112",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 12:00 y 14:30 a 18:30; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3663d24a-0bf0-47fa-b3f5-8813d3f90449",
+        "name": "Sol Amigo 67 - La Loma",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.526230555555554",
+        "longitude": "-64.73690277777777",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "44cb9e09-075d-4cd1-91c8-dc96e827fe8d",
+        "name": "Sol Amigo 229 - Mejillones",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.52158888888889",
+        "longitude": "-64.7313",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17;00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "4d0017de-b02c-4bb5-9bf7-cd867e774407",
+        "name": "Sol Amigo 109 - San Jorge",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.552072222222222",
+        "longitude": "-64.69106388888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "7643b53c-a7e8-43f3-a717-80fdc1949517",
+        "name": "Sol Amigo 237 - Mercado Bolívar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.536311111111115",
+        "longitude": "-64.72071111111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y  14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "cae34e95-84ab-4173-a14e-f169c89f53ea",
+        "name": "Sol Amigo 193 - El Molino",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.533022222222222",
+        "longitude": "-64.73793333333333",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 12:00 y 14:30 a 18:30; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "ce5dba49-5656-4f85-a93c-8675b731a981",
+        "name": "Sol Amigo 256 - Mercado Lourdes",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.51492222222222",
+        "longitude": "-64.72576111111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:30 a 13:30 y 14:30 a 17:00; sabado 09:00a 13:00"
+        }
+    },
+    {
+        "id": "d2d3c1c4-38ad-4b40-9a9f-3af6bdc0a073",
+        "name": "Sol Amigo 145 – Mercado Campesino",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-21.520008333333333",
+        "longitude": "-64.741775",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "TARIJA",
+            "holidays": "15 de abril"
+        },
+        "locality": {
+            "localitynName": "TARIJA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

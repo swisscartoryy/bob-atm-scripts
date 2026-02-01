@@ -1,0 +1,4732 @@
+[
+    {
+        "id": "00d75702-a99c-4a14-a49d-705444b8e779",
+        "name": "San Carlos - Yupanqui",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.869333333333334",
+        "longitude": "-63.206472222222224",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "De lunes  a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "02e599f3-d8c2-42dc-a702-028ed49aebad",
+        "name": "Satelite  - Burgoa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.60363888888889",
+        "longitude": "-63.13736111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingos de 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "0444a71d-8e40-4e11-9650-ebe505e5724b",
+        "name": "Luis Soruco Barba - Mariaca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.801916666666667",
+        "longitude": "-63.136805555555554",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 08:00 a 18:30"
+        }
+    },
+    {
+        "id": "04b20185-f12a-42f9-9315-3558b63585fa",
+        "name": "4 de Octubre – Solano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.8575",
+        "longitude": "-63.1395",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "05dbb115-a20a-46d3-9085-d578279e0d35",
+        "name": "Puerto Pailas - Cordero",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.66702777777778",
+        "longitude": "-62.791333333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUERTO PAILAS"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:30 a 12:00 y  de 13:00 a 18:00; sabados de 07:30 a 12:00"
+        }
+    },
+    {
+        "id": "05f599e7-964c-4dd9-906c-611d4f95fbb6",
+        "name": "Tres Lagunas - Acha",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.80627777777778",
+        "longitude": "-63.13886111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de hrs. 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "079813b9-0810-4953-bd66-8192c4c1f8cc",
+        "name": "Alto San Pedro - Michel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.81263888888889",
+        "longitude": "-63.185138888888886",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "08e32ee8-9e16-4905-a8c3-d86b0b93ffb3",
+        "name": "Mercado El Triunfo - Sirpa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.86152777777778",
+        "longitude": "-63.154583333333335",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "0aece76c-b6ab-41e5-b67b-5d785b6b26ab",
+        "name": "Santa Rosa Del Sara - Paniagua",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.110333333333333",
+        "longitude": "-63.59816666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 07:00 a 22:00 y Domingo 07:30 a 15:00"
+        }
+    },
+    {
+        "id": "0bced6ce-5298-48c6-9e48-823ab8c886a4",
+        "name": "Buena Fe - Lazo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.618222222222222",
+        "longitude": "-63.13883333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "De lunes a viernes de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "0c064986-62ba-49cc-8af6-090d1d2a239a",
+        "name": "24 de Junio  - Merlos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.404777777777777",
+        "longitude": "-63.882",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "YAPACANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 12:00 y 14:00 a 19:00 Sábado 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "0d1040de-72a2-4db9-970c-6b52e72f5dbf",
+        "name": "Basilio - Soliz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.124277777777777",
+        "longitude": "-63.19383333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "BASILIO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "0dbee7e2-e17b-44f0-9f56-a4f15f724ef5",
+        "name": "Quior I - Colque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.84772222222222",
+        "longitude": "-63.090611111111116",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "0e430b23-7513-4463-86ee-4ebd23d94ff1",
+        "name": "Petrolero Sur - Aparicio",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.799222222222223",
+        "longitude": "-63.16594444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "101592a5-151d-4172-be5a-c459d6f8099c",
+        "name": "San Silvestre - Palachay",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.727416666666667",
+        "longitude": "-63.13816666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "De lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "113cb7e0-98e0-426b-95b2-b5ec3b1c1a3b",
+        "name": "El Torno - Calderon",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.005194444444445",
+        "longitude": "-63.38724166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "EL TORNO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 10:00 a 12:00 y 13:00 a 20:00; Sábado y Domingo 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "14084eed-97bb-4903-a17f-e09eddf8927d",
+        "name": "Los Andes - Mendoza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.78575",
+        "longitude": "-63.12663888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "14372557-1779-4344-8410-2b84f16272e3",
+        "name": "Urubicha - Alercio",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-15.629444444444445",
+        "longitude": "-63.0835",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "URUBICHA"
+        },
+        "openingHours": {
+            "hour": "De lunes a sabado de 07:00 a 12:00 y de 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "1485d814-8f01-48ff-8a89-1984ec3febab",
+        "name": "Motacu - Churata",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.880305555555555",
+        "longitude": "-63.14113888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 06:00 a 20:00"
+        }
+    },
+    {
+        "id": "171b74bc-f28d-49c7-8113-fc1ff80840d4",
+        "name": "Cotoca - Arredondo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.75563888888889",
+        "longitude": "-62.99877777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COTOCA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 21:00; Domingo 08:00 a 15:00"
+        }
+    },
+    {
+        "id": "1859f55b-5b73-41e7-bbde-db4f14b109e9",
+        "name": "Juancho - Quispe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.85638888888889",
+        "longitude": "-63.05738888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:30 a 20:00; domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "18e91f5d-f319-4cc7-ac49-c98f879a99f9",
+        "name": "Lujan - Montaño",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.71025",
+        "longitude": "-63.06222222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COTOCA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 07:00 a 20:00 y sabado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "191dd387-d5e3-4259-9d32-327387bed709",
+        "name": "Centenario - Velasquez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.777805555555556",
+        "longitude": "-63.211444444444446",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 12:00 y 14:00 a 18:00, Sabado 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "19e7f99d-e8d2-4363-9b89-9b984af7508d",
+        "name": "Fatima – Duran",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.970666666666666",
+        "longitude": "-57.802305555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUERTO SUAREZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "1a3493e8-ce36-4150-9e9e-bf3354a3026a",
+        "name": "Iberoamericana  - Guzman",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.901444444444444",
+        "longitude": "-63.28961111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "1a3724a2-d88a-498b-aae2-7265979c61ad",
+        "name": "Magisterio  – Covarrubias ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.868861111111112",
+        "longitude": "-63.18230555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "1a443a6f-a637-4d74-9bcf-56af3db32790",
+        "name": "Preventiva - Flores",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82875",
+        "longitude": "-63.123916666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 18:00"
+        }
+    },
+    {
+        "id": "1b6e78bc-6084-4545-8b80-65f4fe7b64f9",
+        "name": "Buena Vista - Cruz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.45475",
+        "longitude": "-63.657",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "BUENA VISTA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sábado 08:00 a 20:00, Domingo 08:00 a 13:00                   "
+        }
+    },
+    {
+        "id": "1e231169-2889-48e2-a411-c31e8c4ba091",
+        "name": "Urbanizacion España - Crespo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.84236111111111",
+        "longitude": "-63.19647222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "1f6f725d-cc29-4fbc-a60d-6d9b58b4090a",
+        "name": "La Enconada - Quintana",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.055833333333332",
+        "longitude": "-63.894666666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA ENCONADA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:30 a 20:00; sabado de 07:30 a 13:00"
+        }
+    },
+    {
+        "id": "2172866c-a922-440d-ae76-3c66d15a5135",
+        "name": "Centenario – Frontanilla",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.77197222222222",
+        "longitude": "-63.20988888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "22f4357d-694a-466c-a570-abcb612867fd",
+        "name": "Portachuelo - Mogro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.35627777777778",
+        "longitude": "-63.40369444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PORTACHUELO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 07:00 a 20:00 "
+        }
+    },
+    {
+        "id": "22f5f359-1f10-493d-afe2-a962d65aa350",
+        "name": "Santa Martha - Peña",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.95625",
+        "longitude": "-63.358000000000004",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "EL TORNO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "24425d11-e288-4773-9359-0e19c470d0d9",
+        "name": "Villa Hermosa - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.756777777777778",
+        "longitude": "-62.98763888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COTOCA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 12:00 y 14:00 a 19:00"
+        }
+    },
+    {
+        "id": "24661125-5bf2-4b0c-a98c-1bbb4f53e9ac",
+        "name": "Quior - Chino",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.84725",
+        "longitude": "-63.08111111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:30 a 20:00 y domingos de 07:30 a 18:00"
+        }
+    },
+    {
+        "id": "24b13a41-ab5a-497e-bad1-544a650ec6b1",
+        "name": "Samaria - Mendoza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.85675",
+        "longitude": "-63.08833333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 13:00 y 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "27283c39-ae2d-4cae-9988-934fcb4a74c1",
+        "name": "Cuatro Cañadas II - Gutierrez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.26763888888889",
+        "longitude": "-62.5565",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CUATRO CAÑADAS"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "2738cbb2-4069-4cd5-b4ca-677463601cc1",
+        "name": "Los Jardines - Veliz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.81251388888889",
+        "longitude": "-63.219233333333335",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 23:00; Sábado 08:00 a 23:00; Domingo 10:00 a 14:00"
+        }
+    },
+    {
+        "id": "282bbf8f-47d2-43d4-be84-5a1b2387755f",
+        "name": "Cañaveral 1 - Yucra",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.151166666666665",
+        "longitude": "-63.19133333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 06:30 a 21:00"
+        }
+    },
+    {
+        "id": "28d1747c-6855-47f7-a8eb-0d23a3e71011",
+        "name": "Radial 10 - Adrian",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.812083333333334",
+        "longitude": "-63.14041666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado  09:00 a 13:30 y 15:30 a 20:00"
+        }
+    },
+    {
+        "id": "29185384-97c0-4764-ae00-deeb69fd3573",
+        "name": "Simon Bolivar - Burgoa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.881722222222223",
+        "longitude": "-63.28202777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "294f5407-2b23-43a7-bed6-c96075e7561d",
+        "name": "Bolivia - Blanco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.9",
+        "longitude": "-63.28397222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "2a141691-dec7-4237-85be-455283021a94",
+        "name": "24 de Septiembre - Itamari",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82063888888889",
+        "longitude": "-63.125305555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "2a1638cb-c579-4302-8794-321e539f0ad6",
+        "name": "Victoria I - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.81475",
+        "longitude": "-63.10755555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado de hrs. 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "2a424704-62bd-413a-90b1-8e314fd404a5",
+        "name": "Los Pinos - Negrete",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.85788888888889",
+        "longitude": "-63.24883333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:00 a 20:00 y sabado 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "2d8342de-d6e3-4321-8ac9-28d487c88f4c",
+        "name": "Ferbo  - Affonso ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.733361111111112",
+        "longitude": "-63.177305555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "300138fc-b808-460e-9fbf-0dcd38a50496",
+        "name": "Palmira - Rojas ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.87475",
+        "longitude": "-63.18575",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  07: 00 a 19:00"
+        }
+    },
+    {
+        "id": "30d091b8-700c-41c4-9005-b29e3a25a084",
+        "name": "Estacion Argentina - Reyes",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.79963888888889",
+        "longitude": "-63.152166666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 20:00; Sábado 08:00 a 18:00 y Domingo 09:00 a 12:00"
+        }
+    },
+    {
+        "id": "32ba3ab7-8017-475c-ba34-881017b326ae",
+        "name": "Virgen De Lujan – Yucra",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.747500000000002",
+        "longitude": "-63.12261111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "32e059f3-24b8-44fb-b5ca-56d8292b8b30",
+        "name": "Villa El Sol I - Merlo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.87661111111111",
+        "longitude": "-63.04058333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 16:00; sabado de 08:00 a 14:00"
+        }
+    },
+    {
+        "id": "33d572ed-5b58-440b-b3dc-be4e00d4dff9",
+        "name": "Guapuru - Saire",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.851861111111113",
+        "longitude": "-63.10077777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 17:00"
+        }
+    },
+    {
+        "id": "362687dd-0039-4ee6-b760-4bbf18f30725",
+        "name": "Melchor Pinto  - Antelo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.78258333333333",
+        "longitude": "-63.166583333333335",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 18:30; Sábado 09:00 a 13:30"
+        }
+    },
+    {
+        "id": "377036b3-463c-4a5f-94b3-d60f0cbaa7ea",
+        "name": "Mechero - Saavedra",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82863888888889",
+        "longitude": "-63.129805555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "37e2213e-1bcb-4421-962c-a86d2553eb9e",
+        "name": "San Jorge  - Mendez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.739",
+        "longitude": "-63.08905555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "38ef9738-fc4a-4157-8c61-9533025dd7c7",
+        "name": "Santos Dumont - Quisbert",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.833805555555553",
+        "longitude": "-63.18555555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "3b252281-f7b8-4e98-85f3-782dda25045d",
+        "name": "Oxibol - Rodriguez  ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.844083333333334",
+        "longitude": "-63.19141666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:00 a 19:00 y Sábado a Domingo 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "3c071d9b-6e5f-45e0-a1c2-64f1898b8ae9",
+        "name": "Valparaiso – Ortuste",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.892277777777778",
+        "longitude": "-63.221333333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "3c55e7a1-e855-4214-9e1a-6209cae0bfcd",
+        "name": "Mariscal Santa Cruz - Huallpa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.344077777777777",
+        "longitude": "-63.250730555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 12:00 y 14:00 a 18:30; Sábados 08:00 a 16:00"
+        }
+    },
+    {
+        "id": "3e5dac0c-1ee8-403e-9478-09fb66badab6",
+        "name": "Camatindi - Gaspar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.803611111111113",
+        "longitude": "-63.18711111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 20:00 y Sabado 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "3f8a5899-86fe-48e1-abf8-0396e8c8ba38",
+        "name": "Warnes II - Flores",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.526888888888887",
+        "longitude": "-63.17691666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "43653d72-b03b-4edd-b723-4eecbd0f81d2",
+        "name": "El Trigal - Nota",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.861833333333333",
+        "longitude": "-63.21330555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "De lunes a viernes de 08:00 a 16:00; sabado de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "44480fec-c71b-4b35-a815-aa0b6ba9bca8",
+        "name": "Cañoto II - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.78986111111111",
+        "longitude": "-63.187638888888884",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 19:00 sabado y domingo de 08:00 a 14:00"
+        }
+    },
+    {
+        "id": "45c08074-7bd4-4cdc-9981-9b272e042456",
+        "name": "Virgen de Guadalupe – Pereira",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.731583333333333",
+        "longitude": "-63.123805555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "45e3eddd-f7a0-4a63-b39c-14d31ccfb1c0",
+        "name": "Colorada I - Mostajo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.836138888888886",
+        "longitude": "-63.154111111111106",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "45e81a14-c394-4326-ba39-7de120248614",
+        "name": "Porongo - Maturano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.85125",
+        "longitude": "-63.30533333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PORONGO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "477ae2a1-c009-47c9-b325-7d01a72189f0",
+        "name": "Brigida – Montaño",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.755916666666668",
+        "longitude": "-63.19188888888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "4844aa71-ff8a-492d-ab46-0200176324b6",
+        "name": "Los Pinos Norte - Ordoñez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.690916666666666",
+        "longitude": "-63.147666666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a Martes 06:30 a 14:00 y 16:00 a 21:30 Miércoles 06:30 a 14:00;  Jueves a Domingo 06:30 a 14:00 y 16:00 a 21:30"
+        }
+    },
+    {
+        "id": "48b6f019-462c-4c01-bf23-148f94880a63",
+        "name": "Jardin Latino - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.8135",
+        "longitude": "-63.221805555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "48db4697-e4ae-491c-ab92-3264b1e3b24c",
+        "name": "Casco Viejo - Vargas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.291722222222223",
+        "longitude": "-63.85152777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN JUAN DE YAPACANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "495430b6-6926-47b9-904e-9cbf291825a9",
+        "name": "San Julian – Mamani ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.91125",
+        "longitude": "-62.615972222222226",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN JULIAN"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y 14:00 a 20:00; sabado de 08:00 12:00"
+        }
+    },
+    {
+        "id": "4c9cacfc-c4cc-4e90-a769-cd245513f5d0",
+        "name": "Palmar - Villalba",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.854972222222223",
+        "longitude": "-63.17908333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "4cc1a9d7-5b4f-4171-8582-08a0fe3b3e1d",
+        "name": "Mercado 2 De Agosto - Castro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.734111111111112",
+        "longitude": "-63.14311111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 18:00"
+        }
+    },
+    {
+        "id": "4cd9fed5-957a-4e08-bbce-0481b0c63c86",
+        "name": "El Terrado – Espinoza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.801833333333335",
+        "longitude": "-63.09569444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 de 20:00"
+        }
+    },
+    {
+        "id": "4d2ef55d-e9c0-4852-98d0-c79a7c2b9f7e",
+        "name": "Zaragoza - Ramos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.72336111111111",
+        "longitude": "-63.08488888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes: 06:30 a 20:00 y Sábado 14:00 a 18:00 "
+        }
+    },
+    {
+        "id": "4d624bef-355d-4bc1-90f1-247031d45340",
+        "name": "Libertad - Garnica",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.74211111111111",
+        "longitude": "-63.08636111111112",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "4dfbe779-bb59-4131-a172-44339e3d387c",
+        "name": "Mairana - Arce",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.12163888888889",
+        "longitude": "-63.95897222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MAIRANA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 08:00 a 20:00 y domingo 08:00 a 12:00 y 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "4e712782-d23a-4a46-b138-5ef7157fbe28",
+        "name": "Samaipata - Cardona",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.178055555555556",
+        "longitude": "-63.86997222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAMAIPATA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 09:00 a 12:00 y 15:00 a 20:00"
+        }
+    },
+    {
+        "id": "4ffea5de-ac66-45a9-b64b-d00822d9f4f9",
+        "name": "Mercado Urkupiña - Garcia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.83383333333333",
+        "longitude": "-63.11427777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "500d864e-daff-45fc-822f-89e21a0b811b",
+        "name": "26 De Septiembre - Cortez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.722305555555554",
+        "longitude": "-63.10444444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Martes y Jueves a Domingo 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "50dece1f-070d-470b-b988-50c499090f2a",
+        "name": "Fatima II - Peñaranda",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.860055555555558",
+        "longitude": "-63.17044444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 12:00 y de 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "51c097d8-5966-4705-a406-6663cf9c2a67",
+        "name": "San Isidro – Choque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.81222222222222",
+        "longitude": "-63.12925",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "5242b237-0b2c-4e2c-9936-71311eee6322",
+        "name": "El Recreo - Huanaco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.88111111111111",
+        "longitude": "-63.09236111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:30 a 13:00 y 16:00 a 20:30"
+        }
+    },
+    {
+        "id": "52afe56a-5da6-4615-bab8-0db747f781e6",
+        "name": "Moscu II - Crispin",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.843805555555555",
+        "longitude": "-63.21402777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes  a Domingo 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "54e92e48-b79e-478c-8372-292a8295ea6e",
+        "name": "Pirai - Seas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.815472222222223",
+        "longitude": "-63.23122222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 07:00 a 22:00 y Domingo 07:30 a 15:00"
+        }
+    },
+    {
+        "id": "5534407f-cc91-4c91-9a1e-adf3694d30fb",
+        "name": "Palmas del Este - Alvarez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.72022222222222",
+        "longitude": "-63.00633333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COTOCA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "57871549-c8f9-44b0-b31b-e1037736ba3c",
+        "name": "Buena Fe – Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.611472222222222",
+        "longitude": "-63.14694444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:30 a 20:00"
+        }
+    },
+    {
+        "id": "5b140481-4923-4e0d-bd7d-e59e6a9d141a",
+        "name": "Montero - Guzman",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.347605555555553",
+        "longitude": "-63.24641944444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 18:00; Sábado 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "5c674822-49ca-4a25-ae05-118da3a667b7",
+        "name": "Barrio Lindo - Pocomani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.897055555555553",
+        "longitude": "-63.269527777777775",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 19:00"
+        }
+    },
+    {
+        "id": "5d7e026e-01b2-45c0-a50c-1ec79343bb80",
+        "name": "San Ramon - Padilla",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.611055555555556",
+        "longitude": "-62.497416666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN RAMON"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes: 08:00 a 19:00 y Sábado: 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "5d827247-5d41-47f5-b81a-e9948aacc412",
+        "name": "Mapaizo - Pinedo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.848166666666664",
+        "longitude": "-63.24841666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "5ea9a9b3-3f76-440d-b467-e8e4919b7c66",
+        "name": "Integracion del Norte – Vallejos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.603444444444445",
+        "longitude": "-63.17536111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "6028fc40-55d4-4f1e-ac41-4865e0bbce13",
+        "name": "Yotau - Sarzuri",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.175138888888892",
+        "longitude": "-63.021388888888886",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "YOTAU"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "6239a6d1-4124-4a76-82ef-91724969c725",
+        "name": "Cristo Rey - Revollo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.84861111111111",
+        "longitude": "-63.15647222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 10:30 y 12:00 a 20:00; sabado y domingo de 09:00 a 12:00 y 17:00 a 20:00"
+        }
+    },
+    {
+        "id": "6384dc30-b118-40e7-a132-a99745f2f876",
+        "name": "Radial 19 - Leon",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.791027777777778",
+        "longitude": "-63.212583333333335",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "65886945-5d2c-4680-b52c-d56f18e690b9",
+        "name": "Transcontinental - Condori",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82322222222222",
+        "longitude": "-63.112722222222224",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "6818aa75-0bd8-4545-91a9-249095c19724",
+        "name": "Santa Julia - Suvia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.85438888888889",
+        "longitude": "-63.04102777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 18:00, domingo de 08:30 a 18:00"
+        }
+    },
+    {
+        "id": "689f3b14-50c8-47b6-80a2-2bf5c9e74782",
+        "name": "Los Pocitos - Colque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.84178888888889",
+        "longitude": "-63.110283333333335",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 06:00 a 20:00; Sábado 06:00 a 20:00; Domingo 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "693eb146-91bc-41e4-9999-0735e27b37f3",
+        "name": "Integración de las Américas - Felipe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.883016666666666",
+        "longitude": "-63.27130555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:00 a 20:00; Sábado 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "6b25e35a-fffa-46e7-98db-0f0d83803a7e",
+        "name": "Nazaret - Honor",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82425",
+        "longitude": "-63.103833333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 20:00; sabado de 09:00 a 16:00"
+        }
+    },
+    {
+        "id": "6b5f2cfd-b689-4157-9e65-c868161e1ad3",
+        "name": "Nuevo Palmar - Arancibia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.87591666666667",
+        "longitude": "-63.159555555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "6b6bd903-1806-4f87-96a7-002cb8d48432",
+        "name": "Virgen De Cotoca - Leigue ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.771694444444442",
+        "longitude": "-63.12463888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:00 a 20:00; sabado 08:00 a 14:00 y domingo 08:30 a 14:00"
+        }
+    },
+    {
+        "id": "6c8d85ed-6785-4c30-8eea-0a240b18812b",
+        "name": "Moscu  - Aleman",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.826113888888887",
+        "longitude": "-63.201597222222226",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 17:00; Sábados 08:00 a 17:00 y Domgos 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "6ff41671-7593-4ea5-89a9-019cc5dd8f01",
+        "name": "Arroyo Concepcion - Puita",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.027666666666665",
+        "longitude": "-57.71019444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUERTO QUIJARRO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "6fffac9a-00ab-48ad-9ec3-5c7d2daea9f9",
+        "name": "Virgen De Cotoca – Villca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.85002777777778",
+        "longitude": "-63.105361111111115",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 12:30 y 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "70f8ae77-6187-4344-a324-5ebf7c3749a7",
+        "name": "Trompillo - Sanjines",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.800250000000002",
+        "longitude": "-63.16961111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "72c5e1e3-94b2-48fb-99ad-4581d04e3161",
+        "name": "Ingavi - Negrete",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.784972222222223",
+        "longitude": "-63.185361111111106",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "7430ed1b-bc55-4d6b-b411-5e2df78189fd",
+        "name": "San German - Burgos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.348777777777777",
+        "longitude": "-64.09244444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN GERMAN"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  07:00 a 20:00 y Domingo 07:00 a 12:00"
+        }
+    },
+    {
+        "id": "7612e723-43b8-46b6-ade0-91ec157580da",
+        "name": "Chane - Marquina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.966638888888887",
+        "longitude": "-63.221361111111115",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CHANE INDEPENDENCIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado de hrs.  08:00 a 20:00 "
+        }
+    },
+    {
+        "id": "78c6d701-f5ec-4456-8964-27d099aea662",
+        "name": "Cenetrop - Vargas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.86861111111111",
+        "longitude": "-63.177055555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "De lunes a sabado de 08:00 a 20:00; domingo de 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "7a08ecef-c22b-48e7-9d07-d44b545acd2f",
+        "name": "18 De Marzo - Cabrera",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.818055555555556",
+        "longitude": "-63.13883333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "7b4e8732-5da3-4da7-85d6-e8ac69331fd5",
+        "name": "Monumental Norte - Moye",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.603305555555558",
+        "longitude": "-63.16008333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "7b6fa4fc-8408-4644-bf46-bfe6c6e32e7f",
+        "name": "Centinelas Del Chaco- Martinez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.814083333333333",
+        "longitude": "-63.17177777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "7b70918c-de55-4df2-9251-bb64ae7b1939",
+        "name": "Loma Alta - Cortez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.078916666666668",
+        "longitude": "-63.48536111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LOMA ALTA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "7bf432e3-5bac-4557-bd56-eca84be3b84d",
+        "name": "Mercado El Recreo - Ochoa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.885305555555554",
+        "longitude": "-63.09502777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 09:00 a 21:00  "
+        }
+    },
+    {
+        "id": "7c75e29c-35be-4b33-9c70-9da4e9c91640",
+        "name": "El Dorado II - Aldana",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.741369444444445",
+        "longitude": "-63.09899166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:00 a 21:00; Sábado 07:00 a 21:00"
+        }
+    },
+    {
+        "id": "7d5daeb8-fc7f-461d-9f52-bb30a2b6925d",
+        "name": "14 De Septiembre - Hilarion",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.61652777777778",
+        "longitude": "-63.13536111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "7e9afe92-c931-4fb4-a5fb-650fb6524285",
+        "name": "Buen Retiro - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.28977777777778",
+        "longitude": "-63.71563888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "BUEN RETIRO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 09:00 a 12:00 y de 14:00 a 20:00; sabado y domingo 09:00 a 15:00"
+        }
+    },
+    {
+        "id": "7fc01db7-a65a-4595-82ec-a99589c7eafe",
+        "name": "Litoral - Copa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.87125",
+        "longitude": "-63.14769444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "80aba43e-0d16-4a69-9178-0e985c2ca787",
+        "name": "Balcon II - Cayo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.875083333333333",
+        "longitude": "-63.24308333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "82d07084-c6f1-40d1-aed8-cb3aa2b668c0",
+        "name": "Nueva Ramada - Yauri",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.835916666666666",
+        "longitude": "-63.21705555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes y domingo de 08:30 a 12:00 y de 14:30 a 20:00"
+        }
+    },
+    {
+        "id": "83d7b5d3-f47c-4f7a-b6d3-6e5129afc880",
+        "name": "Montero – Rengel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.33325",
+        "longitude": "-63.251777777777775",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "8444a530-cab9-4a4f-bfa1-a7a4c696bd0c",
+        "name": "Las Pampas - Parada",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.76488888888889",
+        "longitude": "-63.12466666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "873540ce-017b-44f6-aeea-c91b59718de2",
+        "name": "Mercadito Arca De Noe - Aro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.810194444444445",
+        "longitude": "-63.08386111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "876ac7cf-4244-4387-bf2e-62269b26220c",
+        "name": "Ciudad de la Alegria – Diaz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.85627777777778",
+        "longitude": "-63.11055555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 07:00 a 16:00"
+        }
+    },
+    {
+        "id": "88d31067-68b1-4533-9439-986d3e385466",
+        "name": "Buena Vista - Diaz ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.46258333333333",
+        "longitude": "-63.66261111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "BUENA VISTA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "8925cd06-d275-47b6-addf-1281c61914c3",
+        "name": "El Gallito - Castro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.857111111111113",
+        "longitude": "-63.102222222222224",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "89944147-e714-49a4-a61e-583ae4f7e09f",
+        "name": "Integracion  -Arancibia ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.599166666666665",
+        "longitude": "-63.167249999999996",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "89b2588a-c5a7-497f-b39f-4a52917f6c5d",
+        "name": "Avaroa - Cahuasiri",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.402583333333332",
+        "longitude": "-63.88341666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "YAPACANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "8a482425-4f88-4177-8c5b-c00c9b4c7416",
+        "name": "Febrero - Franco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.807472222222223",
+        "longitude": "-63.13794444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes: 08:00 a 13:00 y 14:00 a 19:00"
+        }
+    },
+    {
+        "id": "8b9dc41c-c122-488e-b9af-c9fdd1fc2e19",
+        "name": "4 de Noviembre II - Lupe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.77797222222222",
+        "longitude": "-63.20294444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "8ce27c4e-e82c-4d42-82ce-7b0e28a9f652",
+        "name": "Alto San Pedro - Peña",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.81088888888889",
+        "longitude": "-63.18975",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 18:00; Sábado 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "8cf9cf66-6ff8-4e4c-937e-736f8110e602",
+        "name": "Tierras Nuevas-Llanos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.848633333333332",
+        "longitude": "-63.214733333333335",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:00 a 19:00"
+        }
+    },
+    {
+        "id": "8d853281-5abc-4bd9-9e87-ecec5542a2e8",
+        "name": "Refineria - Rodas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.87263888888889",
+        "longitude": "-63.1975",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 09:00 a 20:00 "
+        }
+    },
+    {
+        "id": "8e12e174-bae5-46ca-a542-a9f6bb3c2dd8",
+        "name": "El Balcon - Tarqui",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.886972222222223",
+        "longitude": "-63.28252777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 07:30 a 22:00"
+        }
+    },
+    {
+        "id": "916a3487-e2bf-46a8-90e3-1c40cfd9fff8",
+        "name": "Puerto Quijarro I - Peixoto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.00686111111111",
+        "longitude": "-57.72916666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUERTO QUIJARRO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "9270e663-bb6d-4f14-a8c8-471dd91be2e3",
+        "name": "Yapacani – Choque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40475",
+        "longitude": "-63.90563888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "YAPACANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:30 a 20:00"
+        }
+    },
+    {
+        "id": "93623dd3-7e99-4d08-bd18-5f42a5922c5d",
+        "name": "Mercado 7 De Abril - Acuña",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.777472222222222",
+        "longitude": "-63.10788888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "94bf708a-0a89-4b85-ac2e-e3aa19585ad9",
+        "name": "Abasto - Equiza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.795166666666667",
+        "longitude": "-63.20461111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes  a viernes de 08:00 a 20:00 y Sabado de 09:00 a 15:00"
+        }
+    },
+    {
+        "id": "95f04739-d31e-42bf-93b8-34b3d60ed2d5",
+        "name": "Bermudez – Gonzales",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82422222222222",
+        "longitude": "-63.24780555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "970e4e9a-d7c4-41c4-813c-9fcfd346f9a0",
+        "name": "Plan 4000 - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.884",
+        "longitude": "-63.17744444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a martes de 08:00 a 18:00; miercoles de 14:30 a 18:00; jueves a viernes de 08:00 a 18:00; sabado de 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "9a0f987e-e918-4b2e-9b1a-f82e5570898d",
+        "name": "22 De Febrero - Lima",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.943555555555555",
+        "longitude": "-62.970416666666665",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 - 14:00 a 18:00 sabado  08:00 a 18:00"
+        }
+    },
+    {
+        "id": "9a551172-1a9e-4e99-86eb-d51779f68bca",
+        "name": "Km 9 Norte - Quispe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.697122222222223",
+        "longitude": "-63.161055555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 22:00; Sábado 08:00 a 18:00; Domingo 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "9b93bab8-de47-427d-9570-e51fda570ed9",
+        "name": "Santa Carla - Vallejos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.865583333333333",
+        "longitude": "-63.08836111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:00 a 22:00  "
+        }
+    },
+    {
+        "id": "9eed22ae-27d1-4eeb-b2d0-a05b603e36c5",
+        "name": "Los Piyos - Chuvi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.902749999999997",
+        "longitude": "-63.21802777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 06:00 a 21:00  "
+        }
+    },
+    {
+        "id": "a030d505-062b-41c1-8b4b-1230203cb1b0",
+        "name": "Valparaiso - Aldana",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.880305555555555",
+        "longitude": "-63.227333333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:00 a 21:00; Sábado 07:00 a 21:00"
+        }
+    },
+    {
+        "id": "a21b0e32-42ce-47b2-807c-50d184e6d9fd",
+        "name": "Jardin Del Sur - Paravisini",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.870555555555555",
+        "longitude": "-63.129111111111115",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 09:00 a 12:00 y 14:30 a 20:00"
+        }
+    },
+    {
+        "id": "a2b4cfb4-c380-4eb5-8ae1-cc11f2224ddb",
+        "name": "Minero - Baldiviezo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.116944444444446",
+        "longitude": "-63.23225",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MINEROS"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 19:00"
+        }
+    },
+    {
+        "id": "a40db116-bd90-401c-ace4-73d00d506ffa",
+        "name": "Las Pampitas - Calatayud",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.770055555555555",
+        "longitude": "-63.122638888888886",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "De lunes a domingo de 08:30 a 18:30"
+        }
+    },
+    {
+        "id": "a566a13f-3c44-47bb-a329-4311230fecaa",
+        "name": "Mercado Nuevo - Ovando",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.820805555555555",
+        "longitude": "-63.14819444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 19:00"
+        }
+    },
+    {
+        "id": "a63e3178-ee54-46f1-9ebc-b1f3c0a8e1fd",
+        "name": "Hiper Plan 3000 - Yepez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.835305555555554",
+        "longitude": "-63.132305555555554",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 18:30; sabado de 09:00 a 15:00"
+        }
+    },
+    {
+        "id": "a734d10b-679d-44c1-99ce-b9cb5cf10890",
+        "name": "Quior Villa Piraicito - Vallejos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.852216666666667",
+        "longitude": "-63.074375",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 22:00; Sábado 08:00 a 22:00; Domingo 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "a7dc1aac-6da4-4273-95b6-d9f483ff5dd9",
+        "name": "Mercado Fortaleza - Prieto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.863083333333336",
+        "longitude": "-63.160555555555554",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  08:00 a 20:00"
+        }
+    },
+    {
+        "id": "a90c0661-36dc-4351-b3d7-71e35e676819",
+        "name": "El Fuerte - Vargas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.847083333333334",
+        "longitude": "-63.147305555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 07:00 a 19:00"
+        }
+    },
+    {
+        "id": "ab394832-76d0-43f3-a361-4c1fd70dc3d3",
+        "name": "Cheguevara - Fuentes",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.80388888888889",
+        "longitude": "-63.135416666666664",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:00 a 20:00 y Domingo 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "acd20f60-38a3-4f64-a920-66b4b2d6213b",
+        "name": "Roca y Coronado - Quino",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.83833333333333",
+        "longitude": "-63.16027777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:00 a 21:00; Domingo 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "b2caa69e-be13-40d8-a4dc-bcdeb2d0f4cd",
+        "name": "El Bajio II - Pinto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.827388888888887",
+        "longitude": "-63.22702777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "b3289871-aa4d-4524-be3a-2ee3561f9cb0",
+        "name": "Cotoca - Ovando",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.753972222222224",
+        "longitude": "-62.995666666666665",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COTOCA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:30 a 20:00"
+        }
+    },
+    {
+        "id": "b381a3e6-0584-4280-88a4-88149ce7a823",
+        "name": "Don Bosco - Garcia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.835277777777776",
+        "longitude": "-63.19691666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "b6db0ba6-b9cb-4460-ad73-9f0451564fc7",
+        "name": "Sucre - Ramos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.799305555555556",
+        "longitude": "-63.124694444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "b6eda680-9832-43d6-89ba-c0038cd91202",
+        "name": "Santa Rosita - Alejandro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.78966666666667",
+        "longitude": "-63.20191666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 08:00 a 20:00 "
+        }
+    },
+    {
+        "id": "ba24ed72-5340-4156-be7f-db60c6f63068",
+        "name": "La Casona - Vidal",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.59397222222222",
+        "longitude": "-63.09286111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "baaac529-ac0e-40dc-ae68-4ab73102d316",
+        "name": "El Pajonal - Arzabe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.807972222222222",
+        "longitude": "-63.171416666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 20:00; domingo de 07:00 a 14:00"
+        }
+    },
+    {
+        "id": "baad8d19-7327-4371-bd12-f1552f91456f",
+        "name": "Montero - Huallpa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.34261111111111",
+        "longitude": "-63.22658333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y 14:00 a 18:30; sabado de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "bc3ee264-8807-4e38-b7a8-76049176c954",
+        "name": "Km 12 - Leigue",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.867805555555556",
+        "longitude": "-63.272555555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:30 a 17:00; sabado 08:30 a 13:00"
+        }
+    },
+    {
+        "id": "bcc53e2a-b993-40ff-9ff9-42002412311b",
+        "name": "Brecha 4 - Merida",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.016666666666666",
+        "longitude": "-63.02897222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 08:00 a 12:00 - 14:00 a 20:00 y domingo 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "bf729210-94f6-4c93-86eb-6d2978b4a3fe",
+        "name": "Parada 15 - Mantilla",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.87011111111111",
+        "longitude": "-63.16497222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "c0474b66-3dd9-4c8d-89e4-52fd6945c986",
+        "name": "Yapacani - Arusti",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.405083333333334",
+        "longitude": "-63.88869444444445",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "YAPACANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "c0da3304-07e3-4664-aaef-0cfbf04d0946",
+        "name": "El Palmar – Landa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.88597222222222",
+        "longitude": "-63.15136111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "c1124004-7f0f-4366-a997-725a7247c4c7",
+        "name": "16 de Julio - Caceres",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.80527777777778",
+        "longitude": "-63.128166666666665",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "c3082e1b-1212-46dd-a8bb-9c06e0b3b4c4",
+        "name": "Aqualand Guapay - Quinteros",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.631666666666668",
+        "longitude": "-63.16447222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 07:00 a 22:00"
+        }
+    },
+    {
+        "id": "c63cbdbd-fb9f-4be9-9b66-a577e7552681",
+        "name": "El Recreo - Ibarra",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.893583333333332",
+        "longitude": "-63.08533333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "c6955247-0d6c-4a21-9c02-9c6ad7bb2b83",
+        "name": "La Bota – Vera",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.59772222222222",
+        "longitude": "-63.13561111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "c72b1dc2-d16a-45dc-923a-d03f3ade3979",
+        "name": "Palmira - Castro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.876944444444444",
+        "longitude": "-63.171305555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "c821fd07-bd32-4bf3-833e-ef1c3d7b0753",
+        "name": "Integración del Norte - Quispe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.6035",
+        "longitude": "-63.17347222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:00 a 18:00"
+        }
+    },
+    {
+        "id": "ca9d2932-0795-46c0-9cc2-30afa009303c",
+        "name": "Jenecheru - Molina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.726527777777775",
+        "longitude": "-63.15602777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 20:00; Sábado 08:30 a 13:00"
+        }
+    },
+    {
+        "id": "cb330d6a-4fb7-4d74-97ec-163bb8902c22",
+        "name": "Vaca Guzman – Espinoza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.405166666666666",
+        "longitude": "-63.20558333333334",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CABEZAS"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "cbf7073d-06f2-4065-9311-7a0a52f3755b",
+        "name": "Quirusilla - Jimenez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.335416666666667",
+        "longitude": "-63.94638888888888",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUIRUSILLAS - LOS TAJIBOS"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "d0068881-41b9-434e-b8ae-f4061ca58af4",
+        "name": "Alto San Pedro - Gonzales",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.81041666666667",
+        "longitude": "-63.19033333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 12:00 y 14:00 a 19:00 ; Domingo 08:00 a 17:00"
+        }
+    },
+    {
+        "id": "d0c00f04-6c76-4978-a5ef-54f4185d7551",
+        "name": "Paurito - Lopez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.88127777777778",
+        "longitude": "-62.94413888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 20:00; domingo de 07:00 a 12:00"
+        }
+    },
+    {
+        "id": "d3aaf095-eb4f-469a-95bc-847d637fe71f",
+        "name": "Santa Lucia - Villanueva",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.717777777777776",
+        "longitude": "-63.07877777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "d53742ae-24a3-4778-a1f7-5b42a99a274d",
+        "name": "Quijarro - Garcia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.004555555555555",
+        "longitude": "-57.71188888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUERTO QUIJARRO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 19:30 ; Sabado y Domingo 08:00 a 13:30"
+        }
+    },
+    {
+        "id": "d8dfc2cb-3339-407d-b61f-267baf746a0d",
+        "name": "Vallecitos - Castillo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.847305555555554",
+        "longitude": "-63.225861111111115",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "d939da2c-8f8b-48f2-8255-8a5d12f32a56",
+        "name": "El Tajibo- Villarroel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.861694444444446",
+        "longitude": "-63.15038888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 12:00 y 14:00 a 19:00; sabado de 14:00 a 19:00"
+        }
+    },
+    {
+        "id": "db61a019-34ed-4977-be21-eac24b3bb8fa",
+        "name": "Soberania Nacional - Corrales",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.783069444444443",
+        "longitude": "-63.12817777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 21:30; Sábado 14:00 a 21:30; Domingo 14:00 a 21:30"
+        }
+    },
+    {
+        "id": "dd91cddb-3713-46ba-b23c-2a53178cbe8e",
+        "name": "Navidad - Pardo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.79286111111111",
+        "longitude": "-63.150555555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "df130ae6-e10b-48e5-9175-ccc1cfc533e7",
+        "name": "Polanco - Sanjines",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.8035",
+        "longitude": "-63.16433333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "df1d0677-07e3-4c1d-be26-6d885f5e92b5",
+        "name": "La Peña - Muruchi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.942888888888888",
+        "longitude": "-62.968916666666665",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 - 14:00 a 18:00 sabado 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "e0025605-4a12-40aa-ac90-21edcbd2b9ad",
+        "name": "Warnes - Arancibia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.51025",
+        "longitude": "-63.16566666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:00 a 17:00"
+        }
+    },
+    {
+        "id": "e0a54b43-5256-4527-a1fa-a15c21ece619",
+        "name": "Mercado Recreo - Huanaco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.885638888888888",
+        "longitude": "-63.09488888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 16:00"
+        }
+    },
+    {
+        "id": "e13cd38d-2c37-483b-b377-fee2465e637c",
+        "name": "La Campana  - Quiroga",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.817666666666668",
+        "longitude": "-63.117666666666665",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "e16eae00-49cf-43d5-a94c-8de24bbe8504",
+        "name": "Mercado Paraiso  – Conde",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.854861111111113",
+        "longitude": "-63.19922222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 07:30 a 20:00"
+        }
+    },
+    {
+        "id": "e1c0b7d6-789b-44d2-aaee-5b79d0b53074",
+        "name": "Hilanderia - Leaños",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.80563888888889",
+        "longitude": "-63.21788888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 08:30 a 18:00"
+        }
+    },
+    {
+        "id": "e302b44d-16ce-4b34-98cd-04f26d06b3ba",
+        "name": "Zacalid - Ayala",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.867472222222222",
+        "longitude": "-63.23005555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 18:00"
+        }
+    },
+    {
+        "id": "e367be41-1c7e-4425-b223-e4f7ecd8cc8c",
+        "name": "Primavera - Eguez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.826",
+        "longitude": "-63.16258333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 18:00; sabado de 09:00 a 14:00"
+        }
+    },
+    {
+        "id": "e6031f53-12c0-4396-adfa-2a95193156a1",
+        "name": "Mercado Cortez - Marca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.88986111111111",
+        "longitude": "-63.178555555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "e9489f94-712d-4883-9eeb-43b40bdec04e",
+        "name": "Flamingo - Veliz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.822499999999998",
+        "longitude": "-63.21238888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 13:00 y 15:00 a 20:00"
+        }
+    },
+    {
+        "id": "ea0092ab-dfdb-49f4-af38-69707f3c6246",
+        "name": "Pentaguazu II - Apaza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.5815",
+        "longitude": "-63.09455555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 06:00 a 20:00"
+        }
+    },
+    {
+        "id": "ea1d9494-65da-4b90-9261-e637c6449d1b",
+        "name": "Belen – Copa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.758222222222223",
+        "longitude": "-63.18836111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "eb17f2fa-2b7d-4334-b9d1-d6cc5f75955d",
+        "name": "Camiri I - Vasquez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-20.037111111111113",
+        "longitude": "-63.52002777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CAMIRI"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "ec28e5dd-75cf-4840-b251-fc54e8ad9b5b",
+        "name": "Cumavi III - Canaza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.79775",
+        "longitude": "-63.13344444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes: 08:00 a 12:00 y 14:00 a 17:00 y Sábado: 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "ed48eb64-3204-48ae-9705-2b1b1102c9e6",
+        "name": "San Joaquin - Sullca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.73297222222222",
+        "longitude": "-63.142472222222224",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "ef1377c6-75ec-46bf-939f-cdc30b54cc6f",
+        "name": "Quior II - Villarroel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.847777777777775",
+        "longitude": "-63.074194444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "efe563cf-4720-4279-8f98-491213137622",
+        "name": "Cuatro Cañadas - Peñanco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.264333333333333",
+        "longitude": "-62.55566666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CUATRO CAÑADAS"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado: 08:00 a 20:00 y\nDomingo: 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "f05b23e1-7159-4947-9980-8c6f6b365563",
+        "name": "Guapuru II - Romay",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.807166666666667",
+        "longitude": "-63.102722222222226",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 10:00 a 12:00 y 14:00 a 21:30 Sábado; Domingo 15:00 a 21:30"
+        }
+    },
+    {
+        "id": "f1f032b8-a0ef-4466-8bb3-ff76f3e3ad68",
+        "name": "Transito - Quispe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.813166666666667",
+        "longitude": "-63.18238888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes: 08:00 a 18:00"
+        }
+    },
+    {
+        "id": "f33ba278-d245-44c7-be68-e35248eefa18",
+        "name": "El Retoño - Aldana",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.739747222222224",
+        "longitude": "-63.073625",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:00 a 12:00 y 13:00 a 18:00; Sábado 08:00 a 14:00"
+        }
+    },
+    {
+        "id": "f3820e5a-d71c-488d-974f-6f55c68d5fe4",
+        "name": "Patuju - Zeballos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.77252777777778",
+        "longitude": "-63.05258333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COTOCA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "f40aeb11-c6f1-443a-a059-1970b9339cbd",
+        "name": "Mutualista - Algarañaz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.765194444444443",
+        "longitude": "-63.160583333333335",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:30 a 18:00 y Sábado 07:30 a 12:30"
+        }
+    },
+    {
+        "id": "f6c5a930-bed2-4900-9f62-c3bdb749d02a",
+        "name": "Guapilo - Quiroga",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.792361111111113",
+        "longitude": "-63.102583333333335",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "f6ce391d-ce1e-4360-95e0-38bc27607458",
+        "name": "El Chore - Ugarte",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.38647222222222",
+        "longitude": "-63.97380555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "YAPACANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo: 07:00 a 21:00"
+        }
+    },
+    {
+        "id": "f7460d0b-1d87-4c87-9f0b-a1f80b2f6bac",
+        "name": "Obelisco - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82361111111111",
+        "longitude": "-63.13363888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "fe029dd9-4f93-4be3-863e-ebb9c3d43b17",
+        "name": "Santa Fe - Mendoza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.398777777777777",
+        "longitude": "-63.82727777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA FE DE YAPACANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 06:00 a 20:00"
+        }
+    },
+    {
+        "id": "fe117b73-af30-485b-a14c-c47a10d07862",
+        "name": "Vallegrande I – Bernabe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.491777777777777",
+        "longitude": "-64.1068611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "VALLEGRANDE"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 20:00; domingo de 12:00 a 20:00"
+        }
+    },
+    {
+        "id": "fedc0295-28bb-4101-a6ab-e3cfa47fb170",
+        "name": "El Gallito - Pascual",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.858333333333334",
+        "longitude": "-63.10363888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "ffa32f27-1376-445a-bdd8-116041a122ef",
+        "name": "Cumavi II - Rojas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.79266666666667",
+        "longitude": "-63.11188888888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 22:00"
+        }
+    }
+]

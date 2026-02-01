@@ -1,0 +1,266 @@
+[
+    {
+        "id": "05ac16b2-2ea1-481d-a940-2492e6a3404d",
+        "name": "Colón",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.04596111111111",
+        "longitude": "-65.26654444444445",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "408e2885-478f-4f4b-b174-3478361133c2",
+        "name": "Mercado Campesino",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.03435277777778",
+        "longitude": "-65.25256666666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "7237f864-e4ad-4528-8882-d183dee96d63",
+        "name": "Mendoza",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.03821388888889",
+        "longitude": "-65.2542611111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "840d0da6-7f3a-46e4-b624-6071ecd0b909",
+        "name": "Supermercado SAS",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.051111111111112",
+        "longitude": "-65.26166666666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "16 horas"
+        }
+    },
+    {
+        "id": "85382341-9f20-4c13-99ca-68c7d8b3b73a",
+        "name": "España II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.047486111111112",
+        "longitude": "-65.25853055555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático para personas con discapacidad Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8a072a8b-837e-49c0-9781-4968051f500a",
+        "name": "Av.Las Américas",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.047116666666668",
+        "longitude": "-65.24584166666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8a73a911-68a9-4d59-b629-0ed286822753",
+        "name": "España",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.04755",
+        "longitude": "-65.25856944444445",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "a247d460-86b8-4e89-84f0-dc97b505aab9",
+        "name": "Junín",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.03985",
+        "longitude": "-65.25522777777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "bda59c08-f7a9-43fb-998b-c1731fffee3d",
+        "name": "Charcas",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.024313888888887",
+        "longitude": "-65.24729722222223",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "bf56fee4-7f19-4f4d-a297-72cc754ef436",
+        "name": "Cementerio CHU",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.05390277777778",
+        "longitude": "-65.26577222222222",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "c6cdf64d-9dbc-47db-88e5-5c18f00c5e23",
+        "name": "Lajastambo",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.012608333333333",
+        "longitude": "-65.30636944444444",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "c6d6e899-ccb1-4b45-94ab-cb3f369ea7f9",
+        "name": "Tenis Club",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.039886111111112",
+        "longitude": "-65.265",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    }
+]

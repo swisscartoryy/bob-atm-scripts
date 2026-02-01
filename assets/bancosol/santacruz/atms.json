@@ -1,0 +1,1212 @@
+[
+    {
+        "id": "073d8d7a-9cbc-4762-aad5-b987982d656f",
+        "name": "Km 6 doble via la Guardia - Copacabana",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.828852777777776",
+        "longitude": "-63.227808333333336",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "104c35f9-f07d-4969-bd52-5442bad47342",
+        "name": "El Bajio",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.828555555555557",
+        "longitude": "-63.22683333333334",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "19c263c4-5182-430d-b1f7-2fc501fcfe7d",
+        "name": "Hipermaxi Norte",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.759925",
+        "longitude": "-63.178275",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "2022e9e9-88a1-4b73-b0e0-f9e1dbb8f4c7",
+        "name": "Terminal Bimodal",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.78968888888889",
+        "longitude": "-63.16218055555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "21f2def1-9037-47b8-acea-357b6f67cb31",
+        "name": "Hipermaxi la Guardia",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.86763888888889",
+        "longitude": "-63.272333333333336",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "2380c99a-6e34-4e10-9cb8-ac4cca437fa1",
+        "name": "Hipermaxi Tres Pasos al Frente",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.795102777777778",
+        "longitude": "-63.16058611111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "2a75bee3-e88b-49ee-b662-40482b79e3f1",
+        "name": "Central Casco Viejo",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.780630555555554",
+        "longitude": "-63.18222222222222",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "331cb5f1-71c6-4576-a4a8-9f14fd2dec99",
+        "name": "Hipermaxi Equipetrol",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.756775",
+        "longitude": "-63.200500000000005",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "3662222b-612e-4c61-86b4-c2e8973ba4ef",
+        "name": "Aeropuerto Viru Viru (ATM de Lobby)",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.647825",
+        "longitude": "-63.1405",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "3f1515e3-6ad3-4131-a52a-80970faa4705",
+        "name": "V.1ro de Mayo",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.79500277777778",
+        "longitude": "-63.135466666666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "43c882f8-79e6-40d8-af55-3ea7ae90cb25",
+        "name": "El Pari",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.797766666666668",
+        "longitude": "-63.191652777777776",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "4489ade1-12ba-486a-90a0-ee0175891cdd",
+        "name": "Pirai",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.794441666666668",
+        "longitude": "-63.20375277777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "4d20102f-6962-4164-9f5b-9ec78b9a9856",
+        "name": "Los Lotes",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.86339166666667",
+        "longitude": "-63.16008611111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "4e1d268d-9d5c-407a-b2ee-8f60d90c5cd9",
+        "name": "FarmaCorp 5to Anillo",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.833341666666666",
+        "longitude": "-63.186186111111105",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "539a0181-af66-4bfa-935c-23ecbed5b0ba",
+        "name": "San Julián",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.809627777777777",
+        "longitude": "-62.88177777777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN JULIÁN"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "5aabfd1f-d231-4953-8bb7-c221f7bc8f0d",
+        "name": "El Pari II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.79775",
+        "longitude": "-63.19177222222222",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "5cdec99a-96d6-44fb-bb8c-025ad6149206",
+        "name": "San Julian II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.809627777777777",
+        "longitude": "-62.88177777777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN JULIÁN"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "5d9ab97b-bf7c-4f02-a8bf-8b8606aa1b55",
+        "name": "Mutualista II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.7628",
+        "longitude": "-63.160402777777776",
+        "officeType": {
+            "officeTypeName": "Cajero Automático para personas con discapacidad Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "5ee3fc57-86e3-4bc5-92de-f5d3e718c01f",
+        "name": "Hipermaxi Montero",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.33319722222222",
+        "longitude": "-63.25559166666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "6337e83f-e5d9-46d6-bf18-58df7cf1df58",
+        "name": "El Torno",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.991380555555555",
+        "longitude": "-63.382044444444446",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "EL TORNO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "67cac5c3-f88a-4eed-959c-9baefbbe62ce",
+        "name": "Hipermaxi Villa Primero de Mayo",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.797961111111114",
+        "longitude": "-63.13455833333333",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "69a4cec7-e607-4d22-80ff-b6dac53bf9e9",
+        "name": "Minero",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.119672222222224",
+        "longitude": "-63.23234444444444",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MINEROS"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "6afe56a1-d039-4907-bca1-3a677cbab221",
+        "name": "Carretera a la Guardia",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.89333611111111",
+        "longitude": "-63.329861111111114",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "7578d321-bb70-49bc-8255-52677bea3a54",
+        "name": "Norte I",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.74363888888889",
+        "longitude": "-63.17319444444444",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "7bf08b0b-948e-45d0-bfc3-bf78aa16eac5",
+        "name": "Alto San Pedro",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.812644444444445",
+        "longitude": "-63.18535277777777",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "7c5b71a7-d5a6-4471-80cf-bd2877a2435e",
+        "name": "Mutualista",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.76278888888889",
+        "longitude": "-63.16041666666666",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "86c16758-a5a7-424d-968a-411b79300f1d",
+        "name": "Arroyo Concepción",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-19.022866666666665",
+        "longitude": "-57.71145833333333",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "PUERTO SUAREZ"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "87bec431-457d-4668-a54e-3aa448112b2c",
+        "name": "Cosphul",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.737219444444445",
+        "longitude": "-63.17050555555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8a1ff87a-871f-4a7d-939e-c7149efdb79c",
+        "name": "Surtidor Gas y Gas",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.822066666666668",
+        "longitude": "-63.145275",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8a990eca-d382-400d-b970-64ac4aeade4f",
+        "name": "La Colorada",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.829391666666666",
+        "longitude": "-63.172275",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8ae7f488-4f5d-4b08-9e64-c4a612d2302e",
+        "name": "Satélite Norte",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.604166666666668",
+        "longitude": "-63.13843611111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8cb02e48-a598-4603-aa8b-1ac15dda8670",
+        "name": "El Porvenir",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.787319444444446",
+        "longitude": "-63.147816666666664",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8f67e422-af65-4c2a-9f70-ca59b4c7ff04",
+        "name": "Hipermaxi Sur",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.813355555555557",
+        "longitude": "-63.18423055555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "91a80ba3-5f71-4407-8d49-74970b71af00",
+        "name": "Cañoto II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.78927777777778",
+        "longitude": "-63.18738888888888",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "95b2821b-875b-47be-b6fe-2d6d1314028f",
+        "name": "Las Brisas",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.74941666666667",
+        "longitude": "-63.17627777777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "9703156d-e7ad-40df-8667-56bf7f1823f0",
+        "name": "Yapacani",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.40309444444444",
+        "longitude": "-63.881141666666664",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "YAPACANI"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "99bd3504-88a7-4567-8e09-342889ca39a2",
+        "name": "Cristo Redentor 1",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.770166666666665",
+        "longitude": "-63.18136111111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "9e1c69b9-29f5-4cfa-8722-0c48a48106ce",
+        "name": "Hipermaxi Super Center 6to anillo",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.728849999999998",
+        "longitude": "-63.16671944444444",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "9f91a045-d6ca-4e5d-b662-cb8449dae87d",
+        "name": "Warnes",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.510944444444444",
+        "longitude": "-63.16730555555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "a4e8b081-dfaf-429d-beb8-4582f772e945",
+        "name": "Montero",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.34153333333333",
+        "longitude": "-63.250366666666665",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "b75f45dd-4911-4acf-b4e9-4da094703630",
+        "name": "Hipermaxi Cambodromo",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.742083333333333",
+        "longitude": "-63.144",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "beb46275-e4cc-40ff-bdb9-935fedf78b69",
+        "name": "Paragua Makro Parque",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.764925",
+        "longitude": "-63.147555555555556",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "c7c5865b-884d-4bf5-8653-b3b3d28c4250",
+        "name": "2 de Agosto",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.737236111111113",
+        "longitude": "-63.14527777777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "d5626ac2-e16a-49b5-8c57-cc0d90bf3018",
+        "name": "Cristo Redentor 2",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.770166666666665",
+        "longitude": "-63.18136111111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "d7d3dbaf-2e0b-4d48-83a9-a84d692ee1e7",
+        "name": "Cañoto",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.780894444444442",
+        "longitude": "-63.18913333333333",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "d90d528e-c507-4332-9987-83ab4d47df52",
+        "name": "Satelite Norte II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.604222222222223",
+        "longitude": "-63.1385",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "d9db0387-cdfd-489a-aa46-1e116979903f",
+        "name": "Virgen de Lujan",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.744472222222225",
+        "longitude": "-63.11752777777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "dd0ebc91-c0a2-485d-9bee-65b6df15ad50",
+        "name": "Hipermaxi Las Palmas",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.810505555555558",
+        "longitude": "-63.208422222222225",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "dead4163-6043-44b9-a41c-c84f2d456de7",
+        "name": "El Quior",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.851944444444445",
+        "longitude": "-63.101083333333335",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "e46a5928-174c-4895-9d25-0d6bf301d1e1",
+        "name": "Plan 3000",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.828583333333334",
+        "longitude": "-63.129869444444445",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "8.5 horas"
+        }
+    },
+    {
+        "id": "e99f4c8f-f463-48c9-83d4-6fbb85620774",
+        "name": "Mall Cotoca",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.771649999999998",
+        "longitude": "-63.12439166666667",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "f322508c-2712-426f-bae7-90445e3f55e5",
+        "name": "Pampa de la Isla",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.768066666666666",
+        "longitude": "-63.117275",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "f5916469-ac05-4637-be78-b9518edbd242",
+        "name": "Hipermaxi plan 3000",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.83545833333333",
+        "longitude": "-63.132",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Interno",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "f6a78b0d-6718-4c6a-82cc-c4311008f4a7",
+        "name": "German Moreno",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.3448",
+        "longitude": "-63.24705277777778",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "fb3ce144-d1a6-4d4d-8e4b-5d67b99454b8",
+        "name": "El Quior II",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.851944444444445",
+        "longitude": "-63.101083333333335",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "id": "0a3f1674-302b-49b9-8b45-6403e544bb09",
+        "name": "Agencia Charcas",
+        "phone": "(591-4) 6918850",
+        "addressName": "",
+        "latitude": "-19.024344444444445",
+        "longitude": "-65.24728888888889",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "23ba62f4-2810-4486-86f1-bf864931d3b2",
+        "name": "Mercado Campesino",
+        "phone": "(591-4) 6918840",
+        "addressName": "",
+        "latitude": "-19.034383333333334",
+        "longitude": "-65.25260833333333",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "450835f2-3f1b-4f33-a741-9f355aad2572",
+        "name": "Agencia Zudáñez",
+        "phone": "(591-4) 6936674",
+        "addressName": "",
+        "latitude": "-19.118902777777777",
+        "longitude": "-64.69977777777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "ZUDAÑEZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 y 14:30 a 17:30; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "6981b226-2a70-4701-bf23-8adc23d32237",
+        "name": "Lajastambo",
+        "phone": "(591-4) 464-41858",
+        "addressName": "",
+        "latitude": "-19.012608333333333",
+        "longitude": "-65.30636944444444",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "De Lunes a viernes Hrs 08:30 a 17:00 y Sabados 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "9cc76506-0b9c-4b65-bad3-fa7682b79b39",
+        "name": "España",
+        "phone": "(591-4) 6918820",
+        "addressName": "",
+        "latitude": "-19.048916666666667",
+        "longitude": "-65.25947222222223",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "af64cd42-2d35-4c05-88f8-f539668cd795",
+        "name": "Las Américas ",
+        "phone": "(591-4) 464-41858",
+        "addressName": "",
+        "latitude": "-19.045527777777778",
+        "longitude": "-65.24590555555555",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "De Lunes a viernes Hrs 08:30 a 17:00 y Sabados 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "b501dca1-fd4b-44e2-b610-9d0d309c71e0",
+        "name": "Regional Sucre",
+        "phone": "(591-4) 6918800",
+        "addressName": "",
+        "latitude": "-19.048916666666667",
+        "longitude": "-65.25947222222223",
+        "officeType": {
+            "officeTypeName": "Sucursal",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e254ee5b-9e82-4289-9769-601feaf9bdca",
+        "name": "Germán Mendoza",
+        "phone": "(591-4) 6918830",
+        "addressName": "",
+        "latitude": "-19.03819166666667",
+        "longitude": "-65.25425833333334",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f3ba0f5c-de34-48de-ae8a-2ef76afe229b",
+        "name": "Ventanilla de Cobranzas SIN - Distrital Chuquisaca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-19.04722777777778",
+        "longitude": "-65.25634722222222",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "CHUQUISACA",
+            "holidays": "25 de mayo "
+        },
+        "locality": {
+            "localitynName": "SUCRE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 a 14:30 a 18:30"
+        }
+    }
+]

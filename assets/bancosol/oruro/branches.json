@@ -1,0 +1,134 @@
+[
+    {
+        "id": "015e6dce-d30e-45fe-a900-aa2638593c96",
+        "name": "Regional Oruro",
+        "phone": "(591-2) 5111110",
+        "addressName": "",
+        "latitude": "-17.972280555555553",
+        "longitude": "-67.11217222222221",
+        "officeType": {
+            "officeTypeName": "Sucursal",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2a144153-8972-43d2-9f0a-13c7fd479358",
+        "name": "Agencia Tagarete",
+        "phone": "(591-2) 5111190",
+        "addressName": "",
+        "latitude": "-17.97146944444444",
+        "longitude": "-67.09397777777777",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 y 13:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3a89ffa8-6c26-4102-a13f-317263781423",
+        "name": "Central",
+        "phone": "(591-2) 5111130",
+        "addressName": "",
+        "latitude": "-17.972280555555553",
+        "longitude": "-67.11217222222221",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "46485785-1945-4b67-bb2e-0eeda4a1d57f",
+        "name": "Ventanilla de Cobranza GAMO",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.97008888888889",
+        "longitude": "-67.11419722222222",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 12:00 y 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "b5359260-5cdf-40c4-96d4-f5f12b0aea00",
+        "name": "Virgen del Socavon",
+        "phone": "(591-2) 5111160",
+        "addressName": "",
+        "latitude": "-17.968866666666663",
+        "longitude": "-67.11491388888888",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "dce9abbe-ed33-4d33-b7ca-5252e4fd68fe",
+        "name": "Agencia Tacna",
+        "phone": "(591-2) 5111180",
+        "addressName": "",
+        "latitude": "-17.962019444444444",
+        "longitude": "-67.10053333333333",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

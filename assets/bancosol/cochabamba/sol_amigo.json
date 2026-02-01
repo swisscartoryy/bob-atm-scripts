@@ -1,0 +1,618 @@
+[
+    {
+        "id": "0285d3c2-6939-43c0-a827-d399b470a369",
+        "name": "Sol Amigo 248 - Imba",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.397194444444445",
+        "longitude": "-66.1961388888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "De Lunes  a Viernes de Hrs. 08:30 a 13:30 y 14:30 a 17:00, Sabados de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "0f3cba58-c2e3-4502-8ce9-0450d7a458ea",
+        "name": "Sol Amigo 101 - Bartolina Sisa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.468161111111108",
+        "longitude": "-66.20700833333333",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "1987971b-c7ed-4a31-9486-1baaf2a275f3",
+        "name": "Sol Amigo 257 - Maximiliano Kolbe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.386444444444443",
+        "longitude": "-66.11030555555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:30 a 13:30 y 14:30 a 17:00; sabado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2eb6f56e-5439-429c-b226-0585671148b7",
+        "name": "Sol Amigo 222 - América III",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.371972222222222",
+        "longitude": "-66.17305555555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "36358d16-592a-4062-b97b-0de89323ac76",
+        "name": "Sol Amigo 136 - Cuatro Esquinas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.35835555555556",
+        "longitude": "-66.22793888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "TIQUIPAYA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "4511307d-47a0-4271-8101-a33bfc2e0f92",
+        "name": "Sol Amigo 255 - Juan Pablo II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.385641666666665",
+        "longitude": "-66.19939722222223",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 13:30 y de 14:30 a 17:00; sabados de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "4a633d0b-5052-4d19-8e63-e71a4a7cb6eb",
+        "name": "Sol Amigo 218 - Sacaba",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.403222222222222",
+        "longitude": "-66.04119444444444",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "4f693d29-27c3-48ce-b5b5-8e1d6ad1fabc",
+        "name": "Sol Amigo 239 - Villarroel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.372555555555557",
+        "longitude": "-66.15886111111112",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "5c5063a4-c979-4622-ad0d-5c9da27e6c67",
+        "name": "Sol Amigo 254 - Guayacán",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.423475",
+        "longitude": "-66.12769444444444",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 13:30 y de 14:30 a 17:00; sabados de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "656d7e9e-338c-4475-94b3-89dcc8fb151c",
+        "name": "Sol Amigo 184 - América II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.371972222222222",
+        "longitude": "-66.17305555555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "674bdcc8-609f-4ca9-b9a3-030d617f5c1d",
+        "name": "Sol Amigo 243 - Villa Israel",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.48715",
+        "longitude": "-66.17580555555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "De lunes a viernes de Hrs. 8:30 a 13:30 y 14:30 a 17:00 sabados de hrs. 9:00 a 13:00"
+        }
+    },
+    {
+        "id": "6939458b-6f9e-4156-a288-9052d3e07399",
+        "name": "Sol Amigo 111 - Ingavi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40459444444444",
+        "longitude": "-66.17979722222222",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "7d5c7527-ee41-43cd-b358-7bea51a9728b",
+        "name": "Sol Amigo 217 - Huayra Khasa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.420416666666668",
+        "longitude": "-66.1393888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "8465b4f4-6547-437a-b091-1e50402bc912",
+        "name": "Sol Amigo 230 - Pucara",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.455055555555553",
+        "longitude": "-66.16647222222223",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17;00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "8551c443-d8d6-49ad-823b-3a6272b86e1c",
+        "name": "Sol Amigo 234 - Esteban Arce II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.403513888888888",
+        "longitude": "-66.15575000000001",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17;00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "86bb836e-d909-4bef-808d-f5f7f86de7ea",
+        "name": "Sol Amigo 107 - Colcapirhua",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.39058888888889",
+        "longitude": "-66.24093888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COLCAPIRHUA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "8a0dde6b-8470-43cd-9260-1647c13e3f26",
+        "name": "Sol Amigo 238 - Segip Tupuraya",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.37291666666667",
+        "longitude": "-66.13600000000001",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "91c0fd73-ef27-4e24-9731-13a860310f33",
+        "name": "Sol amigo 250 -Túnel El Abra",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.412305555555555",
+        "longitude": "-66.09527777777777",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "De Lunes  viernes de Hrs 08:30 s 13:30 y 14:30 a 17:00, Sabados de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "9c229aff-c25b-49c4-9bb1-b3adffdd15d8",
+        "name": "Sol Amigo 220 - Republica II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.40775",
+        "longitude": "-66.15063888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "a62257b7-64a1-48f5-a661-2d942210203b",
+        "name": "Sol Amigo 163 - Guadalupe",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.391355555555556",
+        "longitude": "-66.07156666666667",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SACABA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "a9872710-7098-4f42-a8d7-0cd70ffb7c7e",
+        "name": "Sol Amigo 85 - Heroinas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.390272222222222",
+        "longitude": "-66.153625",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "b7f163d9-2c4e-4714-af0d-6b731630c283",
+        "name": "Sol Amigo 263 - Uspha Uspha",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.476725",
+        "longitude": "-66.11208611111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:30 a 13:30 y 14:30 a 17:00; sabado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "ba55feba-f6bd-4c66-8fff-e08845360cbf",
+        "name": "Sol Amigo 219 - Cruce Taquiña II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.353916666666667",
+        "longitude": "-66.18744444444445",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "c3bfc445-7d90-4da1-b399-a72c6db45e9b",
+        "name": "Sol Amigo 221 - Villa Loreto III",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.419722222222223",
+        "longitude": "-66.1588888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "d1b781e9-f1c0-416d-8012-1c770912def5",
+        "name": "Sol Amigo 262 - Petrolera",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.441555555555556",
+        "longitude": "-66.14234444444445",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:30 a 13:30 y 14:30 a 17:00; sabado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f1938a78-64b4-46e3-ac4b-f2899d8685ac",
+        "name": "Sol Amigo 264 - Bartolina Sisa I",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.468555555555554",
+        "longitude": "-66.20755555555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:30 a 13:30 y 14:30 a 17:00; sabado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f93a3fe0-271c-4741-99c5-f5f41786b8b4",
+        "name": "Sol Amigo 249 - Pucarita Chica",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.452805555555553",
+        "longitude": "-66.20258055555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COCHABAMBA"
+        },
+        "openingHours": {
+            "hour": "De Lunes  a Viernes de Hrs. 08:30 a 13:30 y 14:30 a 17:00, Sabados de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "fa030333-c21c-469c-83d7-c1784918df98",
+        "name": "Sol Amigo 201 - Plaza Bolivar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.393805555555556",
+        "longitude": "-66.280975",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "COCHABAMBA",
+            "holidays": "14 de septiembre"
+        },
+        "locality": {
+            "localitynName": "QUILLACOLLO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

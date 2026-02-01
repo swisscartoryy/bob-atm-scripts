@@ -1,0 +1,65 @@
+[
+    {
+        "Nombre": "Av. La Paz",
+        "Dirección": "Calles Av. La Paz y Av. Belgrano",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    },
+    {
+        "Nombre": "Av. Font",
+        "Dirección": "Barrio Juan XXIII, Av. Font esq. Porvenir N° 795",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    },
+    {
+        "Nombre": "BCP - Oficina Central 2",
+        "Dirección": "Calle Gral. Trigo N° 784 entre Ingavi y Bolivar",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    },
+    {
+        "Nombre": "BCP Mercado Negro",
+        "Dirección": "Calle La Madrid esq. Méndez",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    },
+    {
+        "Nombre": "BCP Plaza Principal",
+        "Dirección": "Calle 15 de Abril N° 357 frente a la plaza principal Luis de\n                                                        Fuentes",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    },
+    {
+        "Nombre": "BCP Sucre",
+        "Dirección": "Calle Sucre entre Ingavi y Domingo Paz",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    },
+    {
+        "Nombre": "El Molino",
+        "Dirección": "Calle 15 de abril y Av. Las Américas N° 951 zona El Molino",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    },
+    {
+        "Nombre": "Mercado Campesino",
+        "Dirección": "Av. Panamericana N° 1575 Barrio Mercado Campesino",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    },
+    {
+        "Nombre": "Of.Central TJA 1",
+        "Dirección": "Calle Gral. Trigo No.784 entre Ingavi y Bolivar",
+        "Horario de atención": "24 hrs.",
+        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
+        "Moneda que distribuye": "Bolivianos"
+    }
+]

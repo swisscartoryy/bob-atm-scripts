@@ -1,0 +1,640 @@
+[
+    {
+        "id": "04272d20-fc7a-403c-9a38-3cb4e25a53a5",
+        "name": "Sol Amigo 187 - Mercado Luján",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.744772222222224",
+        "longitude": "-63.11804166666667",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "1088fa93-6480-4d78-a2ca-6e106bb28045",
+        "name": "Sol Amigo 177 - El Mechero",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.828027777777777",
+        "longitude": "-63.13019722222222",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "15c86d63-4281-4c42-b07d-9e771aacebab",
+        "name": "Sol Amigo 207 - 4 de Noviembre",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.777283333333333",
+        "longitude": "-63.203808333333335",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 y 14:30 a 17:30; Sábado 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "164d5e0a-86fa-4726-b797-fe4baed8f430",
+        "name": "Sol Amigo 151 - Jorochito",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.055861111111113",
+        "longitude": "-63.42797222222222",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "JOROCHITO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "1c06f415-9faa-414e-a50a-7b9ba453c18d",
+        "name": "Sol Amigo 261 - El Quior",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.851722222222225",
+        "longitude": "-63.10152777777778",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 13:00 y 14:00 a 17:00; sabado de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "1e593afd-5853-4278-b0f4-cadba1771db7",
+        "name": "Sol Amigo 211 - La Cuchilla II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82397222222222",
+        "longitude": "-63.200583333333334",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y de 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "37866f3a-6dce-4922-b8bc-5941a80920b5",
+        "name": "Sol Amigo 178 - Satelite Norte III",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.60395",
+        "longitude": "-63.136744444444446",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "397d3422-37b0-4818-8801-c2ff3a2744e0",
+        "name": "Sol Amigo 115 - El Carmen II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.849991666666664",
+        "longitude": "-63.25111388888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "44e5165e-6ae0-49b6-85e6-b45847144af3",
+        "name": "Sol Amigo 139 - El Palmar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.868466666666666",
+        "longitude": "-63.16646111111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "5a26e83b-3e81-4bed-b7cb-b024cdd3dd40",
+        "name": "Sol Amigo 167 - Abasto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.79388888888889",
+        "longitude": "-63.20453888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "5c740a3c-1e8c-46bf-90ce-fb21f67336ff",
+        "name": "Sol Amigo 202 - Cosphul",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.73746388888889",
+        "longitude": "-63.17058888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 12:00 y 14:00 a 17:30; Sábado 08:30 a 12:00"
+        }
+    },
+    {
+        "id": "65506a8f-0b4a-4533-be84-488b85a2e756",
+        "name": "Sol Amigo 259 - Satelite Norte Central",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.604000000000003",
+        "longitude": "-63.13894444444444",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 13:00 y 14:00 a 17:00; sabado de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "680d41c5-4d99-47ef-ac14-e2a3352e60ed",
+        "name": "Sol Amigo 76 - PS Alemana",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.76672222222222",
+        "longitude": "-63.170091666666664",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "79c11b6a-90f3-432f-b6bb-144b3ffa96bc",
+        "name": "Sol Amigo 204 - Cotoca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.755294444444445",
+        "longitude": "-62.99851388888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COTOCA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:30 a 17:30; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "80de468c-e227-45fd-a7e7-906106a1081c",
+        "name": "Sol Amigo 246 - Cosimbo II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.88191666666667",
+        "longitude": "-63.28169444444444",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "De Lunes  a Viernes 08:00 a 12:30 y 13:30 a 17:30, Sabados de 08:30 a 12:30"
+        }
+    },
+    {
+        "id": "81a4af63-f966-4f30-b1ea-542ee59d344d",
+        "name": "Sol Amigo 59 - Villa 1ro de Mayo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.799158333333335",
+        "longitude": "-63.134972222222224",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 15:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "8fbd97ea-e2aa-41e3-868d-e2ec3f251b90",
+        "name": "Sol Amigo 86 - El Trompillo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.800086111111113",
+        "longitude": "-63.16965",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "9358eaec-ebd1-45f7-a7cc-6148787e631c",
+        "name": "Sol Amigo 6 - El Bajío",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82643611111111",
+        "longitude": "-63.22788888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "a927e9b5-ead8-4245-9e01-8cc4bbe4a9dc",
+        "name": "Sol Amigo 91 - El Maná",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.82618888888889",
+        "longitude": "-63.134341666666664",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "ae1562ff-bc08-44a8-850a-90a18fdc6b06",
+        "name": "Sol Amigo 56 - Santos Dumont",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.833083333333335",
+        "longitude": "-63.18486111111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 y 14:30 a 17:30; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "b13629b0-b74a-4354-b406-19eb03693f93",
+        "name": "Sol Amigo 210 - Recaudadora Sucre",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.783563888888892",
+        "longitude": "-63.18037777777778",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y de 14:00 a 17:30; Sábado 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "d09fca7c-e36c-4a68-8257-6655b7c39470",
+        "name": "Sol Amigo 130 - Chane Independencia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.967074999999998",
+        "longitude": "-63.22179722222222",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "CHANE INDEPENDENCIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "d2ab6505-fcc6-4626-a652-cda0ebd19944",
+        "name": "Sol Amigo 90 - Montero",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.343894444444445",
+        "longitude": "-63.24760833333333",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "d5536e8d-28a3-481d-a2c5-6945791c9445",
+        "name": "Sol Amigo 188 Virgen de Lujan II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.745194444444447",
+        "longitude": "-63.11965555555555",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e1a4ed8d-9920-457b-9b51-f127d8545720",
+        "name": "Sol Amigo 7 - Colorada",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.823669444444445",
+        "longitude": "-63.16469166666666",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e59dcbf5-4b4c-4dd6-a463-d465e9884ae1",
+        "name": "Sol Amigo 242 - Cosimbo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.88191666666667",
+        "longitude": "-63.28169444444444",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 12:00 pm y 14:00 a 17:30 Sabado 08:00 a 12:00 pm"
+        }
+    },
+    {
+        "id": "ef333cad-f706-4785-98de-083045d27469",
+        "name": "Sol Amigo - Nuevo Abasto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.850558333333336",
+        "longitude": "-63.228388888888894",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "f264f83e-2a57-447b-82cb-be4cc9c8a9b7",
+        "name": "Sol Amigo 232 - Warnes",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.508916666666668",
+        "longitude": "-63.168305555555555",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "fb6e86f0-7021-4f32-bd1d-8e532cab0f4e",
+        "name": "Sol Amigo 140 - Estación Argentina",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.800469444444445",
+        "longitude": "-63.15207222222222",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

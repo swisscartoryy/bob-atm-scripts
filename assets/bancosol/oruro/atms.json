@@ -1,0 +1,178 @@
+[
+    {
+        "id": "675fc424-caa7-499f-8a17-9623b4d450f5",
+        "name": "Central Plaza 10 de Febrero",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.968866666666663",
+        "longitude": "-67.11491388888888",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "8f9b43db-1fde-4e66-8134-96626b350a3c",
+        "name": "Terminal",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.962374999999998",
+        "longitude": "-67.10422777777777",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "936af075-8fa7-4b00-85e3-fe5143f64382",
+        "name": "Central Oruro",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.97228611111111",
+        "longitude": "-67.11220555555555",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "bff1a2f4-77a3-4830-8360-24baa4565cbb",
+        "name": "Tagarete",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.97146944444444",
+        "longitude": "-67.09397777777777",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "c047485d-3bda-431a-a8db-2f15965c1084",
+        "name": "Av. Tomas Barron",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.933680555555554",
+        "longitude": "-67.1162111111111",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "d6b7a199-c7bc-434b-ba94-85cba77764ab",
+        "name": "5 Esquinas",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.953994444444444",
+        "longitude": "-67.10945833333332",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "e76e1d8b-4c1e-45a2-bd8e-98881bf5ff40",
+        "name": "Parque de la Unión",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.962241666666667",
+        "longitude": "-67.11029722222221",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    },
+    {
+        "id": "ea2ee4f1-7353-4ab3-b691-6d226d1133c5",
+        "name": "Av. Villarroel",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-17.96175277777778",
+        "longitude": "-67.09951944444444",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    }
+]

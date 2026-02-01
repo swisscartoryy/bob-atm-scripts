@@ -1,0 +1,662 @@
+[
+    {
+        "id": "07024d60-688d-4160-bd21-f5d45cb6c538",
+        "name": "Plan 3000",
+        "phone": "(591-3) 3384763",
+        "addressName": "",
+        "latitude": "-17.828544444444443",
+        "longitude": "-63.129841666666664",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "08d72c05-f2d7-4f5b-8720-5abee25bdd54",
+        "name": "Ventanilla de Cobranza  SIN - Sucre ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.310111111111112",
+        "longitude": "-63.31019444444444",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:30 a 14:30 a 18:30"
+        }
+    },
+    {
+        "id": "0ca50578-f414-4484-bbc2-fdfe077d1d37",
+        "name": "Agencia San José",
+        "phone": "(591-3) 3384772",
+        "addressName": "",
+        "latitude": "-17.94256111111111",
+        "longitude": "-63.35120555555556",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN JOSE"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "0de2f4f2-44c6-4c2d-9d83-9b3fed1fa195",
+        "name": "El Torno",
+        "phone": "(591-3) 3384761",
+        "addressName": "",
+        "latitude": "-17.99139166666667",
+        "longitude": "-63.382086111111114",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "EL TORNO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "13cb253f-c46b-4baf-aa24-eb6f48b22c90",
+        "name": "El Pari",
+        "phone": "(591-3) 3384757",
+        "addressName": "",
+        "latitude": "-17.797772222222225",
+        "longitude": "-63.19168333333333",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2641107a-8997-4c2f-abbb-24444644c2d8",
+        "name": "Agencia San Julián",
+        "phone": "(591-3) 9658123/9658124",
+        "addressName": "",
+        "latitude": "-17.809627777777777",
+        "longitude": "-62.88177777777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SAN JULIAN"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "273578e9-f148-4727-9b18-d6c454e36476",
+        "name": "Agencia Minero",
+        "phone": "(591-3) 9246646/9246647",
+        "addressName": "",
+        "latitude": "-17.119672222222224",
+        "longitude": "-63.23234444444444",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MINEROS"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2fba715a-2b7d-4439-9619-851125c9c538",
+        "name": "La Guardia",
+        "phone": "(591-3) 3384764",
+        "addressName": "",
+        "latitude": "-17.8933",
+        "longitude": "-63.32983055555556",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "LA GUARDIA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3472d219-a869-4c6d-bbca-f870bd77c20d",
+        "name": "Agencia Móvil Santa Cruz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.78063611111111",
+        "longitude": "-63.182227777777776",
+        "officeType": {
+            "officeTypeName": "Agencia Móvil",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:30 a 17:00; Sábado 10:15 a 13:00"
+        }
+    },
+    {
+        "id": "3bc85c9e-94a4-4904-a872-cb3783b111fe",
+        "name": "Agencia Norte I",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.74363888888889",
+        "longitude": "-63.17319444444444",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3f7428d0-2364-462b-ad45-4e8a44a87de4",
+        "name": "Agencia Los Lotes",
+        "phone": "(591-3) 3384775",
+        "addressName": "",
+        "latitude": "-17.85538888888889",
+        "longitude": "-63.17872222222222",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "54d6e17f-6908-44e2-9896-f13303220075",
+        "name": "Agencia El Bajio",
+        "phone": "(591-3) 333 84782",
+        "addressName": "",
+        "latitude": "-17.828555555555557",
+        "longitude": "-63.22683333333334",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "De Lunes a viernes Hrs 08:30 a 17:00 y Sabados 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "61be34a5-904a-44bc-8b98-dfe410450a21",
+        "name": "Ventanilla Secretaria de Recaudaciones",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.770538888888886",
+        "longitude": "-63.17323888888889",
+        "officeType": {
+            "officeTypeName": "Ventanilla de Cobranza",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 16:00; Sábado 08:30 a 12:00"
+        }
+    },
+    {
+        "id": "6dac291b-969e-42b2-b5c4-189ea081dee2",
+        "name": "Agencia Pampa de la Isla",
+        "phone": "(591-3) 3384768",
+        "addressName": "",
+        "latitude": "-17.768066666666666",
+        "longitude": "-63.117275",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "71c3e731-20fd-4a5a-b287-daabfdb7b424",
+        "name": "Agencia 2 de Agosto",
+        "phone": "(591-3) 3384773",
+        "addressName": "",
+        "latitude": "-17.737313888888888",
+        "longitude": "-63.14535277777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "756ab6b8-f015-47eb-b71e-6ee1a45678d9",
+        "name": "Casco Viejo",
+        "phone": "(591-3) 3384756",
+        "addressName": "",
+        "latitude": "-17.780630555555554",
+        "longitude": "-63.18222222222222",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "7a218f4f-3f3c-4eba-a617-5756a66e53e5",
+        "name": "Agencia Virgen de Lujan",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.744500000000002",
+        "longitude": "-63.11752777777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "7db42171-1b80-4d64-9e76-5c03d6027799",
+        "name": "Agencia Yapacani",
+        "phone": "(591-3) 9336639/9336640",
+        "addressName": "",
+        "latitude": "-17.40309444444444",
+        "longitude": "-63.881141666666664",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "YAPACANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "98729a51-8195-4fd3-b901-2c4916ab234f",
+        "name": "Montero",
+        "phone": "(591-3) 3384760",
+        "addressName": "",
+        "latitude": "-17.34153333333333",
+        "longitude": "-63.250366666666665",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "b89486d0-d1fc-43d2-8b56-03ea1238038d",
+        "name": "Cristo Redentor",
+        "phone": "(591-3) 3175290",
+        "addressName": "",
+        "latitude": "-17.770166666666665",
+        "longitude": "-63.18136111111111",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "c3f0d0d5-d674-463c-9e91-4e9b87c330c4",
+        "name": "Agencia German Moreno",
+        "phone": "(591-3) 3384776",
+        "addressName": "",
+        "latitude": "-17.3448",
+        "longitude": "-63.24705277777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "MONTERO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "c9cb79a2-94fa-4279-aa52-f88b6c92207c",
+        "name": "Regional Santa Cruz",
+        "phone": "(591-3) 3384750",
+        "addressName": "",
+        "latitude": "-17.780630555555554",
+        "longitude": "-63.18222222222222",
+        "officeType": {
+            "officeTypeName": "Sucursal",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "d491b93c-5c8c-4519-a2cb-172fcc8d8ac2",
+        "name": "Arroyo Concepción",
+        "phone": "(591-3) 9783305",
+        "addressName": "",
+        "latitude": "-19.02283611111111",
+        "longitude": "-57.71146111111111",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "ARROYO CONCEPCION"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "dc6516ea-c4db-49ce-abcc-d033465955a7",
+        "name": "1º de Mayo",
+        "phone": "(591-3) 3384759",
+        "addressName": "",
+        "latitude": "-17.79500277777778",
+        "longitude": "-63.135466666666666",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "ddf78aa6-0331-4357-bd9d-6ff7682bfd03",
+        "name": "Piraí",
+        "phone": "(591-3) 3384762",
+        "addressName": "",
+        "latitude": "-17.794441666666668",
+        "longitude": "-63.20375277777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e40e292d-3012-4654-95cf-0c7f3dfaa293",
+        "name": "Agencia El Quior",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.851944444444445",
+        "longitude": "-63.101083333333335",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "eb344fc4-1734-47ad-b61d-371866d7481e",
+        "name": "Agencia La Colorada",
+        "phone": "(591-3) 3384769",
+        "addressName": "",
+        "latitude": "-17.829383333333332",
+        "longitude": "-63.17225277777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "efa0eed3-693f-4134-bd94-14bf72fff4eb",
+        "name": "Agencia Satélite Norte",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.604244444444447",
+        "longitude": "-63.13861388888889",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "WARNES"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f598f791-6636-4678-8487-3e549b27cfe2",
+        "name": "Mutualista",
+        "phone": "(591-3) 3384758",
+        "addressName": "",
+        "latitude": "-17.76278888888889",
+        "longitude": "-63.16041666666666",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "fa75b83b-c4dc-42c7-942a-c8db0c7e31a7",
+        "name": "Alto San Pedro",
+        "phone": "(591-3) 3384765",
+        "addressName": "",
+        "latitude": "-17.812644444444445",
+        "longitude": "-63.18535277777777",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "SANTA CRUZ",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "SANTA CRUZ DE LA SIERRA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

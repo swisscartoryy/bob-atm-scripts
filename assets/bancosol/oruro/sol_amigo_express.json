@@ -1,0 +1,1872 @@
+[
+    {
+        "id": "00453b12-8ea8-4197-8c3e-17f4bc44d73d",
+        "name": "Av. 4 - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.94547777777778",
+        "longitude": "-67.09440277777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 12:30 y 14:30 a 21:00; Sábados 09:00 a 12:30 y 14:30 a 21:00"
+        }
+    },
+    {
+        "id": "01adac2f-26a1-4a58-a91f-85e345ed9cdd",
+        "name": "Washington - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.969752777777774",
+        "longitude": "-67.11605555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes Hrs. 07:00 a 20:00 Sabado Hrs. 07:00 a 18:00 Domingo Hrs. 07:00 a 14:00"
+        }
+    },
+    {
+        "id": "0d8a793f-3517-43ad-a45c-6b89f6e1b3ac",
+        "name": "Kenedy- Zuna",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.98623611111111",
+        "longitude": "-67.11548055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "1b7e2f5e-a44b-4f3b-a723-7a2c5263e76d",
+        "name": "La Paz II -  Colque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.95981388888889",
+        "longitude": "-67.11180555555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 14:00 a 19:00"
+        }
+    },
+    {
+        "id": "1ce1174e-965b-465b-ab8d-760fc8430f23",
+        "name": "Bolivar IV - Colque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.97260833333333",
+        "longitude": "-67.10593055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "1d26ca45-647c-4483-a332-4c0473e9e8ed",
+        "name": "Pumas Andinos - Choqueticlla",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.997722222222222",
+        "longitude": "-67.06774722222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 21:00"
+        }
+    },
+    {
+        "id": "1dd18e37-5be2-4d7c-980a-bfb3800bbecf",
+        "name": "Circunvalación – Sanchez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.986972222222224",
+        "longitude": "-67.13365555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 19:00"
+        }
+    },
+    {
+        "id": "25a0ec2f-5371-4ba6-a58e-e5824fd202ce",
+        "name": "Tacna IV - Moller",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.959655555555553",
+        "longitude": "-67.0996111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 14:00 y  15:30 a 19:00,"
+        }
+    },
+    {
+        "id": "26ec7a80-2730-491d-88ca-be6626c6b390",
+        "name": "Sud Velasco Galvarro - Flores",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.491019444444447",
+        "longitude": "-68.14980555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 22:00; Sábado 08:30 a 22:00"
+        }
+    },
+    {
+        "id": "2cbbc52c-0eb4-46aa-bac1-bf705f3a018b",
+        "name": "1 de Mayo - Atora",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.978536111111108",
+        "longitude": "-67.13362777777779",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  08:30 a 21:00"
+        }
+    },
+    {
+        "id": "2d2c284b-5401-4dcf-bc6f-3974bcb0db09",
+        "name": "Potosi II - Lunario",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.963591666666666",
+        "longitude": "-67.10925833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 12:30 y 14:30 a 17:00"
+        }
+    },
+    {
+        "id": "2e61cb2f-d924-4a33-b1bb-394ac29c5d79",
+        "name": "Tomas Barron IV - Blanco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.930400000000002",
+        "longitude": "-67.11773333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "2eb46c48-3de4-423f-8a92-7ba8030ecaef",
+        "name": "Chancadora - Cuba",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.95219722222222",
+        "longitude": "-67.12112222222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 11:30 y 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "3306f858-c21d-4afc-86a8-b88e0f08da9e",
+        "name": "Calle 4 - Ecos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.95486111111111",
+        "longitude": "-67.10069444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 19:00"
+        }
+    },
+    {
+        "id": "337f79e5-94cc-4868-8843-4efb47792bd4",
+        "name": "Dios Es Amor - Vedia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.989780555555555",
+        "longitude": "-67.10088333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 09:00 a 12:00 y 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "355b9087-2216-4b7f-913e-894952696e77",
+        "name": "Sierra Mier - Fernández",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.92775",
+        "longitude": "-67.11799722222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  08:30 a 21:00"
+        }
+    },
+    {
+        "id": "374a5926-9896-4889-b956-177a5dfa0350",
+        "name": "El Carmen II – Barco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.973641666666666",
+        "longitude": "-67.07065833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "38f47b74-aec4-4290-bce0-a13b94350acb",
+        "name": "Sucre - Gutierrez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.971477777777775",
+        "longitude": "-67.11261666666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 19:30; Sábado 09:00 a 15:00"
+        }
+    },
+    {
+        "id": "3b003e76-b032-4994-85bb-c37b25953f36",
+        "name": "Justo Juez - Choque",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.91336944444444",
+        "longitude": "-67.12545277777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 07:00 a 18:00; Sábado 07:00 a 18:00; Domingo 07:00 a 12:00"
+        }
+    },
+    {
+        "id": "3b89c77b-79a0-404c-bddf-61fc1e49a997",
+        "name": "Chiru Chiru – Itamari",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.999775",
+        "longitude": "-67.125625",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "3c981021-101d-49e3-b847-d09f20f23754",
+        "name": "Santa Barbara II - Hurtado",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.98052222222222",
+        "longitude": "-67.09719166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes Hrs14:00 a 20:00 Martes a Viernes Hrs. 08:30 a 12:00 y Hrs. 14:00  20:00"
+        }
+    },
+    {
+        "id": "405bc456-7c48-4944-9972-d1790c853a74",
+        "name": "Capitán Barriga - Mercado",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.98173333333333",
+        "longitude": "-67.12388333333332",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo de 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "41e52082-e787-4b50-b41b-2a013e33c349",
+        "name": "Montecinos - Orellana",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.967899999999997",
+        "longitude": "-67.10054444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:30 a 21:00"
+        }
+    },
+    {
+        "id": "460b5482-5a61-404e-8606-47e3fa747cd6",
+        "name": "6 de Agosto IV - Alanez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.968477777777775",
+        "longitude": "-67.10773333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 12:30 a 20:00"
+        }
+    },
+    {
+        "id": "4c1ad83e-c4cf-4ad8-a32e-53bec4ff3098",
+        "name": "Soria Galvarro II - Tapia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.957944444444443",
+        "longitude": "-67.11399444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 21:00 y Domingo 11:00 a 20:00"
+        }
+    },
+    {
+        "id": "5122f2bd-7be6-4374-ac4f-8bcef2c2a6d7",
+        "name": "Villarroel III – Perez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.96161111111111",
+        "longitude": "-67.10006666666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 09:00 a 20:00; domingo de 15:00 a 20:00"
+        }
+    },
+    {
+        "id": "535f2e48-40a4-44f8-a540-a2ffeb916b82",
+        "name": "Santa Rosa - Rosas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.970366666666663",
+        "longitude": "-67.07928055555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo Hrs. 07:30 a 20:00"
+        }
+    },
+    {
+        "id": "5415e08e-1dcb-493a-aa0d-36eb7ae03f43",
+        "name": "Bacovick III - Toco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.961055555555554",
+        "longitude": "-67.10478333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:30 a 20:00; domingo de 10:00 a 18:00"
+        }
+    },
+    {
+        "id": "567c2b6f-88f0-4e2b-83b2-f5c44b5ba3f6",
+        "name": "San Pedro - Fernandez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.989383333333333",
+        "longitude": "-67.06226388888889",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "59e52f9f-eb6f-422e-8b5b-4dfe5a6a024c",
+        "name": "San Isidro II - Fabian",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.989900000000002",
+        "longitude": "-67.0744111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:00 y de 14:00 a 18:00; sabado de 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "6839f023-fd58-4cf7-b52a-a998e734e4e9",
+        "name": "Del Valle - Gutierrez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.94543611111111",
+        "longitude": "-67.10444444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado Hrs. 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "6e4ade6a-1084-453e-a2fb-65c4ba6ecea5",
+        "name": "Cañada Strongest -  Calderon",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.94873611111111",
+        "longitude": "-67.11285",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sabado 08:30 a 13:00 y 14:00 a 19:00; Domingo 08:30 a 13:00"
+        }
+    },
+    {
+        "id": "6f7c9d40-5c4e-4e4b-91c8-fdf3df755043",
+        "name": "Cochabamba - Calderon",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.96708333333333",
+        "longitude": "-67.11268333333332",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 09:30 a 13:00 y 15:30 a 19:00"
+        }
+    },
+    {
+        "id": "787a71c0-14a3-4795-88e5-2723d74528d7",
+        "name": "Barrientos - Challapa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.947919444444445",
+        "longitude": "-67.11313333333332",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  09:00 a 21:00"
+        }
+    },
+    {
+        "id": "7e69625a-b12a-42bc-80d5-862d45ebfa03",
+        "name": "San Isidro - Gutierrez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.985630555555556",
+        "longitude": "-67.07841111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 19:00"
+        }
+    },
+    {
+        "id": "82f35a9b-e60e-46c1-b9b8-fe262b47001a",
+        "name": "Villarroel II - Angulo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.964719444444444",
+        "longitude": "-67.08775277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  08:00 a 20:00; Domingo  10:00 a 20:00"
+        }
+    },
+    {
+        "id": "877207fa-6e54-4ce7-bb09-6d8f00cd706d",
+        "name": "Backovic II - Espinoza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.970233333333333",
+        "longitude": "-67.10714999999999",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "8937fe3e-9622-434e-bbe0-98cd216052a1",
+        "name": "Tomas Barron V - Ayala",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.93865277777778",
+        "longitude": "-67.11543333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 18:30; Sábado 08:00 a 14:00"
+        }
+    },
+    {
+        "id": "8ba39f07-0890-430e-9d14-1f644f799a13",
+        "name": "La Aurora III - Barreto ",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.908441666666665",
+        "longitude": "-67.12665277777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "9457eb83-4dda-4546-ae04-2ce29a55c42f",
+        "name": "Del Minero - Quiñones",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.95702777777778",
+        "longitude": "-67.12090277777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 19:00; Sábado 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "9627e520-32b3-4778-ad6c-cee15f3c2960",
+        "name": "Heriberto Portillo - Zamorano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.954963888888887",
+        "longitude": "-67.11819166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de  09:00 a 12:30 y 15:00 a 19:00"
+        }
+    },
+    {
+        "id": "9b41be02-c08b-4fa1-8ccf-b691713b5541",
+        "name": "Arce II - Cortez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.97758333333333",
+        "longitude": "-67.10520555555556",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:30 a 20:00"
+        }
+    },
+    {
+        "id": "9bb25dff-b37e-47b9-b566-40fe949aa5e4",
+        "name": "Potosi - Tapia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.967802777777777",
+        "longitude": "-67.11060833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 21:00; Domingo 11:00 a 20:00"
+        }
+    },
+    {
+        "id": "9f159bd0-d378-40ec-acbe-47fbded93cba",
+        "name": "Huajara III - Ledezma",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.942380555555555",
+        "longitude": "-67.09069444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 09:00 a 21:00"
+        }
+    },
+    {
+        "id": "a016b607-4fd3-48a0-b093-ae7cb71ab54f",
+        "name": "12 de Octubre - Guevara",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.983708333333333",
+        "longitude": "-67.1021",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 08:00 a 20:00; Domingo 08 a 15:00"
+        }
+    },
+    {
+        "id": "a23856e2-13de-4bc7-a5a3-db421e7d7572",
+        "name": "España V - Ramirez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.978788888888886",
+        "longitude": "-67.1316111111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Jueves 14:00 a 21:00;Sábado y Domingo 09:00 a 21:00"
+        }
+    },
+    {
+        "id": "a246eda3-74e6-430a-978b-4af7ab342956",
+        "name": "Brasil IV - Martinez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.96625",
+        "longitude": "-67.10494166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 20:00; sabados 08:00 a 13:00"
+        }
+    },
+    {
+        "id": "a7e310f0-f952-4df8-bacf-04e9a0bebea7",
+        "name": "La Aurora II - Cuellar",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.91108611111111",
+        "longitude": "-67.12587777777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 09:00 a 12:00 y  14:00 a 21:00"
+        }
+    },
+    {
+        "id": "acb9beb6-42a9-4052-8491-8f3b1389670b",
+        "name": "Avenida Tacna III - Cortez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.979338888888886",
+        "longitude": "-67.10244166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "b1bcf8ce-7334-4076-bff2-badaca0a1772",
+        "name": "Avenida Tacna - Bellido",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.969438888888888",
+        "longitude": "-67.10237222222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 15:00 a 19:00"
+        }
+    },
+    {
+        "id": "b5d5ee7b-579f-486b-b395-72731a1dac5e",
+        "name": "Presidente Montes III - Tola",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.96873611111111",
+        "longitude": "-67.11477777777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 09:00 a 19:30"
+        }
+    },
+    {
+        "id": "b61e29c8-094d-4127-b28d-f5e1520b293c",
+        "name": "Los Olivos - Jamachi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.916566666666665",
+        "longitude": "-67.12705833333332",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes hrs. 08:00 a 12:00 y de 14:00 a 20:00, sabado hrs. 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "b6d042c5-2866-4dd6-91e0-bf94b0e3025a",
+        "name": "Palmeras - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.00004722222222",
+        "longitude": "-67.12866944444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "b8ee1f61-b668-4258-9a90-734bf0edef27",
+        "name": "Santa Barbara - Flores",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.980058333333332",
+        "longitude": "-67.09934166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 09:00 a 21:00"
+        }
+    },
+    {
+        "id": "bfd1e8dc-8090-4362-afd0-90c64c7d4031",
+        "name": "Santa Ana II - Mena",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.951580555555555",
+        "longitude": "-67.09007777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "bff704cd-503d-4074-ae11-c419d723651c",
+        "name": "Tejerina - Romero",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.96953611111111",
+        "longitude": "-67.10500833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 09:30 a 12:30 y de 15:00 a 19:00"
+        }
+    },
+    {
+        "id": "c5a8efdb-044e-4349-9896-827c81a7a0b8",
+        "name": "Tomas Barron VII -  Peredo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.945844444444443",
+        "longitude": "-67.11380833333332",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 12:30 y de 14:30 a 19:00; sabado de 08:00 a 12:30"
+        }
+    },
+    {
+        "id": "c68d8f85-21ef-4a36-90fc-fbc1913dd0af",
+        "name": "Paraiso - Chulve",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.000722222222223",
+        "longitude": "-67.10483611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  08:00 a 21:00"
+        }
+    },
+    {
+        "id": "c7716fff-948c-4e36-9c0f-92dd4cfd4604",
+        "name": "Gregorio Reynolds - Machaca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.95371111111111",
+        "longitude": "-67.10383055555555",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 12:00 y 14:00 a 20:00; Sábado 09:00 a 15:00"
+        }
+    },
+    {
+        "id": "c7765c03-7fd1-45f5-b9a2-2c1f04bee298",
+        "name": "Capitan Uztares - Condoretty",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.95065",
+        "longitude": "-67.110175",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 08:00 a 20:00"
+        }
+    },
+    {
+        "id": "c96d3fc7-71ab-4153-b513-c512d8f8eb7a",
+        "name": "San Felipe II - Mamani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.97709722222222",
+        "longitude": "-67.10247222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:00 a 15:00; sabado 08:00 a 12:00; domingo 15:00 a 18:00"
+        }
+    },
+    {
+        "id": "cef8ea72-4841-403a-ad9f-80b4470ad340",
+        "name": "Villa Coronilla -  Betancur",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.96204722222222",
+        "longitude": "-67.11697777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado  08:00 a 20:00; Domingo  08:00 a 16:00"
+        }
+    },
+    {
+        "id": "d00816ec-cb8b-4b59-8207-f89b63172f2d",
+        "name": "Busch - Ramirez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.952302777777778",
+        "longitude": "-67.1104861111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo  11:00 a 21:00"
+        }
+    },
+    {
+        "id": "d12cfae8-5d2a-4926-949f-cdb82b283d4d",
+        "name": "Dehene II – Vasquez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.99502777777778",
+        "longitude": "-67.13517222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 08:00 a 11:00 y de 13:30 a 20:00; sabado 08:00 a 12:00"
+        }
+    },
+    {
+        "id": "d13dc944-38ff-496d-9ecd-bb60d8a9c4f3",
+        "name": "Beni - Canaza",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.950916666666664",
+        "longitude": "-67.10309444444444",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:30 a 21:00"
+        }
+    },
+    {
+        "id": "d3dae983-3d48-4cbd-b923-b93cf4772643",
+        "name": "6 de Octubre III - Navarro",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.983002777777777",
+        "longitude": "-67.11665833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "d46d64bc-979d-4745-b02f-a24b0c1045db",
+        "name": "Huajara IV – Rocha",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.948716666666666",
+        "longitude": "-67.09368611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 07:00 a 11:30 y 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "d4fccb8e-aef2-4254-9691-fe7cccb565f0",
+        "name": "6 de Agosto II - Gutierrez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.969813888888886",
+        "longitude": "-67.10812222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 09:00 a 22:00"
+        }
+    },
+    {
+        "id": "d52fadba-5bbe-4bb8-8986-2ee781ed4866",
+        "name": "Juan Enviz -  Chambi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.00249722222222",
+        "longitude": "-67.13743333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:00 a 12:00 y de 14:00 a 18:00"
+        }
+    },
+    {
+        "id": "da855bd0-5658-4aa8-b48b-bd856e7f26db",
+        "name": "Avenida 6 de Agosto III - Carpio",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.96678888888889",
+        "longitude": "-67.10727222222222",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 09:00 a 22:00; Domingo 09:00 a 12:30"
+        }
+    },
+    {
+        "id": "dff23d1e-c295-48f4-a8f5-c691d4b5adde",
+        "name": "Lizarraga - Moya",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.98088333333333",
+        "longitude": "-67.11535833333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a domingo de 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "e1bc22c1-05d7-4da4-ba62-5684c0b9e0ab",
+        "name": "Madrid - Flores",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.98063333333333",
+        "longitude": "-67.12819722222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:30 a 13:00 y 14:00  a 20:00"
+        }
+    },
+    {
+        "id": "e2167369-a59b-44d4-90e6-5f2541c37f6b",
+        "name": "Tomas Barrón III - Camacho",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.94202222222222",
+        "longitude": "-67.11418611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 12:00 y  14:00 a 18:00; Sábado 08:30 a 12:00"
+        }
+    },
+    {
+        "id": "e31d04a2-b9db-4fc4-a49f-3e695dbcd69f",
+        "name": "Avenida Tomas Barron II - Alvarez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.940594444444443",
+        "longitude": "-67.11409722222221",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "e7d85f09-516c-42c1-a655-d0f373dbcd9f",
+        "name": "Avenida Velasco Galvarro II - Flores",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.986344444444445",
+        "longitude": "-67.11415833333332",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Domingo 08:30 a 21:30"
+        }
+    },
+    {
+        "id": "e9b2ad4b-e924-4b29-a17f-0126a79f239f",
+        "name": "6 De Octubre VI - Challapa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.956566666666667",
+        "longitude": "-67.10919166666666",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Sábado 09:00 a 20:00"
+        }
+    },
+    {
+        "id": "eafcf967-bfb0-4be8-824a-e8782fa07981",
+        "name": "Aroma – Mercado",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.96113888888889",
+        "longitude": "-67.10632777777778",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 09:00 a 12:00 y 13:00 20:00"
+        }
+    },
+    {
+        "id": "edb22ef0-621a-4afc-b3ea-706a6ee0606a",
+        "name": "San Felipe II - Pacheco",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.97497222222222",
+        "longitude": "-67.11440277777777",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes 09:30 a 12:30 y de 14:30 a 20:00"
+        }
+    },
+    {
+        "id": "eeb53ef1-337f-4128-82e9-e053f61bd6b1",
+        "name": "Eduardo Lopez Rivas - Villegas",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.948469444444445",
+        "longitude": "-67.12013333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:00 a 16:00; sabado de  08:00 a 13:00"
+        }
+    },
+    {
+        "id": "eeec3563-6658-4889-af40-e2fa3fe1991d",
+        "name": "Tomas Barron VI – Ledezma",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.933722222222222",
+        "longitude": "-67.11619166666667",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado 07:00 a 20:00"
+        }
+    },
+    {
+        "id": "ef8c578c-d7d0-4cf6-81a0-f323d8484f96",
+        "name": "Tagarete - Huacara",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.97119722222222",
+        "longitude": "-67.0918611111111",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes  09:00 a 12:00 y  14:00 a 18:00"
+        }
+    },
+    {
+        "id": "f367be5f-8b98-4e95-a1e7-25dc9188922d",
+        "name": "Bolivar II - Mancilla",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.97212222222222",
+        "longitude": "-67.107",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 08:00 a 13:00 y 14:00 a 20:00"
+        }
+    },
+    {
+        "id": "f3cc566b-9d83-4d73-8ef2-0c8bb41a1c1f",
+        "name": "Bolívar III - Castillo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.97031111111111",
+        "longitude": "-67.11425",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 09:30 a 12:30 y de 14:30 a 19:30; sabado de 10:00 a 16:00"
+        }
+    },
+    {
+        "id": "f5e827fc-b91e-4561-b078-793585a1ce1e",
+        "name": "Avenida Oruro - Machaca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-18.35748888888889",
+        "longitude": "-67.11498333333333",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "EL CHORO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:00 a 22:00"
+        }
+    },
+    {
+        "id": "fe236778-886b-4b77-9d6c-c1899473ffa8",
+        "name": "Las Pampitas – Lopez",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-17.93039166666667",
+        "longitude": "-67.109775",
+        "officeType": {
+            "officeTypeName": "Punto Corresponsal No Financiero",
+            "officeName": "Sol amigo express"
+        },
+        "deparmet": {
+            "departmentName": "ORURO",
+            "holidays": "10 de febrero"
+        },
+        "locality": {
+            "localitynName": "ORURO"
+        },
+        "openingHours": {
+            "hour": "Lunes a sabado de 06:00a 20:00; domingo 06:00 a 12:00"
+        }
+    }
+]

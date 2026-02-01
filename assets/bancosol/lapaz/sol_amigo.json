@@ -1,0 +1,1256 @@
+[
+    {
+        "id": "00a1a953-0b51-44aa-9c3f-603f3c802d51",
+        "name": "Sol Amigo 172 - Caluyo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.530994444444442",
+        "longitude": "-68.19092500000001",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "021bc001-8f2c-44f2-92c6-6b6031e7e492",
+        "name": "Sol Amigo 79 - 16 de Febrero",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.501405555555557",
+        "longitude": "-68.22543333333334",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "057ec71e-2b46-4169-aae4-6f26a62a9a99",
+        "name": "Sol Amigo 37 - Patio 7 (Rio Seco)",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.496272222222224",
+        "longitude": "-68.21499722222222",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "0e9b71e2-0e1f-41cc-b3d7-ef5fa34bbd5d",
+        "name": "Sol Amigo 63 - Irpavi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.524572222222222",
+        "longitude": "-68.08721388888888",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "0f414aaa-01bb-4589-bca2-391d2a087f06",
+        "name": "Sol Amigo 104 - Bolivia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.526149999999998",
+        "longitude": "-68.19980277777778",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "13fc2a66-91f4-40a5-83a7-7d82d2c143e3",
+        "name": "Sol Amigo 119 - Huayna Potosí",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.47941111111111",
+        "longitude": "-68.18513611111112",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "1539287f-9fd6-4ea1-9081-10bd8a7a4029",
+        "name": "Sol Amigo 200 - Chasquipampa II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.53776666666667",
+        "longitude": "-68.05150277777777",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "1c38ec4c-978e-4f8a-8ce3-7e426b86f87a",
+        "name": "Sol Amigo 143 - Huayna Potosí - Distrito 2",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.480552777777778",
+        "longitude": "-68.19251944444444",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "1c76396c-4a1b-4c0d-a715-ac8a21bea5ff",
+        "name": "Sol Amigo 197 - Viacha",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.646663888888888",
+        "longitude": "-68.29398333333333",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "VIACHA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 13:30 a 16:30; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2146ef50-80e0-427b-9aac-7d98d45b44a4",
+        "name": "Sol Amigo 240 - Mercado Los Pinos",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.54139166666667",
+        "longitude": "-68.07233611111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "De lunes a viernes de 08:30 a 13:30 y de 14:30 a 17:00 los sabados de 09: a 13:00"
+        }
+    },
+    {
+        "id": "22712ab2-0898-4ada-8bac-eef3910fb2fa",
+        "name": "Sol Amigo 157 - Tejada Sorzano",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.484550000000002",
+        "longitude": "-68.12346388888888",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "2f4ea476-6171-42ce-b780-23499a7722a2",
+        "name": "Sol Amigo 174 - Luis Espinal",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.480744444444444",
+        "longitude": "-68.20568888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "334dcd26-98e1-45dd-85e3-b99fff18580d",
+        "name": "Sol Amigo 183 - Achachicala II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.474202777777776",
+        "longitude": "-68.1503",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "356f51dd-a936-4295-a3c5-644eb0382fd8",
+        "name": "Sol Amigo 1 - Mallasa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.569847222222222",
+        "longitude": "-68.08586944444444",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3c331a36-a43e-41d5-9597-7937aca96f97",
+        "name": "Sol Amigo 235 - Ballivian",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.487469444444447",
+        "longitude": "-68.17306666666667",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3e3a362e-32ed-4a7a-8552-846cb6a40c7c",
+        "name": "Sol Amigo 138 - Rosas Pampa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.545558333333336",
+        "longitude": "-68.17469166666667",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "3e65e507-df56-43cf-a554-38c1f7e50fcb",
+        "name": "Sol Amigo 78 - Exaltación",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.533450000000002",
+        "longitude": "-68.16020833333334",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "437e575a-0dbd-41aa-a30e-daa84b773d79",
+        "name": "Sol Amigo 19 - Landaeta (Tembladerani)",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.511544444444443",
+        "longitude": "-68.13931666666667",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "44c69795-54fa-4e93-b210-620d4eb2c0a6",
+        "name": "Sol Amigo 251- El Kenko 2",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.55863888888889",
+        "longitude": "-68.19294444444445",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 08:30 a 13:00 y de 14:00 a 17:00; Sabado de 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "49267bb1-3073-43b5-a211-ed73a8ceb138",
+        "name": "Sol Amigo 146 - Kupini",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.50895",
+        "longitude": "-68.09813055555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "49477210-695f-41cb-8cf0-532cf56a8960",
+        "name": "Sol Amigo 110 - Buenos Aires",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.504130555555555",
+        "longitude": "-68.1438888888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "4cb7df32-5f48-42bf-8ff7-2043a8602035",
+        "name": "Sol Amigo 25 - Satélite-DB",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.530308333333334",
+        "longitude": "-68.15598333333334",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "58aa5e1e-0086-4414-9da5-7a8219eb6f47",
+        "name": "Sol Amigo 80 - Nuevos Horizontes",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.54425555555556",
+        "longitude": "-68.18720555555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "5b786c9c-939f-498f-ba98-c03c7cee5ec4",
+        "name": "Sol Amigo 39 - Juan Pablo II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.503319444444443",
+        "longitude": "-68.16388333333335",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "5f3de545-13fc-4e2e-94f4-902002cb36cd",
+        "name": "Sol Amigo 205 - Av. Antofagasta",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.514683333333334",
+        "longitude": "-68.15624444444445",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "608ab1f2-deed-4f4b-a2a9-a99887617ee4",
+        "name": "Sol Amigo 175 - Villa Mercedes",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.56478611111111",
+        "longitude": "-68.20313611111112",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "64a07bf6-130e-4d7a-b493-b71f798535c9",
+        "name": "Sol Amigo 196 - Alto La Merced II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.46567222222222",
+        "longitude": "-68.11920277777777",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "68b271ac-2043-465e-b745-771f7712ab70",
+        "name": "Sol Amigo 129 - Santa Cruz",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.49576388888889",
+        "longitude": "-68.1386638888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "6a9d7790-33ab-4ea2-9733-749e9bfeb21e",
+        "name": "Sol Amigo 142 - Tupac Katari",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.48646111111111",
+        "longitude": "-68.19197222222222",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "6f53ae64-dbaa-4283-8400-ee3b74642fe0",
+        "name": "Sol Amigo 95 - 21 de Diciembre",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.550616666666667",
+        "longitude": "-68.18691111111112",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "7117c9e4-d9d8-4338-bf0a-9c069e0e6790",
+        "name": "Sol Amigo 89 - Villa Victoria",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.491555555555557",
+        "longitude": "-68.15268333333334",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "781b0a47-8d18-4bae-82b1-63b10ed39d6a",
+        "name": "Sol Amigo 173 - Santiago I",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.523855555555553",
+        "longitude": "-68.16429166666667",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "838a1eb3-6ada-40ba-9aba-debbe6f49efb",
+        "name": "Sol Amigo 228 - IV Centenario",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.516602777777777",
+        "longitude": "-68.1134",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17;00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "87ea9d7e-4e73-495f-8056-9e57ab5ef92b",
+        "name": "Sol Amigo 27 - Zongo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.53267222222222",
+        "longitude": "-68.20064444444445",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "90b2cb4b-686d-4844-8603-452007a91bf7",
+        "name": "Sol Amigo 137 - Litoral",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.542030555555556",
+        "longitude": "-68.198375",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "928fb900-b8f1-4e04-a6ef-17fed283c60a",
+        "name": "Sol Amigo 216 - Periferica II",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.485305555555556",
+        "longitude": "-68.1283611111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "972fd2ea-e35d-4572-869d-389000b49fd3",
+        "name": "Sol Amigo 131 - Paraíso",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.525641666666665",
+        "longitude": "-68.217125",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "97c038de-f240-478b-9b9e-668012c27bf3",
+        "name": "Sol Amigo 81 - Av. Sucre (Villa Tunari)",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.49493888888889",
+        "longitude": "-68.19334444444445",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "a6be33c1-becc-426c-89ec-67a7fb305265",
+        "name": "Sol Amigo 94 - Tahuantinsuyo",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.482891666666664",
+        "longitude": "-68.21501666666667",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "aa52e82e-eacb-4dde-a1a2-462c4b1ddd89",
+        "name": "Sol Amigo 149 - Achocalla",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.578875",
+        "longitude": "-68.16819722222223",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "ACHOCALLA"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 13:30 a 16:30; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "af9f0924-33ce-44a2-a5e9-5d5b2311b04e",
+        "name": "Sol Amigo 194 - Santiago",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.538097222222223",
+        "longitude": "-68.17795833333334",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "b869905f-2255-4f27-a39c-5666a17a975f",
+        "name": "Sol Amigo 22 - Pampahasi",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.49576111111111",
+        "longitude": "-68.10438055555555",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "ba9bc9a7-f1d1-48f7-9ae3-56684e46ae1b",
+        "name": "Sol Amigo 141 - Libertad",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.51406111111111",
+        "longitude": "-68.21900000000001",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "bc50c840-6383-4806-aeab-dd36503edf60",
+        "name": "Sol Amigo 152 - Saavedra",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.503605555555556",
+        "longitude": "-68.12161388888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "c3670ef4-54b4-43cb-9235-5843f5033def",
+        "name": "Sol Amigo 223 - Delizia",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.55496666666667",
+        "longitude": "-68.18563611111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 09:00 a 13:00 y 13:30 a 17;00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "c62d34bc-3989-43f2-9729-ba03375991b7",
+        "name": "Sol Amigo 253 - La Cascada",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.549083333333336",
+        "longitude": "-68.20197222222222",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a viernes de 07:00 a 11:30 y de 14:00 a 18:00; Sabado de 07:30 a 12:30"
+        }
+    },
+    {
+        "id": "c8555162-bc6e-4341-be64-4f7ecce8b5b8",
+        "name": "Sol Amigo 166 - Pucarani",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.400152777777777",
+        "longitude": "-68.47772222222223",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "PUCARANI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "c9246eeb-5523-41ae-b27b-eb83588616ac",
+        "name": "Sol Amigo 23 - Los Andes",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.495169444444446",
+        "longitude": "-68.1837388888889",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "c9a5dc5f-4f09-4ea7-96e0-cbe69b921bf5",
+        "name": "Sol Amigo 176 - Mercedario",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.52358611111111",
+        "longitude": "-68.23331666666667",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "cb7fa3d1-afff-4868-b856-739a9449419d",
+        "name": "Sol Amigo 208 - Nuevo Amanecer",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.566030555555557",
+        "longitude": "-68.22003055555555",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "d5a9a30b-c839-41ae-ba9a-1ae226ad1ce8",
+        "name": "Sol Amigo 106 - Bajo San Antonio",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.5",
+        "longitude": "-68.11311111111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "dc96fd1e-372a-4338-946a-7e2d3a1bbd5c",
+        "name": "Sol Amigo 105 - 15 de Abril",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.476152777777777",
+        "longitude": "-68.11813888888888",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "e5b1cf50-c369-4043-b511-97169956efaf",
+        "name": "Sol Amigo 48 - San Antonio Alto",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.49759166666667",
+        "longitude": "-68.108975",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "ea6285c5-4700-4fbe-aa10-6ed0c57ef4c7",
+        "name": "Sol Amigo 83 - Villa El Carmen",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.468852777777776",
+        "longitude": "-68.11468333333333",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "LA PAZ"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:30 y 14:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "f7ba1375-e8c1-4fcc-ba48-36f3178c06f2",
+        "name": "Sol Amigo 93 - Prefectural",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.524394444444443",
+        "longitude": "-68.18098611111111",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "fdb58a7c-f9ff-48c0-9fa2-9ea51c7d6c5f",
+        "name": "Sol Amigo 38 - Romero Pampa",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.54371388888889",
+        "longitude": "-68.20767777777777",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "fdb8bc0d-0b09-4bc2-981e-33da0abccf79",
+        "name": "Sol Amigo 185 - Nueva Marca",
+        "phone": "N/A",
+        "addressName": "",
+        "latitude": "-16.50183611111111",
+        "longitude": "-68.20420555555556",
+        "officeType": {
+            "officeTypeName": "Oficina Externa",
+            "officeName": "Sol amigo"
+        },
+        "deparmet": {
+            "departmentName": "LA PAZ",
+            "holidays": "16 de julio"
+        },
+        "locality": {
+            "localitynName": "EL ALTO"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]

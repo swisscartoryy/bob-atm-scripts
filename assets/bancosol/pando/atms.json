@@ -1,0 +1,24 @@
+[
+    {
+        "id": "e4239027-63ec-41ec-9eed-a5111295ce33",
+        "name": "Tajibos",
+        "phone": "",
+        "addressName": "",
+        "latitude": "-11.033397222222222",
+        "longitude": "-68.774975",
+        "officeType": {
+            "officeTypeName": "Cajero Automático Externo - Con Recinto",
+            "officeName": "Cajeros"
+        },
+        "deparmet": {
+            "departmentName": "PANDO",
+            "holidays": "24 de septiembre"
+        },
+        "locality": {
+            "localitynName": "COBIJA"
+        },
+        "openingHours": {
+            "hour": "24 horas"
+        }
+    }
+]

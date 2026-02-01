@@ -1,0 +1,68 @@
+[
+    {
+        "id": "4173e691-8760-46c2-966c-de2af34b0ebc",
+        "name": "Regional Potosi",
+        "phone": "(591-2) 6124767/6124785",
+        "addressName": "",
+        "latitude": "-19.578716666666665",
+        "longitude": "-65.753375",
+        "officeType": {
+            "officeTypeName": "Sucursal",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "4ece1617-2c28-4796-bad1-21e4d5ddd7e8",
+        "name": "Agencia Boulevard",
+        "phone": "(591-2) 6229767",
+        "addressName": "",
+        "latitude": "-19.589777777777776",
+        "longitude": "-65.75242777777778",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    },
+    {
+        "id": "b4232594-59de-4ddf-ad52-9b0d341c7e58",
+        "name": "Mercado Uyuni",
+        "phone": "(591-2) 6124767/6124785",
+        "addressName": "",
+        "latitude": "-19.578716666666665",
+        "longitude": "-65.753375",
+        "officeType": {
+            "officeTypeName": "Agencia Fija",
+            "officeName": "Agencias"
+        },
+        "deparmet": {
+            "departmentName": "POTOSI",
+            "holidays": "10 de noviembre "
+        },
+        "locality": {
+            "localitynName": "POTOSI"
+        },
+        "openingHours": {
+            "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
+        }
+    }
+]
