@@ -1,54 +1,25 @@
-import os
+import csv
 import json
 
-from bs4 import BeautifulSoup
+from scripts.bg import GanaBranchATM
 
-html_paths = [
-    "assets/bcp/atms.html",
-    "assets/bcp/kiosks.html",
-    "assets/bcp/branches.html",
-]
+with open(
+    mode="r",
+    encoding="utf-8",
+    file="assets/bg/branchatms.json",
+) as file:
+    json_branchatms = json.load(file)
+    branchatms = [GanaBranchATM(**json_branchatm) for json_branchatm in json_branchatms]
 
-departmentids = [
-    "fondoOficinaLaPaz",
-    "fondoOficinaSantaCruz",
-    "fondoOficinaOruro",
-    "fondoOficinaCochabamba",
-    "fondoOficinaPotosi",
-    "fondoOficinaChuquisaca",
-    "fondoOficinaTarija",
-    "fondoOficinaTrinidad",
-]
+rows = [branchatm.model_dump() for branchatm in branchatms]
+headers = [key for key in branchatms[0].model_dump().keys()]
 
-for html_path in html_paths:
-    with open(html_path, "r", encoding="utf-8") as file:
-        html = file.read()
-
-    soup = BeautifulSoup(html, "html.parser")
-    filename = f"{html_path[len("assets/bcp/") : -len(".html")]}.json"
-
-    for departmentid in departmentids:
-        element = soup.find(id=departmentid)
-        dirname = f"assets/bcp/{departmentid[len("fondooficina") :]}".lower()
-
-        os.makedirs(dirname, exist_ok=True)
-
-        if element:
-            rsrows = element.select("table > tr")
-            rsheaders = element.select("table > thead > tr > th")
-
-            rows: list[list[str]] = []
-            headers = [h.get_text(strip=True) for h in rsheaders]
-
-            for rsrow in rsrows:
-                rsprops = rsrow.select("td")
-                props = [rsprop.get_text(strip=True) for rsprop in rsprops]
-                rows.append(props)
-
-            drows = [dict(zip(headers, row)) for row in rows]
-
-            json_path = f"{dirname}/{filename}"
-            json_data = json.dumps(drows, ensure_ascii=False, indent=4)
-
-            with open(json_path, "w", encoding="utf-8") as file:
-                file.write(json_data)
+with open(
+    mode="w",
+    newline="",
+    encoding="utf-8",
+    file="assets/bg/branchatms.csv",
+) as file:
+    writer = csv.DictWriter(file, fieldnames=headers)
+    writer.writeheader()
+    writer.writerows(rows)
