@@ -1,17 +1,21 @@
 import csv
 import json
 
-# from scripts.bg import GanaBranchATM
+from src.dtos.bmsc import BmscATM
 from src.dtos.bisa import BisaBranchATM
 
+filename = "assets/bmsc/atms.json"
+
+# opening json
 with open(
     mode="r",
+    file=filename,
     encoding="utf-8",
-    file="assets/bisa/branchatms.json",
-) as file:
-    json_branchatms = json.load(file)
-    branchatms = [BisaBranchATM(**json_branchatm) for json_branchatm in json_branchatms]
+) as jsonfile:
+    jbranchatms = json.load(jsonfile)
+    branchatms = [BmscATM(**jbranchatm) for jbranchatm in jbranchatms]
 
+# writting csv
 rows = [branchatm.model_dump() for branchatm in branchatms]
 headers = [key for key in branchatms[0].model_dump().keys()]
 
@@ -19,7 +23,7 @@ with open(
     mode="w",
     newline="",
     encoding="utf-8",
-    file="assets/bisa/branchatms.csv",
+    file=f"{filename[:-len(".json")]}.csv",
 ) as file:
     writer = csv.DictWriter(file, fieldnames=headers)
     writer.writeheader()

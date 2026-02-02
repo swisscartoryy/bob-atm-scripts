@@ -17,7 +17,7 @@ class PointOfInterestId(IntEnum):
     BRANCH_WITH_EXTENDED_HOURS = 4
 
 
-class StateId(IntEnum):
+class BoliviaStateId(IntEnum):
     BENI: Annotated[int, Doc("Beni state, Bolivia")] = 9
     PANDO: Annotated[int, Doc("Pando state, Bolivia")] = 8
     ORURO: Annotated[int, Doc("Oruro state, Bolivia")] = 6
@@ -31,7 +31,7 @@ class StateId(IntEnum):
     CHUQUISACA: Annotated[int, Doc("Chuquisaca state, Bolivia")] = 4
 
 
-class CityId(IntEnum):
+class BoliviaCityId(IntEnum):
     LA_PAZ: Annotated[int, Doc("La Paz city, La Paz")] = 1
     EL_ALTO: Annotated[int, Doc("El Alto city, La Paz")] = 3
 
@@ -56,13 +56,13 @@ class CityId(IntEnum):
     ARROYO_CONCEPCION: Annotated[int, Doc("Arroyo Concepción city, Santa Cruz")] = 7
 
 
-class City(BaseModel):
-    city_id: CityId = Field(validation_alias="cityId")
+class BoliviaCity(BaseModel):
+    city_id: BoliviaCityId = Field(validation_alias="cityId")
     name: str
 
 
-class State(BaseModel):
-    state_id: StateId = Field(validation_alias="stateId")
+class BoliviaState(BaseModel):
+    state_id: BoliviaStateId = Field(validation_alias="stateId")
     name: str
 
 
@@ -101,7 +101,7 @@ class BisaBranchATM(BaseModel):
     def poitype(self) -> Annotated[str, Doc("normalized PoI")]:
         return inflection.underscore(self.type.value_name).upper()
 
-    city: Annotated[City | None, Doc("branch / ATM city")] = Field(
+    city: Annotated[BoliviaCity | None, Doc("branch / ATM city")] = Field(
         exclude=True,
         default=None,
     )
@@ -113,7 +113,7 @@ class BisaBranchATM(BaseModel):
             None if self.city is None else re.sub(r"\s+", "_", self.city.name.upper())
         )
 
-    state: Annotated[State | None, Doc("branch / ATM state")] = Field(
+    state: Annotated[BoliviaState | None, Doc("branch / ATM state")] = Field(
         default=None,
         exclude=True,
     )

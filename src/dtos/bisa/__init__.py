@@ -1,9 +1,9 @@
 from .bisa_branchatm import (
-    City,
-    State,
-    CityId,
-    StateId,
+    BoliviaCity,
+    BoliviaState,
     BisaBranchATM,
+    BoliviaCityId,
+    BoliviaStateId,
     PointOfInterest,
     PointOfInterestId,
 )
