@@ -2,7 +2,7 @@ import csv
 import json
 
 # from scripts.bg import GanaBranchATM
-from scripts.bisa import BisaBranchATM
+from src.dtos.bisa import BisaBranchATM
 
 with open(
     mode="r",
