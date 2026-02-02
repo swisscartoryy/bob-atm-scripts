@@ -10,42 +10,6 @@ from annotated_doc import Doc
 from pydantic import BaseModel, Field, field_validator, computed_field
 
 
-class CityId(IntEnum):
-    SUCRE: Annotated[int, Doc("Ciudad: Sucre")] = 11
-    ORURO: Annotated[int, Doc("Ciudad: Oruro")] = 15
-    LA_PAZ: Annotated[int, Doc("Ciudad: La Paz")] = 1
-    COBIJA: Annotated[int, Doc("Ciudad: Cobija")] = 17
-    POTOSI: Annotated[int, Doc("Ciudad: Potosí")] = 16
-    TARIJA: Annotated[int, Doc("Ciudad: Tarija")] = 12
-    TRINIDAD: Annotated[int, Doc("Ciudad: Trinidad")] = 18
-    COCHABAMBA: Annotated[int, Doc("Ciudad: Cochabamba")] = 9
-    SANTA_CRUZ: Annotated[int, Doc("Ciudad: Santa Cruz")] = 4
-
-
-class City(BaseModel):
-    model_config = {
-        "populate_by_name": True,
-    }
-
-    city_id: Annotated[int, Doc("Identificador único de la ciudad")] = Field(
-        alias="cityId"
-    )
-
-    name: Annotated[str, Doc("Nombre de la ciudad")]
-
-
-class State(BaseModel):
-    model_config = {
-        "populate_by_name": True,
-    }
-
-    state_id: Annotated[int, Doc("Identificador único del departamento o estado")] = (
-        Field(alias="stateId")
-    )
-
-    name: Annotated[str, Doc("Nombre del departamento o estado")]
-
-
 class PointOfInterestId(IntEnum):
     ATM: Annotated[int, Doc("Cajero automático (ATM)")] = 1
     BRANCH: Annotated[int, Doc("Sucursal bancaria tradicional")] = 2
@@ -58,6 +22,71 @@ class PointOfInterestId(IntEnum):
     BRANCH_WITH_EXTENDED_HOURS: Annotated[
         int, Doc("Sucursal con horario extendido o corresponsal bancario")
     ] = 4
+
+
+class StateId(IntEnum):
+    BENI: Annotated[int, Doc("Departamento del Beni, Bolivia")] = 9
+    PANDO: Annotated[int, Doc("Departamento de Pando, Bolivia")] = 8
+    ORURO: Annotated[int, Doc("Departamento de Oruro, Bolivia")] = 6
+
+    LA_PAZ: Annotated[int, Doc("Departamento de La Paz, Bolivia")] = 1
+    TARIJA: Annotated[int, Doc("Departamento de Tarija, Bolivia")] = 5
+    POTOSI: Annotated[int, Doc("Departamento de Potosí, Bolivia")] = 7
+
+    SANTA_CRUZ: Annotated[int, Doc("Departamento de Santa Cruz, Bolivia")] = 2
+    COCHABAMBA: Annotated[int, Doc("Departamento de Cochabamba, Bolivia")] = 3
+    CHUQUISACA: Annotated[int, Doc("Departamento de Chuquisaca, Bolivia")] = 4
+
+
+class CityId(IntEnum):
+    LA_PAZ: Annotated[int, Doc("Ciudad de La Paz, Dep. La Paz")] = 1
+    EL_ALTO: Annotated[int, Doc("Ciudad de El Alto, Dep. La Paz")] = 3
+
+    ORURO: Annotated[int, Doc("Ciudad de Oruro, Dep. Oruro")] = 15
+    SUCRE: Annotated[int, Doc("Ciudad de Sucre, Dep. Chuquisaca")] = 11
+
+    COBIJA: Annotated[int, Doc("Ciudad de Cobija, Dep. Pando")] = 17
+    POTOSI: Annotated[int, Doc("Ciudad de Potosí, Dep. Potosí")] = 16
+    TRINIDAD: Annotated[int, Doc("Ciudad de Trinidad, Dep. Beni")] = 18
+
+    TARIJA: Annotated[int, Doc("Ciudad de Tarija, Dep. Tarija")] = 12
+    YACUIBA: Annotated[int, Doc("Ciudad de Yacuiba, Dep. Tarija")] = 14
+    VILLAMONTES: Annotated[int, Doc("Ciudad de Villamontes, Dep. Tarija")] = 13
+
+    COCHABAMBA: Annotated[int, Doc("Ciudad de Cochabamba, Dep. Cochabamba")] = 9
+    QUILLA_COLLO: Annotated[int, Doc("Ciudad de Quillacollo, Dep. Cochabamba")] = 10
+
+    CAMIRI: Annotated[int, Doc("Ciudad de Camiri, Dep. Santa Cruz")] = 8
+    MONTERO: Annotated[int, Doc("Ciudad de Montero, Dep. Santa Cruz")] = 5
+    SANTA_CRUZ: Annotated[int, Doc("Ciudad de Santa Cruz, Dep. Santa Cruz")] = 4
+    PUERTO_SUAREZ: Annotated[int, Doc("Ciudad de Puerto Suárez, Dep. Santa Cruz")] = 6
+    ARROYO_CONCEPCION: Annotated[
+        int, Doc("Ciudad de Arroyo Concepción, Dep. Santa Cruz")
+    ] = 7
+
+
+class City(BaseModel):
+    model_config = {
+        "populate_by_name": True,
+    }
+
+    city_id: Annotated[CityId, Doc("Identificador único de la ciudad")] = Field(
+        alias="cityId"
+    )
+
+    name: Annotated[str, Doc("Nombre de la ciudad")]
+
+
+class State(BaseModel):
+    model_config = {
+        "populate_by_name": True,
+    }
+
+    state_id: Annotated[
+        StateId, Doc("Identificador único del departamento o estado")
+    ] = Field(alias="stateId")
+
+    name: Annotated[str, Doc("Nombre del departamento o estado")]
 
 
 class PointOfInterest(BaseModel):
@@ -91,11 +120,14 @@ class BisaBranchATM(BaseModel):
     id: Annotated[int, Doc("Identificador único interno de la sucursal o ATM")]
     name: Annotated[str, Doc("Nombre comercial de la sucursal o ATM")]
 
-    notes: Annotated[str, Doc("Notas adicionales o comentarios")]
-    address: Annotated[str, Doc("Dirección física completa")]
+    latitude: Annotated[float, Doc("Latitud geográfica en formato decimal")]
+    longitude: Annotated[float, Doc("Longitud geográfica en formato decimal")]
 
-    telephone: Annotated[str, Doc("Número telefónico de contacto")]
+    address: Annotated[str, Doc("Dirección física completa")]
+    notes: Annotated[str, Doc("Notas adicionales o comentarios")]
+
     email: Annotated[str, Doc("Correo electrónico de contacto")]
+    telephone: Annotated[str, Doc("Número telefónico de contacto")]
 
     type: Annotated[
         PointOfInterest, Doc("Tipo de punto de interés (Sucursal, ATM, etc.)")
@@ -111,7 +143,7 @@ class BisaBranchATM(BaseModel):
 
     is_deleted: Annotated[
         bool, Doc("Indica si el registro se encuentra marcado como eliminado")
-    ] = Field(alias="isDeleted")
+    ] = Field(alias="isDeleted", exclude=True)
 
     working_hours: Annotated[str, Doc("Horario de atención o disponibilidad")] = Field(
         alias="workingHours"
@@ -119,28 +151,33 @@ class BisaBranchATM(BaseModel):
 
     city: Annotated[
         City | None,
-        Doc("Ciudad donde se encuentra la sucursal o ATM"),
+        Doc("Ciudad donde se encuentra la sucursal/ATM"),
     ] = Field(default=None, exclude=True)
 
-    @computed_field
+    @computed_field(alias="cityName")
     @property
     def city_name(self) -> Annotated[
         str | None,
-        Doc("Ciudad donde se encuentra la sucursal o ATM"),
+        Doc("Ciudad donde se encuentra la sucursal/ATM"),
     ]:
         return (
-            None
-            if self.city is None
-            else re.sub(r"\s+", "_", self.city.name.strip()).upper()
+            None if self.city is None else re.sub(r"\s+", "_", self.city.name.upper())
         )
 
     state: Annotated[
         State | None,
-        Doc("Departamento o estado donde se encuentra la sucursal o ATM"),
-    ] = Field(default=None)
+        Doc("Departamento donde se encuentra la sucursal/ATM"),
+    ] = Field(default=None, exclude=True)
 
-    latitude: Annotated[float, Doc("Latitud geográfica en formato decimal")]
-    longitude: Annotated[float, Doc("Longitud geográfica en formato decimal")]
+    @computed_field(alias="stateName")
+    @property
+    def state_name(self) -> Annotated[
+        str | None,
+        Doc("Departamento donde se encuentra la sucursal/ATM"),
+    ]:
+        return (
+            None if self.state is None else re.sub(r"\s+", "_", self.state.name.upper())
+        )
 
     creation_date: Annotated[datetime, Doc("Fecha y hora de creación del registro")] = (
         Field(alias="creationDate")
