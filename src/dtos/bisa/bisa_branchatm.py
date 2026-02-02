@@ -3,10 +3,11 @@ import re
 import inflection
 
 from enum import IntEnum
-from typing import Annotated
 from datetime import datetime
 
 from annotated_doc import Doc
+from typing import Optional, Annotated
+
 from pydantic import BaseModel, Field, field_validator, computed_field
 
 
@@ -96,31 +97,31 @@ class BisaBranchATM(BaseModel):
         validation_alias="workingHours"
     )
 
-    @computed_field
+    @computed_field(alias="poiType")
     @property
     def poitype(self) -> Annotated[str, Doc("normalized PoI")]:
         return inflection.underscore(self.type.value_name).upper()
 
-    city: Annotated[BoliviaCity | None, Doc("branch / ATM city")] = Field(
-        exclude=True,
+    city: Annotated[Optional[BoliviaCity], Doc("branch / ATM city")] = Field(
         default=None,
+        exclude=True,
     )
 
     @computed_field(alias="cityName")
     @property
-    def city_name(self) -> Annotated[str | None, Doc("branch / ATM city")]:
+    def city_name(self) -> Annotated[Optional[str], Doc("branch / ATM city")]:
         return (
             None if self.city is None else re.sub(r"\s+", "_", self.city.name.upper())
         )
 
-    state: Annotated[BoliviaState | None, Doc("branch / ATM state")] = Field(
+    state: Annotated[Optional[BoliviaState], Doc("branch / ATM state")] = Field(
         default=None,
         exclude=True,
     )
 
     @computed_field(alias="stateName")
     @property
-    def state_name(self) -> Annotated[str | None, Doc("branch / ATM state")]:
+    def state_name(self) -> Annotated[Optional[str], Doc("branch / ATM state")]:
         return (
             None if self.state is None else re.sub(r"\s+", "_", self.state.name.upper())
         )

@@ -2,7 +2,7 @@
 import re
 
 from enum import Enum
-from typing import Annotated
+from typing import Annotated, Optional
 
 from annotated_doc import Doc
 from pydantic import BaseModel, field_validator, Field
@@ -53,7 +53,7 @@ class GanaBranchATM(BaseModel):
     longitud: float = Field(validation_alias="LONGITUD")
 
     direccion: str = Field(validation_alias="DIRECCION")
-    horario_atencion: HorarioAtencion | None = Field(validation_alias="HORARIO")
+    horario_atencion: Optional[HorarioAtencion] = Field(validation_alias="HORARIO")
 
     @field_validator("*", mode="before")
     def normalize_string(string):

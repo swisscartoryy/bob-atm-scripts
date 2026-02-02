@@ -1,67 +1,10 @@
 # type: ignore
-
 from annotated_doc import Doc
 
-from typing import Annotated, Literal
+from typing import Annotated
 from pydantic import BaseModel, Field
 
-
-TipoPuntoAtencion = Literal[
-    "Cajero Automático Interno",
-    "Cajero Automático Especial Interno",
-    "Cajero Automático Externo - Sin Recinto",
-    "Cajero Automático Externo - Con Recinto",
-    "Cajero Automático Especial Externo - Con Recinto",
-    "Cajero Automático Especial Externo - Sin Recinto",
-    "Cajero Automático para Personas con Discapacidad Interno",
-]
-
-DepartamentoBolivia = Literal[
-    "Beni",
-    "Oruro",
-    "Pando",
-    "Potosí",
-    "Tarija",
-    "La Paz",
-    "Santa Cruz",
-    "Chuquisaca",
-    "Cochabamba",
-]
-
-CiudadBolivia = Literal[
-    "Sucre",
-    "La Paz",
-    "El Alto",
-    "Cochabamba",
-    "Oruro",
-    "Potosí",
-    "Tarija",
-    "Bermejo",
-    "Yacuiba",
-    "Santa Cruz de la Sierra",
-    "Montero",
-    "Warnes",
-    "Trinidad",
-    "Riberalta",
-    "Cobija",
-    "Villazón",
-    "Colcapirhua",
-    "Uyuni",
-    "Porongo",
-    "Quillacollo",
-    "San Juan de Yapacani",
-    "Cotoca",
-    "Atocha",
-    "Sacaba",
-    "El Torno",
-    "Punata",
-    "Mecapaca",
-    "Achocalla",
-    "Viacha",
-    "San Carlos",
-    "La Guardia",
-    "Buena Vista",
-]
+from .const import CiudadBolivia, DepartamentoBolivia, TipoPuntoAtencionATM
 
 
 class CmsTimeRange(BaseModel):
@@ -118,10 +61,13 @@ class BmscATM(BaseModel):
 
     telefono_emergencia: str = Field(validation_alias="telefonoEmergencia")
     servicios_ofertados: str = Field(validation_alias="serviciosOfertados")
-    tipo_punto_atencion: TipoPuntoAtencion = Field(validation_alias="tipoPuntoAtencion")
+
+    tipo_punto_atencion: TipoPuntoAtencionATM = Field(
+        validation_alias="tipoPuntoAtencion"
+    )
 
     horario_atencioncms_string: Annotated[
-        str, Doc("horario atecion cms json string")
+        str, Doc("horario atencion cms json string")
     ] = Field(validation_alias="horarioAtencionCms", exclude=True)
 
     @property
