@@ -2,10 +2,9 @@ import csv
 import json
 
 from src.dtos.bisa import BisaBranchATM
-from src.dtos.bmsc import BmscATM, BmscBranch
-from src.dtos.bnb import BnbDepartamento, BnbBranchATM
+from src.dtos.baneco import BanecoBranchATM
 
-filename = "assets/bnb/branchatms.json"
+filename = "assets/baneco/branchatms.json"
 
 # opening json
 with open(
@@ -14,23 +13,18 @@ with open(
     encoding="utf-8",
 ) as jsonfile:
     jbranchatms = json.load(jsonfile)
-    departamentos = [
-        BnbDepartamento.model_validate(jbranchatm) for jbranchatm in jbranchatms
-    ]
-
     branchatms = [
-        branchatm
-        for departamento in departamentos
-        for branchatm in departamento.detalles
+        BanecoBranchATM.model_validate(jbranchatm) for jbranchatm in jbranchatms
     ]
 
-# filters
 # rows = []
 # filters = []
+
 # for branchatm in branchatms:
-#     if branchatm.subtipo not in filters:
-#         filters.append(branchatm.subtipo)
+#     if branchatm.depositoefectivo not in filters:
+#         filters.append(branchatm.depositoefectivo)
 #         rows.append(branchatm.model_dump())
+
 # print(len(filters), filters)
 
 # writting csv

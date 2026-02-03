@@ -1,7 +1,9 @@
+import re
+
 from annotated_doc import Doc
 
 from typing import Annotated, Optional
-from pydantic import BaseModel, Field, computed_field, model_validator
+from pydantic import BaseModel, Field, computed_field, model_validator, field_validator
 
 from .enums import BnbTipoEntidadId, BnbSubtipoEntidadId, BnbDepartamentoId
 
@@ -87,4 +89,12 @@ class BnbBranchATM(BaseModel):
             None
             if self.departamentoid is None
             else BnbDepartamentoId(self.departamentoid).name
+        )
+
+    @field_validator("*", mode="before")
+    def strip_props(cls, prop_value):
+        return (
+            prop_value
+            if not isinstance(prop_value, str)
+            else re.sub(r"\s+", " ", prop_value).strip()
         )
