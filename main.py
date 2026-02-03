@@ -1,7 +1,6 @@
 import csv
 import json
 
-from src.dtos.bmsc import BmscATM, BmscBranch
 from src.dtos.bisa import BisaBranchATM
 from src.dtos.baneco import BanecoBranchATM
 
