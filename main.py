@@ -4,7 +4,7 @@ import json
 from src.dtos.bisa import BisaBranchATM
 from src.dtos.baneco import BanecoBranchATM
 
-filename = "assets/baneco/atms.json"
+filename = "assets/baneco/branchatms.json"
 
 # opening json
 with open(
@@ -13,7 +13,19 @@ with open(
     encoding="utf-8",
 ) as jsonfile:
     jbranchatms = json.load(jsonfile)
-    branchatms = [BanecoBranchATM.model_validate(jbranchatm) for jbranchatm in jbranchatms]
+    branchatms = [
+        BanecoBranchATM.model_validate(jbranchatm) for jbranchatm in jbranchatms
+    ]
+
+# rows = []
+# filters = []
+
+# for branchatm in branchatms:
+#     if branchatm.depositoefectivo not in filters:
+#         filters.append(branchatm.depositoefectivo)
+#         rows.append(branchatm.model_dump())
+
+# print(len(filters), filters)
 
 # writting csv
 rows = [branchatm.model_dump() for branchatm in branchatms]
