@@ -3,8 +3,9 @@ import json
 
 from src.dtos.bmsc import BmscATM, BmscBranch
 from src.dtos.bisa import BisaBranchATM
+from src.dtos.baneco import BanecoBranchATM
 
-filename = "assets/bmsc/branches.json"
+filename = "assets/baneco/atms.json"
 
 # opening json
 with open(
@@ -13,7 +14,7 @@ with open(
     encoding="utf-8",
 ) as jsonfile:
     jbranchatms = json.load(jsonfile)
-    branchatms = [BmscBranch(**jbranchatm) for jbranchatm in jbranchatms]
+    branchatms = [BanecoBranchATM.model_validate(jbranchatm) for jbranchatm in jbranchatms]
 
 # writting csv
 rows = [branchatm.model_dump() for branchatm in branchatms]
