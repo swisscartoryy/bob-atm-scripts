@@ -1,4 +1,8 @@
 from enum import IntEnum
+from typing import Literal
+
+Moneda = Literal["Bs.", "Bs. $us.", "0"]
+TipoDireccion = Literal["Calle", "Av.", ""]
 
 
 class BanecoEstadoServicio(IntEnum):

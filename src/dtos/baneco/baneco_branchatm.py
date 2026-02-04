@@ -1,19 +1,16 @@
 import re
 
-from typing import Literal
 from pydantic import BaseModel, field_validator, Field, computed_field
 
 from .enums import (
+    Moneda,
+    TipoDireccion,
     BanecoTipoEntidad,
     BanecoTipoMiSocio,
     BanecoDepartamentoId,
     BanecoEstadoServicio,
     BanecoTipoBancaPersona,
 )
-
-
-Moneda = Literal["Bs.", "Bs. $us.", "0"]
-TipoDireccion = Literal["Calle", "Av.", ""]
 
 
 class BanecoBranchATM(BaseModel):
