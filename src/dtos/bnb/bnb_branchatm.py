@@ -40,7 +40,6 @@ class BnbBranchATM(BaseModel):
     )
 
     @computed_field(alias="tipoEntidad")
-    @property
     def tipo_entidad(self) -> Annotated[str, Doc("Branch / ATM")]:
         return BnbTipoEntidadId(self.tipo).name
 
@@ -50,7 +49,6 @@ class BnbBranchATM(BaseModel):
     )
 
     @computed_field(alias="subtipoEntidad")
-    @property
     def subtipo_entidad(self) -> Annotated[str, Doc("subtipo Branch / ATM")]:
         return BnbSubtipoEntidadId(self.subtipo).name
 
@@ -83,7 +81,6 @@ class BnbBranchATM(BaseModel):
     )
 
     @computed_field(alias="nombreDepartamento")
-    @property
     def nombre_departamento(self) -> Optional[str]:
         return (
             None

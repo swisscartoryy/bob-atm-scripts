@@ -43,7 +43,6 @@ class BmscBranchATM(BaseModel):
     pos: Optional[PosValue] = Field(None, exclude=True)
 
     @computed_field(alias="tienePos")
-    @property
     def tiene_pos(self) -> bool:
         return self.pos == "NO"
 
@@ -59,8 +58,8 @@ class BmscBranchATM(BaseModel):
     ciudad: str
     departamento: DepartamentoBolivia = Field(exclude=True)
 
-    @computed_field(alias="nombreDepartamento")
-    def nombre_departamento(self) -> str:
+    @computed_field(alias="departamentoCol")
+    def departamentoCol(self) -> str:
         return re.sub(r"\s+", "_", self.departamento.translate(transvowels)).upper()
 
     es_autobanco: Optional[bool] = Field(None, validation_alias="esAutoBanco")
@@ -88,8 +87,8 @@ class BmscBranchATM(BaseModel):
         validation_alias="tipoPuntoAtencion",
     )
 
-    @computed_field(alias="puntoAtencion")
-    def punto_atencion(self) -> Optional[str]:
+    @computed_field(alias="tipoPuntoAtencionCol")
+    def tipo_punto_atencioncol(self) -> Optional[str]:
         if not self.tipo_punto_atencion is None:
             punto_atencion = self.tipo_punto_atencion.replace("_", "")
             return re.sub(r"\s+", "_", punto_atencion.translate(transvowels)).upper()
