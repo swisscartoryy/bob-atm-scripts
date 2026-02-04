@@ -1,10 +1,11 @@
 import csv
 import json
 
+from src.dtos.bmsc import BmscBranchATM
 from src.dtos.bisa import BisaBranchATM
 from src.dtos.baneco import BanecoBranchATM
 
-filename = "assets/baneco/branchatms.json"
+filename = "assets/bmsc/branchatms.json"
 
 # opening json
 with open(
@@ -14,7 +15,7 @@ with open(
 ) as jsonfile:
     jbranchatms = json.load(jsonfile)
     branchatms = [
-        BanecoBranchATM.model_validate(jbranchatm) for jbranchatm in jbranchatms
+        BmscBranchATM.model_validate(jbranchatm) for jbranchatm in jbranchatms
     ]
 
 # rows = []
