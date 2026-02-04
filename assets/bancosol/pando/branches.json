@@ -10,12 +10,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "PANDO",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "COBIJA"
+            "localityName": "COBIJA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"

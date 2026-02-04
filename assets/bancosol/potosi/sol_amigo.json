@@ -10,12 +10,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "POTOSI",
             "holidays": "10 de noviembre "
         },
         "locality": {
-            "localitynName": "POTOSI"
+            "localityName": "POTOSI"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -32,12 +32,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "POTOSI",
             "holidays": "10 de noviembre "
         },
         "locality": {
-            "localitynName": "POTOSI"
+            "localityName": "POTOSI"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 13:00 y 14:00 a 17:00; sabados de 09:00 a 13:00"

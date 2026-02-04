@@ -10,12 +10,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 12:30 y 14:30 a 21:00; Sábados 09:00 a 12:30 y 14:30 a 21:00"
@@ -32,12 +32,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes Hrs. 07:00 a 20:00 Sabado Hrs. 07:00 a 18:00 Domingo Hrs. 07:00 a 14:00"
@@ -54,12 +54,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 20:00"
@@ -76,12 +76,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 14:00 a 19:00"
@@ -98,12 +98,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a domingo de 08:00 a 20:00"
@@ -120,12 +120,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:00 a 21:00"
@@ -142,12 +142,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 19:00"
@@ -164,12 +164,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 14:00 y  15:30 a 19:00,"
@@ -186,12 +186,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 22:00; Sábado 08:30 a 22:00"
@@ -208,12 +208,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  08:30 a 21:00"
@@ -230,12 +230,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 12:30 y 14:30 a 17:00"
@@ -252,12 +252,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 07:00 a 20:00"
@@ -274,12 +274,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 11:30 y 14:00 a 20:00"
@@ -296,12 +296,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 19:00"
@@ -318,12 +318,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 09:00 a 12:00 y 14:00 a 20:00"
@@ -340,12 +340,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  08:30 a 21:00"
@@ -362,12 +362,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 20:00"
@@ -384,12 +384,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 19:30; Sábado 09:00 a 15:00"
@@ -406,12 +406,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 07:00 a 18:00; Sábado 07:00 a 18:00; Domingo 07:00 a 12:00"
@@ -428,12 +428,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a domingo de 08:00 a 20:00"
@@ -450,12 +450,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes Hrs14:00 a 20:00 Martes a Viernes Hrs. 08:30 a 12:00 y Hrs. 14:00  20:00"
@@ -472,12 +472,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo de 08:00 a 20:00"
@@ -494,12 +494,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 08:30 a 21:00"
@@ -516,12 +516,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 12:30 a 20:00"
@@ -538,12 +538,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 08:00 a 21:00 y Domingo 11:00 a 20:00"
@@ -560,12 +560,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado 09:00 a 20:00; domingo de 15:00 a 20:00"
@@ -582,12 +582,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo Hrs. 07:30 a 20:00"
@@ -604,12 +604,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:30 a 20:00; domingo de 10:00 a 18:00"
@@ -626,12 +626,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 07:00 a 20:00"
@@ -648,12 +648,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 12:00 y de 14:00 a 18:00; sabado de 08:00 a 12:00"
@@ -670,12 +670,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado Hrs. 09:00 a 20:00"
@@ -692,12 +692,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sabado 08:30 a 13:00 y 14:00 a 19:00; Domingo 08:30 a 13:00"
@@ -714,12 +714,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 09:30 a 13:00 y 15:30 a 19:00"
@@ -736,12 +736,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  09:00 a 21:00"
@@ -758,12 +758,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:00 a 19:00"
@@ -780,12 +780,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado  08:00 a 20:00; Domingo  10:00 a 20:00"
@@ -802,12 +802,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 09:00 a 20:00"
@@ -824,12 +824,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 18:30; Sábado 08:00 a 14:00"
@@ -846,12 +846,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado 07:00 a 20:00"
@@ -868,12 +868,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 19:00; Sábado 08:00 a 12:00"
@@ -890,12 +890,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de  09:00 a 12:30 y 15:00 a 19:00"
@@ -912,12 +912,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 08:30 a 20:00"
@@ -934,12 +934,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 08:00 a 21:00; Domingo 11:00 a 20:00"
@@ -956,12 +956,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 09:00 a 21:00"
@@ -978,12 +978,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 08:00 a 20:00; Domingo 08 a 15:00"
@@ -1000,12 +1000,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Jueves 14:00 a 21:00;Sábado y Domingo 09:00 a 21:00"
@@ -1022,12 +1022,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 20:00; sabados 08:00 a 13:00"
@@ -1044,12 +1044,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 09:00 a 12:00 y  14:00 a 21:00"
@@ -1066,12 +1066,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 09:00 a 20:00"
@@ -1088,12 +1088,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 15:00 a 19:00"
@@ -1110,12 +1110,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes 09:00 a 19:30"
@@ -1132,12 +1132,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes hrs. 08:00 a 12:00 y de 14:00 a 20:00, sabado hrs. 08:00 a 12:00"
@@ -1154,12 +1154,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:00 a 20:00"
@@ -1176,12 +1176,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 09:00 a 21:00"
@@ -1198,12 +1198,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a domingo de 07:00 a 20:00"
@@ -1220,12 +1220,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes 09:30 a 12:30 y de 15:00 a 19:00"
@@ -1242,12 +1242,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 12:30 y de 14:30 a 19:00; sabado de 08:00 a 12:30"
@@ -1264,12 +1264,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  08:00 a 21:00"
@@ -1286,12 +1286,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 12:00 y 14:00 a 20:00; Sábado 09:00 a 15:00"
@@ -1308,12 +1308,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado 08:00 a 20:00"
@@ -1330,12 +1330,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes 08:00 a 15:00; sabado 08:00 a 12:00; domingo 15:00 a 18:00"
@@ -1352,12 +1352,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado  08:00 a 20:00; Domingo  08:00 a 16:00"
@@ -1374,12 +1374,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  11:00 a 21:00"
@@ -1396,12 +1396,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes 08:00 a 11:00 y de 13:30 a 20:00; sabado 08:00 a 12:00"
@@ -1418,12 +1418,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:30 a 21:00"
@@ -1440,12 +1440,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:00 a 22:00"
@@ -1462,12 +1462,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 07:00 a 11:30 y 14:00 a 20:00"
@@ -1484,12 +1484,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 09:00 a 22:00"
@@ -1506,12 +1506,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 12:00 y de 14:00 a 18:00"
@@ -1528,12 +1528,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 09:00 a 22:00; Domingo 09:00 a 12:30"
@@ -1550,12 +1550,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a domingo de 07:00 a 20:00"
@@ -1572,12 +1572,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:30 a 13:00 y 14:00  a 20:00"
@@ -1594,12 +1594,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 12:00 y  14:00 a 18:00; Sábado 08:30 a 12:00"
@@ -1616,12 +1616,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:00 a 22:00"
@@ -1638,12 +1638,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:30 a 21:30"
@@ -1660,12 +1660,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 09:00 a 20:00"
@@ -1682,12 +1682,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 09:00 a 12:00 y 13:00 20:00"
@@ -1704,12 +1704,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes 09:30 a 12:30 y de 14:30 a 20:00"
@@ -1726,12 +1726,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 16:00; sabado de  08:00 a 13:00"
@@ -1748,12 +1748,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado 07:00 a 20:00"
@@ -1770,12 +1770,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  09:00 a 12:00 y  14:00 a 18:00"
@@ -1792,12 +1792,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 13:00 y 14:00 a 20:00"
@@ -1814,12 +1814,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:30 a 12:30 y de 14:30 a 19:30; sabado de 10:00 a 16:00"
@@ -1836,12 +1836,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "EL CHORO"
+            "localityName": "EL CHORO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 22:00"
@@ -1858,12 +1858,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 06:00a 20:00; domingo 06:00 a 12:00"

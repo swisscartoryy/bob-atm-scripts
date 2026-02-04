@@ -10,12 +10,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "BENI",
             "holidays": "18 de noviembre"
         },
         "locality": {
-            "localitynName": "TRINIDAD"
+            "localityName": "TRINIDAD"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -32,12 +32,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "BENI",
             "holidays": "18 de noviembre"
         },
         "locality": {
-            "localitynName": "RIBERALTA"
+            "localityName": "RIBERALTA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -54,12 +54,12 @@
             "officeTypeName": "Sucursal",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "BENI",
             "holidays": "18 de noviembre"
         },
         "locality": {
-            "localitynName": "TRINIDAD"
+            "localityName": "TRINIDAD"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -76,12 +76,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "BENI",
             "holidays": "18 de noviembre"
         },
         "locality": {
-            "localitynName": "GUAYARAMERIN"
+            "localityName": "GUAYARAMERIN"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"

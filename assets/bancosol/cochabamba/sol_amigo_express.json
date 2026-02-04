@@ -10,12 +10,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 07:00 a 20:00 hrs."
@@ -32,12 +32,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Martes a sabado de 11:00 a 19:00"
@@ -54,12 +54,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  09:00 a 16:00 y Sábados  09:00 a 12:00 "
@@ -76,12 +76,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 16:00"
@@ -98,12 +98,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 07:00 a 19:00"
@@ -120,12 +120,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:00 a 20 :00"
@@ -142,12 +142,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 07:00 a 20:00"
@@ -164,12 +164,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 20:00"
@@ -186,12 +186,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 20:00 y sabados de 08:30 a 13:00"
@@ -208,12 +208,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 07:00 a 20:00"
@@ -230,12 +230,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 12:00 y de 13:00 a 18:00"
@@ -252,12 +252,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "CLIZA"
+            "localityName": "CLIZA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 08:30 a 14:00; Domingo 08:30 a 13:00"
@@ -274,12 +274,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TIQUIPAYA"
+            "localityName": "TIQUIPAYA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 07:30 a 18:30"
@@ -296,12 +296,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Mircoles y Viernes y Sábado 08:00 a 20:00 ; Domingo 08:00 a 14:00"
@@ -318,12 +318,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "PAROTANI"
+            "localityName": "PAROTANI"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 08:00 a 18:00"
@@ -340,12 +340,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 21:00"
@@ -362,12 +362,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 09:00 a 18:00 hrs"
@@ -384,12 +384,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes 07:00 a 20:00"
@@ -406,12 +406,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes, Miercoles y Jueves: 08:30 a 12:30 y 14:00 a 18:00, Martes, Viernes; Domingo 08:00 a 18:00, Sábado 09:00 a 13:00"
@@ -428,12 +428,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a  Sábado  07:30 a 12:00 "
@@ -450,12 +450,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 22:00; Sábado 08:00 a 22:00; Domingo 08:00 a 22:00"
@@ -472,12 +472,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de  11:30 a 17:30 hrs. Sabados y Domingos  de 11:00 a 18:30 hrs."
@@ -494,12 +494,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 22:00; Sábados 08:30 a 22:00; Domingo 09:00 a 21:00"
@@ -516,12 +516,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "MIZQUE"
+            "localityName": "MIZQUE"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 07:00 a 20:00"
@@ -538,12 +538,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 07:00 a 12:00 y de 14:30 a 20:00"
@@ -560,12 +560,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a  viernes de 07:30 a 13:00 y de 14:00 a 20:00, sabado y domingo de 07:30 a 12:00 y 15:00 a 20:00 horas"
@@ -582,12 +582,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:30 a 20:00; Sabado de 08:30 a 15:00"
@@ -604,12 +604,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 20:00"
@@ -626,12 +626,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:00 a 16:00 "
@@ -648,12 +648,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 17:00; Domingo de 08:00 a 12:00"
@@ -670,12 +670,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 20:00"
@@ -692,12 +692,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 13:00 a 20:00"
@@ -714,12 +714,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "CAPINOTA"
+            "localityName": "CAPINOTA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 20:00 y sabado de 08:00 a 16:00"
@@ -736,12 +736,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo de 06:00 a 20:00 horas"
@@ -758,12 +758,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  09:00 a 12:00 y  14:00 a 18:00 "
@@ -780,12 +780,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 1800"
@@ -802,12 +802,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes, Martes, Jueves y Viernes: 08:00 a 20:00 ;Miércoles y Sábado: 08:00 a 10:00  y 15:00 a 20:00"
@@ -824,12 +824,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  07:00 a 20:00 "
@@ -846,12 +846,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  06:00 a 20:00"
@@ -868,12 +868,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 20:00 a Sábado; Domingo 08:00 a 14:00 "
@@ -890,12 +890,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado  08:00 a 22:00 "
@@ -912,12 +912,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SAN BENITO"
+            "localityName": "SAN BENITO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 15:00"
@@ -934,12 +934,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SICAYA"
+            "localityName": "SICAYA"
         },
         "openingHours": {
             "hour": "Martes y Jueves 08:00 a 12:00 y 14:00 a 18:00; Sábado; Domingo 08:30 a 12:30"
@@ -956,12 +956,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 09:00 a 20:00"
@@ -978,12 +978,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 18:00 y sabado de 09:00 a 13:00"
@@ -1000,12 +1000,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 12:00 y 14:00 a 18:00"
@@ -1022,12 +1022,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 16:00"
@@ -1044,12 +1044,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 20:00"
@@ -1066,12 +1066,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "PUNATA"
+            "localityName": "PUNATA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 07:00 a 20:00 hrs"
@@ -1088,12 +1088,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 12:00 a 20:00"
@@ -1110,12 +1110,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes, Martes, Jueves, Viernes, Sabado y Domingo de 07:00 a 20:00 hrs"
@@ -1132,12 +1132,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 19:00; Sábado y Domingo  08:30 a 19:00"
@@ -1154,12 +1154,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SIPE SIPE"
+            "localityName": "SIPE SIPE"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 07:00 a 15:00; domingos de 07:00 a 12:00"
@@ -1176,12 +1176,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 09:00 a 20:00; domingo de 13:00 a 20:00"
@@ -1198,12 +1198,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "VINTO"
+            "localityName": "VINTO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 18:00"
@@ -1220,12 +1220,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 10:00 a 13:00 y de 14:00 a 18:00; Sabados de 10:00 a 20:00"
@@ -1242,12 +1242,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "CLIZA"
+            "localityName": "CLIZA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  07:00 a 19:00  Sábado y Domingo  07:00 a 14:00 "
@@ -1264,12 +1264,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:00 a 12:00 y 14:00 a 18:00"
@@ -1286,12 +1286,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 20:00"
@@ -1308,12 +1308,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 19:00"
@@ -1330,12 +1330,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 20:00"
@@ -1352,12 +1352,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 20:00"
@@ -1374,12 +1374,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 18:00"
@@ -1396,12 +1396,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:00 a 20:00"
@@ -1418,12 +1418,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 14:00 y 15:30 a 18:30; Sábados 08:00 a 14:00 y 15:30 a 18:30"
@@ -1440,12 +1440,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:00 a 20:00 hrs."
@@ -1462,12 +1462,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLOMI"
+            "localityName": "COLOMI"
         },
         "openingHours": {
             "hour": "Lunes a Jueves  09:00 a 16:00; Domingos 09:00 a 12:00"
@@ -1484,12 +1484,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  07:00 a 19:00 "
@@ -1506,12 +1506,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "PUNATA"
+            "localityName": "PUNATA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 07:30 a 18:00 y sabado de 08:00 a 13:00"
@@ -1528,12 +1528,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:00 a 18:00 "
@@ -1550,12 +1550,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 14:00 a 20:00; Sábados 08:00 a 20:00"
@@ -1572,12 +1572,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  07:00 a 20:00 "
@@ -1594,12 +1594,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 12:00 y de 14:00 a 18:00"
@@ -1616,12 +1616,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:00 a 20:00 "
@@ -1638,12 +1638,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 07:30 a 2030; Sábado 07:30 a 2030; Domingo 07:30 a 2030"
@@ -1660,12 +1660,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TOTORA"
+            "localityName": "TOTORA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 07:30 a 18:00 y domingo de 07:30 a 18:00"
@@ -1682,12 +1682,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "CAPINOTA"
+            "localityName": "CAPINOTA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 16:00"
@@ -1704,12 +1704,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 22:00; Sábado 08:00 a 18:00; Domingo 08:00 a 18:00"
@@ -1726,12 +1726,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 19:00"
@@ -1748,12 +1748,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:00 a 12:00 y 14:00 a 20:00"
@@ -1770,12 +1770,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 15:00"
@@ -1792,12 +1792,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "VINTO"
+            "localityName": "VINTO"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 10:00 a 19:00 horas"
@@ -1814,12 +1814,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 18:00"
@@ -1836,12 +1836,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 07:00 a 19:00 y Domingo de 07:00 a 12:00 horas"
@@ -1858,12 +1858,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "AIQUILE"
+            "localityName": "AIQUILE"
         },
         "openingHours": {
             "hour": "Lunes a  Viernes  14:00 a 18:00 ; Sábados  08:30 a 12:00 "
@@ -1880,12 +1880,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 19:00; sabado de 09:00 a 13:00"
@@ -1902,12 +1902,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a  Sábado  09:00 a 20:00 "
@@ -1924,12 +1924,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "VILA VILA"
+            "localityName": "VILA VILA"
         },
         "openingHours": {
             "hour": "Lunes, Martes, Jueves y Viernes 08:00 a 18:00"
@@ -1946,12 +1946,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 09:00 a 20:00"
@@ -1968,12 +1968,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TARATA"
+            "localityName": "TARATA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 12:00 y de 13:00 a 18:00, sabados y domingos de 08:00 a 13:00"
@@ -1990,12 +1990,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 08:00 a 19:00 "
@@ -2012,12 +2012,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 18:00"
@@ -2034,12 +2034,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo de 08:00 a 20:00 hrs"
@@ -2056,12 +2056,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado  07:00 a 20:00 "
@@ -2078,12 +2078,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a  Viernes  09:00 a 19:00 "
@@ -2100,12 +2100,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 21:00 Sábado08:00 a 21:00, Domingo 08:00 a 21:00"
@@ -2122,12 +2122,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 12:00 y de 14:00 a 18:00"
@@ -2144,12 +2144,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 09:00 a 20:00"
@@ -2166,12 +2166,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 07:00 a 20:00; Domingo de 07:00 a 15:00"
@@ -2188,12 +2188,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SIPE SIPE"
+            "localityName": "SIPE SIPE"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 07:00 a 20:00"
@@ -2210,12 +2210,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 21:30; Sábados 08:00 a 21:30; Domingo 08:00 a 21:30"
@@ -2232,12 +2232,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  07:00 a 20:00 "
@@ -2254,12 +2254,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 21:00"
@@ -2276,12 +2276,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 08:00 a 18:00; Domingo 08:00 a 13:00"
@@ -2298,12 +2298,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SIPE SIPE"
+            "localityName": "SIPE SIPE"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:30 a 12:00 y 14:00 a 17:00 "
@@ -2320,12 +2320,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "PUNATA"
+            "localityName": "PUNATA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 07:30 a 20:00; Sábado 08:00 a 12:00; Domingo 08:00 a 12:00"
@@ -2342,12 +2342,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 18:00"
@@ -2364,12 +2364,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:30  a 13:30  y Sábado 07:30  a 13:00 "
@@ -2386,12 +2386,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 14:30 a 18:00 hrs"
@@ -2408,12 +2408,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:00 a 20:00 hrs."
@@ -2430,12 +2430,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "CLIZA"
+            "localityName": "CLIZA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 17:30; sabado de 08:00 a 13:00"
@@ -2452,12 +2452,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábados: 09:00 a 20: 00 horas. "
@@ -2474,12 +2474,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:00 a 20:00 horas"
@@ -2496,12 +2496,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 12:00 y 14:00 a 20:00"
@@ -2518,12 +2518,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 06:30 a 20:00 hrs"
@@ -2540,12 +2540,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 12:00 y 14:00 a 18:00 "
@@ -2562,12 +2562,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:00 a 20:00 hrs."
@@ -2584,12 +2584,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a  Viernes  10:30 a 18:00 "
@@ -2606,12 +2606,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  09:00 a 20:00 ;  Sábados  09:00 a 12:00 "
@@ -2628,12 +2628,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 16:00"
@@ -2650,12 +2650,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabados de 09:00 a 19:00"
@@ -2672,12 +2672,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "CAPINOTA"
+            "localityName": "CAPINOTA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  07:30 a 19:00"
@@ -2694,12 +2694,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 18:00"
@@ -2716,12 +2716,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo de 07:00 a 20:00 horas"
@@ -2738,12 +2738,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 18:00"
@@ -2760,12 +2760,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 09:00 a 20:00 hrs"
@@ -2782,12 +2782,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 09:00 a 20:00"
@@ -2804,12 +2804,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 13:00 a 20:00"
@@ -2826,12 +2826,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo de 07:00 a 20:00"
@@ -2848,12 +2848,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 20:00"
@@ -2870,12 +2870,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 06:30 a 20:00"
@@ -2892,12 +2892,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado  08:00 a 20:00 "
@@ -2914,12 +2914,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes 07:00 a 22:00; Miercoles a Domingo 07:00 a 22:00"
@@ -2936,12 +2936,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 18:00; Sábados 08:00 a 14:00"
@@ -2958,12 +2958,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 06:00 a 13:00"
@@ -2980,12 +2980,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes: 07:30  a 20:00 hrs."
@@ -3002,12 +3002,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:00 a 17:00 hrs"
@@ -3024,12 +3024,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 19:00; domingo de 08:30 a 14:00"
@@ -3046,12 +3046,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 16:00"
@@ -3068,12 +3068,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 07:30 a 20:00 hrs"
@@ -3090,12 +3090,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  07:00 a 20:00 "
@@ -3112,12 +3112,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes y Jueves 08:00 a 18:00; Martes, Miercoles y Viernes 08:00 a 20:00; Sábado 08:00 a 12:00; Domingo 14:00 a 20:00"
@@ -3134,12 +3134,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "PUNATA"
+            "localityName": "PUNATA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:00 a 12:00 y de 13:00 a 18:00 y Sabados de 08:00 a 12:00 hrs"
@@ -3156,12 +3156,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SAN BENITO"
+            "localityName": "SAN BENITO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 16:00"
@@ -3178,12 +3178,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 08:00 a 19:00 y Domingo de 08:00 a 12:00 hrs"
@@ -3200,12 +3200,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 07:00 a 21:00"
@@ -3222,12 +3222,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes  08:00 a 19:00 y sábado  08:30 a 13:30 "
@@ -3244,12 +3244,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 17:30; sabado de 09:00 a 12:00"
@@ -3266,12 +3266,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 12:00 y de 14:00 a 17:00"
@@ -3288,12 +3288,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 10:00 a 20:00 y domingo de 10:00 a 20:00"
@@ -3310,12 +3310,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TIQUIPAYA"
+            "localityName": "TIQUIPAYA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 18:00 y sabado de 09:00 a 14:00"
@@ -3332,12 +3332,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado  09:00 a 18:00"
@@ -3354,12 +3354,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:00 a 18:00 "
@@ -3376,12 +3376,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábados: 06:00 a 20:00 horas.  "
@@ -3398,12 +3398,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 20:00; sabado de 08:30 a 14:00"
@@ -3420,12 +3420,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  08:00 a 20:00 "
@@ -3442,12 +3442,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:00 a 12:00 y  14:00 a 18:00 "
@@ -3464,12 +3464,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 19:00"
@@ -3486,12 +3486,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 10:00 a 12:00 y 14:30 a 20:00; Sábado 10:00 a 20:00"
@@ -3508,12 +3508,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo  08:00 a 18:00 "
@@ -3530,12 +3530,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 20:00; Sábado 08:30 a 20:00"
@@ -3552,12 +3552,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:00 a 20:00 y Sábados  08:00 a 12:00 "
@@ -3574,12 +3574,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 07:30 a 12:00 y 14:30 a 18:00; Sábado 08:30 a 12:00"
@@ -3596,12 +3596,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 20:00; Sábado 09:00 a 20:00; Domingo 09:00 a 20:00"
@@ -3618,12 +3618,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 09:30 a 20:00"
@@ -3640,12 +3640,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 17:00"
@@ -3662,12 +3662,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TIQUIPAYA"
+            "localityName": "TIQUIPAYA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 20:00"
@@ -3684,12 +3684,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 20:00 Sábado 08:00 a 17:00"
@@ -3706,12 +3706,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 12:00 y de 14:00 a 18:00; sabado de 08:00 a 12:00"
@@ -3728,12 +3728,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "PUNATA"
+            "localityName": "PUNATA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 12:30 y de 13:00 a 16:30"
@@ -3750,12 +3750,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  09:00 a 19:00 "
@@ -3772,12 +3772,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes  08:30 a 19:00 ,  Martes a Domingo  08:30 a 20:00 "
@@ -3794,12 +3794,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabados de 08:00 a 19:00"
@@ -3816,12 +3816,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "CAPINOTA"
+            "localityName": "CAPINOTA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:30 a 12:00 y de 14:30 a 17:00"
@@ -3838,12 +3838,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "VILLA RIVERO"
+            "localityName": "VILLA RIVERO"
         },
         "openingHours": {
             "hour": "Lunes, miercoles, jueves y viernes de 09:00 a 12:00 y de 14:00 a 16:00"
@@ -3860,12 +3860,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:00 a18:00  y Sábado 08:00 a 15:00 "
@@ -3882,12 +3882,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 12:30 y 14:30 a 18:30; Sábado 08:30 a 13:00"
@@ -3904,12 +3904,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 09:00 a 12:00 y de 14:00 a 19:00 hrs"
@@ -3926,12 +3926,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 19:00; Sábado 09:00 a 19:00"
@@ -3948,12 +3948,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sabados de hrs. 08:30 a 19:00"
@@ -3970,12 +3970,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 19:00"
@@ -3992,12 +3992,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes: 09:00 a 18: 00 horas. "
@@ -4014,12 +4014,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 12:30 y de 15:00 a 20:00"
@@ -4036,12 +4036,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:30 a 19:00 y Sábados  08:30 a 12:00 "
@@ -4058,12 +4058,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TIQUIPAYA"
+            "localityName": "TIQUIPAYA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 20:00"
@@ -4080,12 +4080,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo de 08:30 a 12:30 y de 15:30 a 20:00 hrs"
@@ -4102,12 +4102,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 07:00 a 16:00"
@@ -4124,12 +4124,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 13:00 y de 17:00 a 20:00"
@@ -4146,12 +4146,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 18:00"
@@ -4168,12 +4168,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 07:00 a 20:00 "
@@ -4190,12 +4190,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 08:00 a 20:00 hrs"
@@ -4212,12 +4212,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 19:00; sabados de 08:00 a 12:00"
@@ -4234,12 +4234,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a  Viernes  08:30 a 18:30 "
@@ -4256,12 +4256,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado: 07:30 a 21:00"
@@ -4278,12 +4278,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado  09:00 a 18:00 "
@@ -4300,12 +4300,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  09:00 a 12:00 a 14:00 a 18:00 "
@@ -4322,12 +4322,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado 09:00 a 20:00"
@@ -4344,12 +4344,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado  08:00 a 19:00 "
@@ -4366,12 +4366,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 21:00"
@@ -4388,12 +4388,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 10:00 a 17:00"
@@ -4410,12 +4410,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TIRAQUE"
+            "localityName": "TIRAQUE"
         },
         "openingHours": {
             "hour": "Lunes, martes, jueves y viernes de 08:00 a 12:00 y de 14:00 a 15:00; miercoles de 08:00 a 12:00"
@@ -4432,12 +4432,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 17:00 y sabado de 08:00 a 13:00"
@@ -4454,12 +4454,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "VINTO"
+            "localityName": "VINTO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  07:00 a 20:00 "
@@ -4476,12 +4476,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:00 a 20:00 hrs."
@@ -4498,12 +4498,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 17:00"
@@ -4520,12 +4520,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 18:00"
@@ -4542,12 +4542,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a domingo de 08:30 a 20:00"
@@ -4564,12 +4564,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:00 a 17:30 hrs."
@@ -4586,12 +4586,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a  Viernes  09:00 a 17:30 "
@@ -4608,12 +4608,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sábado  09:00  a 20:00 "
@@ -4630,12 +4630,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 12:00 y 14:00 a 18:00; Sábado 09:00 a 13:00"
@@ -4652,12 +4652,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 22:00; Sábados 08:30 a 22:00; Domingo 13:00 a 22:00"
@@ -4674,12 +4674,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 20:30 Sábado 08:30 a 20:30, Domingo 09:00 a 13:00"
@@ -4696,12 +4696,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 20:00"
@@ -4718,12 +4718,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Sabado de 09:00 a 12:00 y de 14:00 a 20:00"
@@ -4740,12 +4740,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "Lunes a Domingo 07:00 a 18:00"
@@ -4762,12 +4762,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 18:00; sabado de 09:00 a 14:00"
@@ -4784,12 +4784,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 09:00 a 20:00"
@@ -4806,12 +4806,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 18:00 y Sábado 08:00 a 12:00"
@@ -4828,12 +4828,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 14:00 a 20:00"
@@ -4850,12 +4850,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TIRAQUE"
+            "localityName": "TIRAQUE"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 08:00 a 17:00; sabado de 08:00 a 12:00"
@@ -4872,12 +4872,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes  08:00 a 18:00 y Sábado  08:00 a 14:00 "
@@ -4894,12 +4894,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TIQUIPAYA"
+            "localityName": "TIQUIPAYA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 12:00 y 14:00 a 22:00; Sábados 08:30 a 12:00 y 14:00 a 22:00; Domingo 08:30 a 12:00 y 14:00 a 22:00"
@@ -4916,12 +4916,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 20:30; Sábados 08:30 a 20:30; Domingo 08:30 a 20:30"
@@ -4938,12 +4938,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": " Lunes a Viernes  07:30 a 20:00 "
@@ -4960,12 +4960,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "VINTO"
+            "localityName": "VINTO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 14:00; Domingo 09:00 a 14:00"
@@ -4982,12 +4982,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SIPE SIPE"
+            "localityName": "SIPE SIPE"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 16:00"
@@ -5004,12 +5004,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:00 a 20:00"
@@ -5026,12 +5026,12 @@
             "officeTypeName": "Punto Corresponsal No Financiero",
             "officeName": "Sol amigo express"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "Lunes a sabado de 08:30 a 16:00"

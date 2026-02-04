@@ -10,12 +10,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -32,12 +32,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -54,12 +54,12 @@
             "officeTypeName": "Cajero Automático Especial Externo - Sin Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -76,12 +76,12 @@
             "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -98,12 +98,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -120,12 +120,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -142,12 +142,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -164,12 +164,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "PUNATA"
+            "localityName": "PUNATA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -186,12 +186,12 @@
             "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -208,12 +208,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "VINTO"
+            "localityName": "VINTO"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -230,12 +230,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -252,12 +252,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -274,12 +274,12 @@
             "officeTypeName": "Cajero Automático Interno",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "14 horas"
@@ -296,12 +296,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -318,12 +318,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -340,12 +340,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -362,12 +362,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -384,12 +384,12 @@
             "officeTypeName": "Cajero Automático para personas con discapacidad Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -406,12 +406,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COLCAPIRHUA"
+            "localityName": "COLCAPIRHUA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -428,12 +428,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -450,12 +450,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "CLIZA"
+            "localityName": "CLIZA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -472,12 +472,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -494,12 +494,12 @@
             "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -516,12 +516,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -538,12 +538,12 @@
             "officeTypeName": "Cajero Automático Especial Externo - Sin Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -560,12 +560,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -582,12 +582,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -604,12 +604,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -626,12 +626,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -648,12 +648,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -670,12 +670,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -692,12 +692,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -714,12 +714,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -736,12 +736,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -758,12 +758,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -780,12 +780,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -802,12 +802,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "QUILLACOLLO"
+            "localityName": "QUILLACOLLO"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -824,12 +824,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -846,12 +846,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -868,12 +868,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -890,12 +890,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -912,12 +912,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -934,12 +934,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -956,12 +956,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "TIQUIPAYA"
+            "localityName": "TIQUIPAYA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -978,12 +978,12 @@
             "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -1000,12 +1000,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -1022,12 +1022,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "SACABA"
+            "localityName": "SACABA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -1044,12 +1044,12 @@
             "officeTypeName": "Cajero Automático Especial Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "12 horas"
@@ -1066,12 +1066,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "COCHABAMBA",
             "holidays": "14 de septiembre"
         },
         "locality": {
-            "localitynName": "COCHABAMBA"
+            "localityName": "COCHABAMBA"
         },
         "openingHours": {
             "hour": "24 horas"

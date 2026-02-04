@@ -10,12 +10,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "TARIJA",
             "holidays": "15 de abril"
         },
         "locality": {
-            "localitynName": "TARIJA"
+            "localityName": "TARIJA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -32,12 +32,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "TARIJA",
             "holidays": "15 de abril"
         },
         "locality": {
-            "localitynName": "TARIJA"
+            "localityName": "TARIJA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -54,12 +54,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "TARIJA",
             "holidays": "15 de abril"
         },
         "locality": {
-            "localitynName": "TARIJA"
+            "localityName": "TARIJA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:30 a 17:00; Sábados: 09:00 a 13:00"
@@ -76,12 +76,12 @@
             "officeTypeName": "Sucursal",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "TARIJA",
             "holidays": "15 de abril"
         },
         "locality": {
-            "localitynName": "TARIJA"
+            "localityName": "TARIJA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -98,12 +98,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "TARIJA",
             "holidays": "15 de abril"
         },
         "locality": {
-            "localitynName": "YACUIBA"
+            "localityName": "YACUIBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -120,12 +120,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "TARIJA",
             "holidays": "15 de abril"
         },
         "locality": {
-            "localitynName": "TARIJA"
+            "localityName": "TARIJA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -142,12 +142,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "TARIJA",
             "holidays": "15 de abril"
         },
         "locality": {
-            "localitynName": "TARIJA"
+            "localityName": "TARIJA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -164,12 +164,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department":  {
             "departmentName": "TARIJA",
             "holidays": "15 de abril"
         },
         "locality": {
-            "localitynName": "YACUIBA"
+            "localityName": "YACUIBA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes de 08:30 a 17:00; Sábados: 09:00 a 13:00"
