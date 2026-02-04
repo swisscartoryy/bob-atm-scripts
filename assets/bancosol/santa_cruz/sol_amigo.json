@@ -10,12 +10,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -32,12 +32,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -54,12 +54,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 12:30 y 14:30 a 17:30; Sábado 09:00 a 12:30"
@@ -76,12 +76,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "JOROCHITO"
+            "localityName": "JOROCHITO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -98,12 +98,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 13:00 y 14:00 a 17:00; sabado de 09:00 a 13:00"
@@ -120,12 +120,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 13:00 y de 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -142,12 +142,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "WARNES"
+            "localityName": "WARNES"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -164,12 +164,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -186,12 +186,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -208,12 +208,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -230,12 +230,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 12:00 y 14:00 a 17:30; Sábado 08:30 a 12:00"
@@ -252,12 +252,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "WARNES"
+            "localityName": "WARNES"
         },
         "openingHours": {
             "hour": "Lunes a viernes de 09:00 a 13:00 y 14:00 a 17:00; sabado de 09:00 a 13:00"
@@ -274,12 +274,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -296,12 +296,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "COTOCA"
+            "localityName": "COTOCA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:30 a 17:30; Sábado 09:00 a 13:00"
@@ -318,12 +318,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "LA GUARDIA"
+            "localityName": "LA GUARDIA"
         },
         "openingHours": {
             "hour": "De Lunes  a Viernes 08:00 a 12:30 y 13:30 a 17:30, Sabados de 08:30 a 12:30"
@@ -340,12 +340,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 13:30 y 15:00 a 17:00; Sábado 09:00 a 13:00"
@@ -362,12 +362,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -384,12 +384,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -406,12 +406,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -428,12 +428,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 12:30 y 14:30 a 17:30; Sábado 09:00 a 13:00"
@@ -450,12 +450,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 13:00 y de 14:00 a 17:30; Sábado 09:00 a 12:30"
@@ -472,12 +472,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "CHANE INDEPENDENCIA"
+            "localityName": "CHANE INDEPENDENCIA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -494,12 +494,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "MONTERO"
+            "localityName": "MONTERO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -516,12 +516,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -538,12 +538,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"
@@ -560,12 +560,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "LA GUARDIA"
+            "localityName": "LA GUARDIA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 12:00 pm y 14:00 a 17:30 Sabado 08:00 a 12:00 pm"
@@ -582,12 +582,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 12:30"
@@ -604,12 +604,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "WARNES"
+            "localityName": "WARNES"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 12:30"
@@ -626,12 +626,12 @@
             "officeTypeName": "Oficina Externa",
             "officeName": "Sol amigo"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "SANTA CRUZ",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "SANTA CRUZ DE LA SIERRA"
+            "localityName": "SANTA CRUZ DE LA SIERRA"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 09:00 a 13:00 y 14:00 a 17:00; Sábado 09:00 a 13:00"

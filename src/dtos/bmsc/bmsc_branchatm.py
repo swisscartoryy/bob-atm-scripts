@@ -7,7 +7,7 @@ from pydantic import BaseModel, Field, computed_field
 
 from .const import PosValue, TipoPuntoAtencion, DepartamentoBolivia
 
-normalized_vowels = str.maketrans(
+transvowels = str.maketrans(
     "áéíóúÁÉÍÓÚ",
     "aeiouAEIOU",
 )
@@ -61,9 +61,7 @@ class BmscBranchATM(BaseModel):
 
     @computed_field(alias="nombreDepartamento")
     def nombre_departamento(self) -> str:
-        return re.sub(
-            r"\s+", "_", self.departamento.translate(normalized_vowels)
-        ).upper()
+        return re.sub(r"\s+", "_", self.departamento.translate(transvowels)).upper()
 
     es_autobanco: Optional[bool] = Field(None, validation_alias="esAutoBanco")
     es_principal: Optional[bool] = Field(None, validation_alias="esPrincipal")
@@ -92,14 +90,11 @@ class BmscBranchATM(BaseModel):
 
     @computed_field(alias="puntoAtencion")
     def punto_atencion(self) -> Optional[str]:
-        punto_atencion = self.tipo_punto_atencion
+        if not self.tipo_punto_atencion is None:
+            punto_atencion = self.tipo_punto_atencion.replace("_", "")
+            return re.sub(r"\s+", "_", punto_atencion.translate(transvowels)).upper()
 
-        if punto_atencion is None:
-            return None
-
-        return re.sub(
-            r"\s+", "_", punto_atencion.translate(normalized_vowels).replace("-", " ")
-        ).upper()
+        return None
 
     horario_atencioncms_string: Annotated[
         str, Doc("horario atencion cms json string")

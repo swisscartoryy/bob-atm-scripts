@@ -10,12 +10,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "POTOSI",
             "holidays": "10 de noviembre "
         },
         "locality": {
-            "localitynName": "POTOSÍ"
+            "localityName": "POTOSÍ"
         },
         "openingHours": {
             "hour": "15 horas"
@@ -32,12 +32,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "POTOSI",
             "holidays": "10 de noviembre "
         },
         "locality": {
-            "localitynName": "POTOSÍ"
+            "localityName": "POTOSÍ"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -54,12 +54,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "POTOSI",
             "holidays": "10 de noviembre "
         },
         "locality": {
-            "localitynName": "POTOSÍ"
+            "localityName": "POTOSÍ"
         },
         "openingHours": {
             "hour": "24 horas"

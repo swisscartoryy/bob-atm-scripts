@@ -10,12 +10,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "PANDO",
             "holidays": "24 de septiembre"
         },
         "locality": {
-            "localitynName": "COBIJA"
+            "localityName": "COBIJA"
         },
         "openingHours": {
             "hour": "24 horas"

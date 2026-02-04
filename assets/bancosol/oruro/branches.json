@@ -10,12 +10,12 @@
             "officeTypeName": "Sucursal",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -32,12 +32,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 12:30 y 13:30 a 17:00; Sábado 09:00 a 13:00"
@@ -54,12 +54,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -76,12 +76,12 @@
             "officeTypeName": "Ventanilla de Cobranza",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:00 a 12:00 y 14:00 a 18:00"
@@ -98,12 +98,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"
@@ -120,12 +120,12 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
         "locality": {
-            "localitynName": "ORURO"
+            "localityName": "ORURO"
         },
         "openingHours": {
             "hour": "Lunes a Viernes 08:30 a 17:00; Sábado 09:00 a 13:00"

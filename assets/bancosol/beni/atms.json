@@ -10,12 +10,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "BENI",
             "holidays": "18 de noviembre"
         },
         "locality": {
-            "localitynName": "RIBERALTA"
+            "localityName": "RIBERALTA"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -32,12 +32,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "BENI",
             "holidays": "18 de noviembre"
         },
         "locality": {
-            "localitynName": "GUAYARAMERIN"
+            "localityName": "GUAYARAMERIN"
         },
         "openingHours": {
             "hour": "24 horas"
@@ -54,12 +54,12 @@
             "officeTypeName": "Cajero Automático Externo - Con Recinto",
             "officeName": "Cajeros"
         },
-        "deparmet": {
+        "department": {
             "departmentName": "BENI",
             "holidays": "18 de noviembre"
         },
         "locality": {
-            "localitynName": "TRINIDAD"
+            "localityName": "TRINIDAD"
         },
         "openingHours": {
             "hour": "24 horas"
