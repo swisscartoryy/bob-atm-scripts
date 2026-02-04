@@ -10,7 +10,7 @@
             "officeTypeName": "Sucursal",
             "officeName": "Agencias"
         },
-        "department":  {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
@@ -32,7 +32,7 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "department":  {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
@@ -54,7 +54,7 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "department":  {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
@@ -76,7 +76,7 @@
             "officeTypeName": "Ventanilla de Cobranza",
             "officeName": "Agencias"
         },
-        "department":  {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
@@ -98,7 +98,7 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "department":  {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },
@@ -120,7 +120,7 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "department":  {
+        "department": {
             "departmentName": "ORURO",
             "holidays": "10 de febrero"
         },

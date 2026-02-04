@@ -10,7 +10,7 @@
             "officeTypeName": "Sucursal",
             "officeName": "Agencias"
         },
-        "department":  {
+        "department": {
             "departmentName": "POTOSI",
             "holidays": "10 de noviembre "
         },
@@ -32,7 +32,7 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "department":  {
+        "department": {
             "departmentName": "POTOSI",
             "holidays": "10 de noviembre "
         },
@@ -54,7 +54,7 @@
             "officeTypeName": "Agencia Fija",
             "officeName": "Agencias"
         },
-        "department":  {
+        "department": {
             "departmentName": "POTOSI",
             "holidays": "10 de noviembre "
         },
