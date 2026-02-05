@@ -29,7 +29,8 @@ for html_path in html_paths:
 
     for departmentid in departmentids:
         element = soup.find(id=departmentid)
-        dirname = f"assets/bcp/{departmentid[len("fondooficina") :]}".lower()
+        department = departmentid[len("fondooficina") :].lower()
+        dirname = f"assets/bcp/{"beni" if department == "trinidad" else department}"
 
         os.makedirs(dirname, exist_ok=True)
 
