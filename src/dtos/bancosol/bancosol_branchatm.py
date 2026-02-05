@@ -32,38 +32,41 @@ class BancoSolBranchATM(BaseModel):
     name: str
 
     phone: str
-    address_name: str = Field(validation_alias="addressName")
+    address_name: str = Field(validation_alias="addressName", exclude=True)
 
     latitude: float
     longitude: float
 
     opening_hours: OpeningHours = Field(validation_alias="openingHours", exclude=True)
 
-    @computed_field(alias="openingHoursCol")
-    def opening_hourscol(self) -> str:
+    @computed_field
+    def working_hours(self) -> str:
         return self.opening_hours.hour
 
     locality: BoliviaLocality = Field(exclude=True)
 
-    @computed_field(alias="localityCol")
-    def localitycol(self) -> str:
+    @computed_field
+    def city(self) -> str:
         locname = self.locality.name.translate(transvowels)
         return re.sub(r"\s+", "_", locname).upper()
 
-    department: BoliviaDepartment = Field(exclude=True)
+    bodepartament: BoliviaDepartment = Field(
+        exclude=True,
+        validation_alias="department",
+    )
 
-    @computed_field(alias="departmentCol")
-    def departmentcol(self) -> str:
-        depname = self.department.name.translate(transvowels)
+    @computed_field
+    def department(self) -> str:
+        depname = self.bodepartament.name.translate(transvowels)
         return re.sub(r"\s+", "_", depname).upper()
 
     office_type: OfficeType = Field(validation_alias="officeType", exclude=True)
 
-    @computed_field(alias="officeNameCol")
-    def office_namecol(self) -> str:
+    @computed_field
+    def type(self) -> str:
         return re.sub(r"\s+", "_", self.office_type.name).upper()
 
-    @computed_field(alias="officeTypeNameCol")
-    def office_typenamecol(self) -> str:
+    @computed_field
+    def subtype(self) -> str:
         typename = self.office_type.type_name.replace("-", " ")
         return re.sub(r"\s+", "_", typename.translate(transvowels)).upper()
