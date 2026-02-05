@@ -3,7 +3,7 @@ import pandas
 from typing import get_args
 from src.scripts import BankCode, generate_bankcsv
 
-filename = generate_bankcsv("bisa")
+filename = generate_bankcsv("baneco")
 data = pandas.read_csv(filename)
-print(data)
+print(data.head(20))
 # for bankcode in get_args(BankCode):
