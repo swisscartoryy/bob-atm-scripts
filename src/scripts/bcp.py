@@ -18,8 +18,8 @@ htmlfiles = [
 ]
 
 departmentidname: dict[str, str] = {
-    "fondoOficinaLaPaz": "la_paz",
     "fondoOficinaOruro": "oruro",
+    "fondoOficinaLaPaz": "la_paz",
     "fondoOficinaPotosi": "potosi",
     "fondoOficinaTarija": "tarija",
     "fondoOficinaTrinidad": "beni",
