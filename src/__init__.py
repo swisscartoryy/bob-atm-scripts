@@ -5,3 +5,6 @@ from .dtos import bmsc
 from .dtos import baneco
 from .dtos import bancosol
 from .dtos import bancounion
+
+from .scripts import bcpparser
+from .scripts import csvparser

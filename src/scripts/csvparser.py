@@ -76,47 +76,50 @@ def write_data_to_csvfile(filename: str, data: list):
         print(filename, "generated")
 
 
-for bankcode in bank_branchatm.keys():
-    branchatms: list = []
+def generate_bankcsvs():
+    for bankcode in bank_branchatm.keys():
+        branchatms: list = []
 
-    for filename in filenames:
-        filepath = f"assets/{bankcode}/{filename}"
+        for filename in filenames:
+            filepath = f"assets/{bankcode}/{filename}"
 
-        if not os.path.exists(filepath):
-            for department in departments:
-                filepath = f"assets/{bankcode}/{department.lower()}/{filename}"
+            if not os.path.exists(filepath):
+                for department in departments:
+                    filepath = f"assets/{bankcode}/{department.lower()}/{filename}"
 
-                if not os.path.exists(filepath):
-                    continue
+                    if not os.path.exists(filepath):
+                        continue
 
-                jdata = jdata_from_jsonfile(filename=filepath)
+                    jdata = jdata_from_jsonfile(filename=filepath)
 
-                if bankcode == "bancounion":
-                    puntos_atencion = BancoUnionPuntosAtencionRoot.model_validate(jdata)
-                    dep_branchatms = puntos_atencion.atm + puntos_atencion.agencia
-                else:
-                    dep_branchatms = [
-                        bank_branchatm[bankcode](**jitem) for jitem in jdata
-                    ]
+                    if bankcode == "bancounion":
+                        puntos_atencion = BancoUnionPuntosAtencionRoot.model_validate(
+                            jdata
+                        )
+                        dep_branchatms = puntos_atencion.atm + puntos_atencion.agencia
+                    else:
+                        dep_branchatms = [
+                            bank_branchatm[bankcode](**jitem) for jitem in jdata
+                        ]
 
-                branchatms.extend(dep_branchatms)
+                    branchatms.extend(dep_branchatms)
 
-            continue
+                continue
 
-        jdata = jdata_from_jsonfile(filename=filepath)
+            jdata = jdata_from_jsonfile(filename=filepath)
 
-        if bankcode == "bnb":
-            departamentos = [BnbDepartamentoRoot(**jitem) for jitem in jdata]
-            file_branchatms = [
-                BnbBranchATM.model_validate(branchatm)
-                for departamento in departamentos
-                for branchatm in departamento.detalles
-            ]
-        else:
-            file_branchatms = [bank_branchatm[bankcode](**jitem) for jitem in jdata]
+            if bankcode == "bnb":
+                departamentos = [BnbDepartamentoRoot(**jitem) for jitem in jdata]
+                file_branchatms = [
+                    BnbBranchATM.model_validate(branchatm)
+                    for departamento in departamentos
+                    for branchatm in departamento.detalles
+                ]
+            else:
+                file_branchatms = [bank_branchatm[bankcode](**jitem) for jitem in jdata]
 
-        branchatms.extend(file_branchatms)
+            branchatms.extend(file_branchatms)
 
-    if len(branchatms) > 0:
-        filename = f"assets/{bankcode}/branchatms.csv"
-        write_data_to_csvfile(filename=filename, data=branchatms)
+        if len(branchatms) > 0:
+            filename = f"assets/{bankcode}/branchatms.csv"
+            write_data_to_csvfile(filename=filename, data=branchatms)
