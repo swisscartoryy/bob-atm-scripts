@@ -19,23 +19,23 @@ class GanaBranchATM(BaseModel):
         validation_alias="TELEFONO"
     )
 
-    tipo: Annotated[TipoBranchATM, Doc("branch / ATM")] = Field(
+    tipopoi: Annotated[TipoBranchATM, Doc("branch / ATM")] = Field(
         exclude=True,
         validation_alias="TIPO",
     )
 
-    @computed_field(alias="tipoCol")
-    def tipocol(self) -> str:
-        return self.tipo.name
+    @computed_field
+    def tipo(self) -> str:
+        return self.tipopoi.name
 
-    subtipo: Annotated[SubTipoBranchATM, Doc("branch / ATM subtype")] = Field(
+    subtipopoi: Annotated[SubTipoBranchATM, Doc("branch / ATM subtype")] = Field(
         exclude=True,
         validation_alias="SUB_TIPO",
     )
 
-    @computed_field(alias="subtipoCol")
-    def suptipocol(self) -> str:
-        return self.subtipo.name
+    @computed_field
+    def subtipo(self) -> str:
+        return self.subtipopoi.name
 
     latitud: float = Field(validation_alias="LATITUD")
     longitud: float = Field(validation_alias="LONGITUD")
@@ -46,10 +46,6 @@ class GanaBranchATM(BaseModel):
         exclude=True,
         validation_alias="HORARIO",
     )
-
-    @computed_field(alias="horarioAtencionCol")
-    def horario_atencioncol(self) -> str:
-        return None if self.horario_atencion is None else self.horario_atencion.name
 
     @field_validator("*", mode="before")
     def strip_props(string):

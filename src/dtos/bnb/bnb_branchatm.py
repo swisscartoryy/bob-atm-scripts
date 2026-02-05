@@ -30,25 +30,23 @@ class BnbDepartamentoRoot(BaseModel):
 class BnbBranchATM(BaseModel):
     id: int = Field(validation_alias="Codigo")
 
-    tipo_entidad: Annotated[BnbTipoEntidadId, Doc("Branch / ATM")] = Field(
+    tipopoi: Annotated[BnbTipoEntidadId, Doc("Branch / ATM")] = Field(
         exclude=True,
         validation_alias="Tipo",
     )
 
     @computed_field
     def tipo(self) -> Annotated[str, Doc("Branch / ATM")]:
-        return BnbTipoEntidadId(self.tipo_entidad).name
+        return BnbTipoEntidadId(self.tipopoi).name
 
-    subtipo_entidad: Annotated[BnbSubtipoEntidadId, Doc("subtipo Branch / ATM")] = (
-        Field(
-            exclude=True,
-            validation_alias="SubTipo",
-        )
+    subtipopoi: Annotated[BnbSubtipoEntidadId, Doc("subtipo Branch / ATM")] = Field(
+        exclude=True,
+        validation_alias="SubTipo",
     )
 
     @computed_field
     def subtipo(self) -> Annotated[str, Doc("subtipo Branch / ATM")]:
-        return BnbSubtipoEntidadId(self.subtipo_entidad).name
+        return BnbSubtipoEntidadId(self.subtipopoi).name
 
     tipo_nombre: Optional[str] = Field(
         default=None,

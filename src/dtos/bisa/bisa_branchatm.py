@@ -43,27 +43,34 @@ class BisaBranchATM(BaseModel):
     address: Annotated[str, Doc("location address")]
     notes: Annotated[str, Doc("additional notes / comments")]
 
-    email: Annotated[str, Doc("contact email")]
+    email: Annotated[str, Doc("contact email")] = Field(exclude=True)
     telephone: Annotated[str, Doc("contact phonenumber")]
 
-    type: Annotated[PointOfInterest, Doc("type PoI")] = Field(exclude=True)
+    typepoi: Annotated[PointOfInterest, Doc("type PoI")] = Field(
+        exclude=True,
+        validation_alias="type",
+    )
+
     working_hours: Annotated[str, Doc("opening hours / availability")] = Field(
-        validation_alias="workingHours"
+        validation_alias="workingHours",
     )
 
     @computed_field(alias="typecol")
-    def typecol(self) -> Annotated[str, Doc("normalized PoI")]:
-        return inflection.underscore(self.type.value_name).upper()
+    def type(self) -> Annotated[str, Doc("normalized PoI")]:
+        return inflection.underscore(self.typepoi.value_name).upper()
 
-    city: Annotated[Optional[BoliviaCity], Doc("branch / ATM city")] = Field(
+    statecity: Annotated[Optional[BoliviaCity], Doc("branch / ATM city")] = Field(
         default=None,
         exclude=True,
+        validation_alias="city",
     )
 
-    @computed_field(alias="cityCol")
-    def citycol(self) -> Annotated[Optional[str], Doc("branch / ATM city")]:
+    @computed_field
+    def city(self) -> Annotated[Optional[str], Doc("branch / ATM city")]:
         return (
-            None if self.city is None else re.sub(r"\s+", "_", self.city.name.upper())
+            None
+            if self.statecity is None
+            else re.sub(r"\s+", "_", self.statecity.name.upper())
         )
 
     state: Annotated[Optional[BoliviaState], Doc("branch / ATM state")] = Field(
@@ -71,18 +78,18 @@ class BisaBranchATM(BaseModel):
         exclude=True,
     )
 
-    @computed_field(alias="stateCol")
-    def statecol(self) -> Annotated[Optional[str], Doc("branch / ATM state")]:
+    @computed_field
+    def department(self) -> Annotated[Optional[str], Doc("branch / ATM state")]:
         return (
             None if self.state is None else re.sub(r"\s+", "_", self.state.name.upper())
         )
 
-    is_deleted: bool = Field(validation_alias="isDeleted", exclude=True)
+    isdeleted: bool = Field(validation_alias="isDeleted", exclude=True)
     creation_date: datetime = Field(validation_alias="creationDate", exclude=True)
     modified_date: datetime = Field(validation_alias="modifiedDate", exclude=True)
 
     @field_validator("*", mode="before")
-    def normalize_string(string):
+    def strip_props(string):
         return (
             string
             if not isinstance(string, str)
