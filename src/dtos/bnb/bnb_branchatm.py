@@ -28,32 +28,31 @@ class BnbDepartamentoRoot(BaseModel):
 
 
 class BnbBranchATM(BaseModel):
-    model_config = {
-        "populate_by_name": True,
-    }
+    id: int = Field(validation_alias="Codigo")
 
-    codigo: int = Field(validation_alias="Codigo")
-
-    tipo: Annotated[int, Doc("Branch / ATM")] = Field(
+    tipo_entidad: Annotated[BnbTipoEntidadId, Doc("Branch / ATM")] = Field(
         exclude=True,
         validation_alias="Tipo",
     )
 
-    @computed_field(alias="tipoEntidad")
-    def tipo_entidad(self) -> Annotated[str, Doc("Branch / ATM")]:
-        return BnbTipoEntidadId(self.tipo).name
+    @computed_field
+    def tipo(self) -> Annotated[str, Doc("Branch / ATM")]:
+        return BnbTipoEntidadId(self.tipo_entidad).name
 
-    subtipo: Annotated[int, Doc("subtipo Branch / ATM")] = Field(
-        exclude=True,
-        validation_alias="SubTipo",
+    subtipo_entidad: Annotated[BnbSubtipoEntidadId, Doc("subtipo Branch / ATM")] = (
+        Field(
+            exclude=True,
+            validation_alias="SubTipo",
+        )
     )
 
-    @computed_field(alias="subtipoEntidad")
-    def subtipo_entidad(self) -> Annotated[str, Doc("subtipo Branch / ATM")]:
-        return BnbSubtipoEntidadId(self.subtipo).name
+    @computed_field
+    def subtipo(self) -> Annotated[str, Doc("subtipo Branch / ATM")]:
+        return BnbSubtipoEntidadId(self.subtipo_entidad).name
 
     tipo_nombre: Optional[str] = Field(
         default=None,
+        exclude=True,
         validation_alias="TipoNombre",
     )
 
@@ -66,22 +65,27 @@ class BnbBranchATM(BaseModel):
     direccion: str = Field(validation_alias="Direccion")
 
     fax: str = Field(validation_alias="Fax")
-    billetaje: str = Field(validation_alias="Billetaje")
-    promocion: str = Field(validation_alias="Promocion")
+    billetaje: str = Field(validation_alias="Billetaje", exclude=True)
+    promocion: str = Field(validation_alias="Promocion", exclude=True)
 
-    interno1: str = Field(validation_alias="Interno1")
-    interno2: str = Field(validation_alias="Interno2")
+    interno1: str = Field(validation_alias="Interno1", exclude=True)
+    interno2: str = Field(validation_alias="Interno2", exclude=True)
 
-    telefono1: str = Field(validation_alias="Telefono1")
-    telefono2: str = Field(validation_alias="Telefono2")
+    telefono1: str = Field(validation_alias="Telefono1", exclude=True)
+    telefono2: str = Field(validation_alias="Telefono2", exclude=True)
 
-    departamentoid: Optional[int] = Field(
+    @computed_field
+    def telefonos(self) -> str:
+        telefono2 = f", {self.telefono2}" if len(self.telefono2) > 0 else ""
+        return f"{self.telefono1}{telefono2}"
+
+    departamentoid: Optional[BnbDepartamentoId] = Field(
         default=None,
         exclude=True,
     )
 
-    @computed_field(alias="nombreDepartamento")
-    def nombre_departamento(self) -> Optional[str]:
+    @computed_field
+    def departamento(self) -> Optional[str]:
         return (
             None
             if self.departamentoid is None
