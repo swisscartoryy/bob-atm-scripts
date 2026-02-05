@@ -1,58 +1,58 @@
 [
     {
-        "Nombre": "Av. Las Americas",
-        "Dirección": "Av. de Las Américas No.201 (Agro Import) entre Colombia y México",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Av. Las Americas",
+        "direccion": "Av. de Las Américas No.201 (Agro Import) entre Colombia y México",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Facultad Odontológica USFX",
-        "Dirección": "Calle Pastor Sainz esquina Calle Colón, Facultad Odontológica\n                                                        Universidad San Francisco Xavier",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Facultad Odontológica USFX",
+        "direccion": "Calle Pastor Sainz esquina Calle Colón, Facultad Odontológica Universidad San Francisco Xavier",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Jaime Mendoza",
-        "Dirección": "Av. Jaime Mendoza N° 1362",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Jaime Mendoza",
+        "direccion": "Av. Jaime Mendoza N° 1362",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "JAIME MENDOZA 2",
-        "Dirección": "Av. Jaime Mendoza # 2594 y Calle Ladislao Cabrera",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "JAIME MENDOZA 2",
+        "direccion": "Av. Jaime Mendoza # 2594 y Calle Ladislao Cabrera",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Raul Otero Sucre",
-        "Dirección": "Raul Otero 138 zona Mercado Campesino",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Raul Otero Sucre",
+        "direccion": "Raul Otero 138 zona Mercado Campesino",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Of. Central SCR 1",
-        "Dirección": "Calle Nicolas Ortiz Nro 34",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Of. Central SCR 1",
+        "direccion": "Calle Nicolas Ortiz Nro 34",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Of. Central SCR 2",
-        "Dirección": "Calle Nicolas Ortiz Nro 34",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Of. Central SCR 2",
+        "direccion": "Calle Nicolas Ortiz Nro 34",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "San Francisco",
-        "Dirección": "Calle Aniceto Arce",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "San Francisco",
+        "direccion": "Calle Aniceto Arce",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     }
 ]

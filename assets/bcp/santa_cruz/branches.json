@@ -1,0 +1,135 @@
+[
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Oficina Externa Autolider",
+        "direccion": "Avenida Cristóbal de Mendoza esquina avenida La Salle (Canal Isuto), segundo anillo.",
+        "horarioLun.-Vie.": "08:30 a 12:30 14:00 a 18:00",
+        "horarioSabado": "08:30 a 12:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Sucursal de Santa Cruz",
+        "direccion": "Plantas 2 a 9 del Edificio Green Tower - Torre Corporativa",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Norte",
+        "direccion": "Avenida Banzer esquina 3° Anillo Externo",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Santos Dumont",
+        "direccion": "Av. Santos Dumont Barrio la Morita, Uv. 48, Mzna. 29, Lote Nro. 4",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Doble Vía la Guardia",
+        "direccion": "Av. Doble Vía La Guardia (Grigotá) esq. Av. Ibérica entre 3° y 4° anillo",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Mutualista",
+        "direccion": "Tercer Anillo Interno, avenida Pedro Rivera Méndez s/n zona Mercado Mutualista",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Cine Center",
+        "direccion": "Av. el Trompillo entre calle Rene Moreno y Monseñor Santiesteban, edificio Cine Center PB",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia San Martin (Café BCP)",
+        "direccion": "Planta 1 del Edificio Green Tower - Torre Corporativa",
+        "horarioLun.-Vie.": "07:30 a 21:30",
+        "horarioSabado": "07:30 a 21:30"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Parque Industrial",
+        "direccion": "Parque Industrial, Mza P.I. - 23, zona Noroeste, avenida Transversal",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Chiriguano",
+        "direccion": "Barrió Santa Rosita calle pitajaya esquina Roque Aguilera UV. 30 manzana 61",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia El Cristo",
+        "direccion": "Avenida Monseñor Rivero N 648 Esquina Pasaje 24 De Septiembre",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Virgen de Cotoca",
+        "direccion": "4to anillo Av. Virgen de Cotoca s/n Urbanización Guaracachi Zona Este UV.43 Mza.21",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Mega Hipernorte(Super Center)",
+        "direccion": "Av. Cristo Redentor entre 6to y 7mo anillo - Supermercado Hipermaxi Supercenter",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Warnes",
+        "direccion": "Av. Principal 25 de Mayo esq. Calle Recaredo Roda Circunvalación localidad de Warnes",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia 24 de Septiembre",
+        "direccion": "Calle 24 de Septiembre N° 158, zona Central",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia Viedma",
+        "direccion": "Av. Viedma esq. Calle Moldes Mza. 232 zona 1er anillo",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Oficina Externa Hipermaxi Norte",
+        "direccion": "Avenida Cristo Redentor N° 900 Y Tercer Anillo Interno, Local N° 10",
+        "horarioLun.-Vie.": "10:00 a 18:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Agencia La Ramada",
+        "direccion": "Avenida Isabel La Catolica N 725 Zona Mercado La Ramada",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    },
+    {
+        "ciudad": "Santa Cruz",
+        "oficina": "Oficina Externa Clínica INCOR",
+        "direccion": "Avenida 26 de febrero esquina calle Caranda #510",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
+    }
+]

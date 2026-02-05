@@ -1,19 +1,16 @@
 import re
 
-from typing import Literal
 from pydantic import BaseModel, field_validator, Field, computed_field
 
 from .enums import (
+    Moneda,
+    TipoDireccion,
     BanecoTipoEntidad,
     BanecoTipoMiSocio,
     BanecoDepartamentoId,
     BanecoEstadoServicio,
     BanecoTipoBancaPersona,
 )
-
-
-Moneda = Literal["Bs.", "Bs. $us.", "0"]
-TipoDireccion = Literal["Calle", "Av.", ""]
 
 
 class BanecoBranchATM(BaseModel):
@@ -23,7 +20,7 @@ class BanecoBranchATM(BaseModel):
     nombre: str
 
     @computed_field(alias="tipoEntidad")
-    def tipo_entidad(self) -> str:
+    def tipocol(self) -> str:
         return BanecoTipoEntidad(self.tipo).name
 
     departamento: str = Field(validation_alias="dpto", exclude=True)
@@ -32,8 +29,8 @@ class BanecoBranchATM(BaseModel):
         validation_alias="coddpto",
     )
 
-    @computed_field(alias="nombreDepartamento")
-    def nombre_departamento(self) -> str:
+    @computed_field(alias="departamentoCol")
+    def departamentocol(self) -> str:
         return BanecoDepartamentoId(self.cod_departamento).name
 
     zona: str
@@ -49,26 +46,26 @@ class BanecoBranchATM(BaseModel):
 
     misocio: BanecoTipoMiSocio = Field(exclude=True)
 
-    @computed_field(alias="tipoMiSocio")
-    def tipo_misocio(self) -> str:
+    @computed_field(alias="tieneMiSocio")
+    def tiene_misocio(self) -> str:
         return BanecoTipoMiSocio(self.misocio).name
 
     bancapersona: BanecoTipoBancaPersona = Field(exclude=True)
 
-    @computed_field(alias="tipoBancaPersona")
-    def tipo_bancapersona(self) -> str:
+    @computed_field(alias="tieneBancaPersona")
+    def tiene_bancapersona(self) -> str:
         return BanecoTipoBancaPersona(self.bancapersona).name
 
     depositoefectivo: BanecoEstadoServicio = Field(exclude=True)
 
-    @computed_field(alias="depositoEfectivo")
+    @computed_field(alias="tieneDepositoEfectivo")
     def tiene_depositoefectivo(self) -> str:
         return BanecoEstadoServicio(self.depositoefectivo).name
 
     personasdiscapacidad: BanecoEstadoServicio = Field(exclude=True)
 
-    @computed_field(alias="personasDiscapacidad")
-    def atencion_personasdiscapacidad(self) -> str:
+    @computed_field(alias="atiendePersonasDiscapacidad")
+    def atiende_personasdiscapacidad(self) -> str:
         return BanecoEstadoServicio(self.personasdiscapacidad).name
 
     @field_validator("*", mode="before")

@@ -51,9 +51,8 @@ class BisaBranchATM(BaseModel):
         validation_alias="workingHours"
     )
 
-    @computed_field(alias="poiType")
-    @property
-    def poitype(self) -> Annotated[str, Doc("normalized PoI")]:
+    @computed_field(alias="typecol")
+    def typecol(self) -> Annotated[str, Doc("normalized PoI")]:
         return inflection.underscore(self.type.value_name).upper()
 
     city: Annotated[Optional[BoliviaCity], Doc("branch / ATM city")] = Field(
@@ -61,9 +60,8 @@ class BisaBranchATM(BaseModel):
         exclude=True,
     )
 
-    @computed_field(alias="cityName")
-    @property
-    def city_name(self) -> Annotated[Optional[str], Doc("branch / ATM city")]:
+    @computed_field(alias="cityCol")
+    def citycol(self) -> Annotated[Optional[str], Doc("branch / ATM city")]:
         return (
             None if self.city is None else re.sub(r"\s+", "_", self.city.name.upper())
         )
@@ -73,9 +71,8 @@ class BisaBranchATM(BaseModel):
         exclude=True,
     )
 
-    @computed_field(alias="stateName")
-    @property
-    def state_name(self) -> Annotated[Optional[str], Doc("branch / ATM state")]:
+    @computed_field(alias="stateCol")
+    def statecol(self) -> Annotated[Optional[str], Doc("branch / ATM state")]:
         return (
             None if self.state is None else re.sub(r"\s+", "_", self.state.name.upper())
         )

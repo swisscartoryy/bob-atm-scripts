@@ -1,9 +1,9 @@
 [
     {
-        "Ciudad": "Oruro",
-        "Oficina": "Sucursal Oruro",
-        "Dirección": "Calle Presidente Montes esquina Bolivar, Plaza 10 de\n                                                                Febrero",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Oruro",
+        "oficina": "Sucursal Oruro",
+        "direccion": "Calle Presidente Montes esquina Bolivar, Plaza 10 de Febrero",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     }
 ]

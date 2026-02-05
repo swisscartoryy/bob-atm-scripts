@@ -8,7 +8,7 @@ from pydantic import BaseModel, Field, computed_field, model_validator, field_va
 from .enums import BnbTipoEntidadId, BnbSubtipoEntidadId, BnbDepartamentoId
 
 
-class BnbDepartamento(BaseModel):
+class BnbDepartamentoRoot(BaseModel):
     id: BnbDepartamentoId = Field(validation_alias="ID")
 
     departamento: Annotated[str, Doc("nombre departamento")] = Field(
@@ -20,7 +20,7 @@ class BnbDepartamento(BaseModel):
     )
 
     @model_validator(mode="after")
-    def asignar_departamento(self) -> BnbDepartamento:
+    def asignar_departamento(self) -> BnbDepartamentoRoot:
         for branchatm in self.detalles:
             branchatm.departamentoid = self.id
 
@@ -40,7 +40,6 @@ class BnbBranchATM(BaseModel):
     )
 
     @computed_field(alias="tipoEntidad")
-    @property
     def tipo_entidad(self) -> Annotated[str, Doc("Branch / ATM")]:
         return BnbTipoEntidadId(self.tipo).name
 
@@ -50,7 +49,6 @@ class BnbBranchATM(BaseModel):
     )
 
     @computed_field(alias="subtipoEntidad")
-    @property
     def subtipo_entidad(self) -> Annotated[str, Doc("subtipo Branch / ATM")]:
         return BnbSubtipoEntidadId(self.subtipo).name
 
@@ -83,7 +81,6 @@ class BnbBranchATM(BaseModel):
     )
 
     @computed_field(alias="nombreDepartamento")
-    @property
     def nombre_departamento(self) -> Optional[str]:
         return (
             None

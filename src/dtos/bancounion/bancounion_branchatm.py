@@ -6,12 +6,12 @@ from pydantic import BaseModel, Field, model_validator, computed_field
 from .const import TipoCajero, TipoPuntoAtencion
 
 
-class BancoUnionPuntosAtencion(BaseModel):
+class BancoUnionPuntosAtencionRoot(BaseModel):
     atm: list[BancoUnionBranchATM] = Field(validation_alias="Atm")
     agencia: list[BancoUnionBranchATM] = Field(validation_alias="Agencia")
 
     @model_validator(mode="after")
-    def asignar_punto_atencion(self) -> BancoUnionPuntosAtencion:
+    def asignar_punto_atencion(self) -> BancoUnionPuntosAtencionRoot:
         for atm in self.atm:
             atm.punto_atencion = "Atm"
 

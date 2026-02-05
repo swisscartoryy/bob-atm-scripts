@@ -39,31 +39,31 @@ class BancoSolBranchATM(BaseModel):
 
     opening_hours: OpeningHours = Field(validation_alias="openingHours", exclude=True)
 
-    @computed_field(alias="fopeningHours")
-    def fopening_hours(self) -> str:
+    @computed_field(alias="openingHoursCol")
+    def opening_hourscol(self) -> str:
         return self.opening_hours.hour
 
     locality: BoliviaLocality = Field(exclude=True)
 
-    @computed_field
-    def flocality(self) -> str:
+    @computed_field(alias="localityCol")
+    def localitycol(self) -> str:
         locname = self.locality.name.translate(transvowels)
         return re.sub(r"\s+", "_", locname).upper()
 
     department: BoliviaDepartment = Field(exclude=True)
 
-    @computed_field
-    def fdepartment(self) -> str:
+    @computed_field(alias="departmentCol")
+    def departmentcol(self) -> str:
         depname = self.department.name.translate(transvowels)
         return re.sub(r"\s+", "_", depname).upper()
 
     office_type: OfficeType = Field(validation_alias="officeType", exclude=True)
 
-    @computed_field(alias="fofficeName")
-    def foffice_name(self) -> str:
+    @computed_field(alias="officeNameCol")
+    def office_namecol(self) -> str:
         return re.sub(r"\s+", "_", self.office_type.name).upper()
 
-    @computed_field(alias="fofficeTypeName")
-    def foffice_typename(self) -> str:
+    @computed_field(alias="officeTypeNameCol")
+    def office_typenamecol(self) -> str:
         typename = self.office_type.type_name.replace("-", " ")
         return re.sub(r"\s+", "_", typename.translate(transvowels)).upper()

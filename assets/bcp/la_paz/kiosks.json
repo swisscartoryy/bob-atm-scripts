@@ -1,0 +1,98 @@
+[
+    {
+        "plataformaDigital": "Of. Central Lpz 1",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle Colón esq. Mercado No. 1308"
+    },
+    {
+        "plataformaDigital": "Of. Central Lpz 2",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle Colón esq. Mercado No. 1308"
+    },
+    {
+        "plataformaDigital": "Of. Central Lpz 3",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle Colón esq. Mercado No. 1308"
+    },
+    {
+        "plataformaDigital": "Of. Central Lpz 4",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle Colón esq. Mercado No. 1308"
+    },
+    {
+        "plataformaDigital": "Ag. Ciudad Satelite",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Satélite Plan 561 Calle 15B No. 573 - Ciudad Satélite"
+    },
+    {
+        "plataformaDigital": "Ag. Arce",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Arce esq. Campos"
+    },
+    {
+        "plataformaDigital": "Ag. El Alto",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. 6 de Marzo No.334 esq. Evadidos del Paraguay (Villa Bolívar \"A\")"
+    },
+    {
+        "plataformaDigital": "Ag. San Miguel",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle 21 esq. Av. Montenegro - San Miguel"
+    },
+    {
+        "plataformaDigital": "Ag. Achumani",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle 16 frente Mercado Achumani"
+    },
+    {
+        "plataformaDigital": "Ag. Sopocachi",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. 20 de Octubre Edif. Mechita"
+    },
+    {
+        "plataformaDigital": "Ag. Calacoto",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Ballivian entre Calles 17 y 18 - Calacoto"
+    },
+    {
+        "plataformaDigital": "Ag. Rene Moreno (WorkCafé)",
+        "horarioDeAtencion": "Lun a Sáb 08:00-21:00Dom de 08:00-16:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Bloque E N21 calle Rene Moreno #1255 - Zona Sur"
+    },
+    {
+        "plataformaDigital": "Ag. Obrajes",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Hernando Siles - calle 10"
+    },
+    {
+        "plataformaDigital": "Ag. Miraflores",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Saavedra No.1845"
+    },
+    {
+        "plataformaDigital": "Ag. Tumusla",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Tumusla No. 611 B casi Pasaje Ortega"
+    },
+    {
+        "plataformaDigital": "Ag. Villa Adela",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Bolivia esquina camino a Viacha No.1415 - Cruce Villa Adela - Lote No.15, Manzano O"
+    }
+]

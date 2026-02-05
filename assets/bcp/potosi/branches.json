@@ -1,9 +1,9 @@
 [
     {
-        "Ciudad": "Potosí",
-        "Oficina": "Sucursal Potosí",
-        "Dirección": "Sucre esquina Bolívar N 855",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Potosí",
+        "oficina": "Sucursal Potosí",
+        "direccion": "Sucre esquina Bolívar N 855",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     }
 ]

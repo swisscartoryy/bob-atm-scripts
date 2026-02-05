@@ -1,9 +1,9 @@
 [
     {
-        "Ciudad": "Sucre",
-        "Oficina": "Sucursal Sucre",
-        "Dirección": "Calle Nicolas Ortiz N°34",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Sucre",
+        "oficina": "Sucursal Sucre",
+        "direccion": "Calle Nicolas Ortiz N°34",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     }
 ]

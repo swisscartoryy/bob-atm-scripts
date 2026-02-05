@@ -1,4 +1,4 @@
-from .bnb_branchatm import BnbBranchATM, BnbDepartamento
+from .bnb_branchatm import BnbBranchATM, BnbDepartamentoRoot
 
 from .enums import (
     BnbTipoEntidadId,
