@@ -1,0 +1,838 @@
+[
+    {
+        "nombre": "16 de Julio 1",
+        "direccion": "Av. Chacaltaya esq. Av. Juan Pablo II No.108 - Edif. Universidad Tecnológica",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "16 de Julio 2",
+        "direccion": "Av. Chacaltaya esq. Av. Juan Pablo II No.108 - Edif. Universidad Tecnológica",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "6 de Agosto LPZ",
+        "direccion": "Av. 6 de Agosto No.2048",
+        "horarioDeAtencion": "LD- 07:00 a 22:00",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "6 de Marzo",
+        "direccion": "Av. 6 de Marzo No.112 entre Calles 2 y 3 - Lado Ag. Banco Nacional",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ac. de Ciencias 1",
+        "direccion": "Av. 16 de Julio No.1732 - El Prado",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ac. de Ciencias 2",
+        "direccion": "Av. 16 de Julio No.1732 - El Prado",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Achumani C.10",
+        "direccion": "Av. García Lanza No.100 esq. Calle 10 - Achumani",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Aeropuerto LPZ",
+        "direccion": "Aeropuerto Internacional El Alto",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag Villa Adela 2",
+        "direccion": "Av. Bolivia esquina camino a Viacha No.1415 - Cruce Villa Adela - Lote No.15, Manzano O",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Achumani 1",
+        "direccion": "Calle 16 frente Mercado Achumani",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Achumani 2",
+        "direccion": "Calle 16 frente Mercado Achumani",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Arce 2",
+        "direccion": "Av. Arce esq. Campos",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. C. Satélite",
+        "direccion": "Av. Satélite Plan 561 Calle 15B No. 573 - Ciudad Satélite",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. El Alto 1",
+        "direccion": "Av. 6 de Marzo esq. Evadidos del Paraguay",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. El Alto 2",
+        "direccion": "Av. 6 de Marzo esq. Calle 3",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. El Alto 3",
+        "direccion": "Av. 6 de Marzo No.334 esq. Evadidos del Paraguay (Villa Bolívar \"A\")",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. El Alto 4",
+        "direccion": "Av. 6 de Marzo No.334 esq. Evadidos del Paraguay (Villa Bolívar \"A\")",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Miraflores 1",
+        "direccion": "Av. Saavedra No.1845",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Miraflores 2",
+        "direccion": "Av. Saavedra No.1845",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Obrajes 1",
+        "direccion": "Av. Hernando Siles s/n esq. Calle 10 - Obrajes",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Obrajes 2",
+        "direccion": "Av. Hernando Siles s/n esq. Calle 10 - Obrajes",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. René Moreno 1",
+        "direccion": "Bloque E N21 calle Rene Moreno #1255 - Zona Sur",
+        "horarioDeAtencion": "LV-08:00 a 21:00 y S-09:00 a 21:00",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. René Moreno 2",
+        "direccion": "Bloque E N21 calle Rene Moreno #1255 - Zona Sur",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. San Miguel 1",
+        "direccion": "Calle 21 esq. Av. Montenegro - San Miguel",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. San Miguel 2",
+        "direccion": "Calle 21 esq. Av. Montenegro - San Miguel",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. San Miguel 3",
+        "direccion": "Calle 21 esq. Av. Montenegro - San Miguel",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. San Miguel 4",
+        "direccion": "Calle 21 esq. Av. Montenegro - San Miguel",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Sopocachi 1",
+        "direccion": "Av. 20 de Octubre Edif. Mechita",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Sopocachi 2",
+        "direccion": "Av. 20 de Octubre Edif. Mechita",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Tumusla 1",
+        "direccion": "Av. Tumusla No.753. Entre Av. Buenos Aires y Garita de Lima.",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Tumusla 2",
+        "direccion": "Av. Tumusla No.753. Entre Av. Buenos Aires y Garita de Lima",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Villa Adela",
+        "direccion": "Av. Bolivia esquina camino a Viacha No.1415 - Cruce Villa Adela - Lote No.15, Manzano O",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag.Arce 1",
+        "direccion": "Av. Arce esq. Campos",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "ANDYS",
+        "direccion": "Av. Montenegro 861, La Paz",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Alfonso Ugarte",
+        "direccion": "Av. Afonso Ugarte esq. Sargento Carrasco",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Alto Obrajes",
+        "direccion": "Av. del Maestro N°879 Mz. Q entre calles H. Guillen y Humberto Viscarra - Alto Obrajes",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Aranjuez",
+        "direccion": "Av. Integración N°15 zona de Aranjuez (camino a Mallasa), frente a la Clinica Talentum",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "ATM Calacoto 2",
+        "direccion": "Edificio Green Tower, subsuelo 1, avenidas Gral. Clemente Inofuentes y Gral. Ballivian N°1075 y N°1087, entre calles 17 y 18, zona de Calacoto",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Av. Saavedra",
+        "direccion": "Av. Saavedra No.1680 entre Plaza Uyuni y Plaza del Stadium",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Belisario Salinas",
+        "direccion": "Av. 6 de agosto esquina calle Belisario Salinas, edificio Carlos David N°2399, Zona Sopocachi",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Burger King LPZ",
+        "direccion": "Av. Hernando Siles # 4804 esq. Calle 2, zona Obrajes",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Calacoto C.15",
+        "direccion": "Calacoto Calle 15 esq. Av. Sanchez Bustamante # 8017",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Calatayud",
+        "direccion": "Av. Baptista esq. Calle Calatayud No. 950 - Zona Callampa",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Calatayud 2",
+        "direccion": "Calle Calatayud esquina calle Angélica Azcui - Zona Callampa",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Casa Nostra",
+        "direccion": "Av. Ballivián casi esq. Calle 15 (Pizzería Casa Nostra) - Calacoto",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ciudad Satelite",
+        "direccion": "Plan 405, Av. Ballivian Otero #1351 - Ciudad Satelite",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Comercio",
+        "direccion": "Calle Comercio # 1031, zona Central",
+        "horarioDeAtencion": "LD-07:00-23:00",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Cota Cota",
+        "direccion": "Av. Juan Muñoz Reyes No.1300 casi esq. Calle 24, frente a las oficinas de CONCRETEC y al lado de las oficinas de FEMCO",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Crillon Tours",
+        "direccion": "Av. Camacho No.1223, Edif. Krsul PB.",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Cruce Villa Adela",
+        "direccion": "Av. Ladislao Cabrera # 1085, Zona Franca - Cruce Villa Adela",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Delizia",
+        "direccion": "Av. Abrojo N° 5100 entre calles Guilarte Mole y Sur Cinti - Carretera a Viacha Km 7",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ecuador",
+        "direccion": "Calle Mendes Arcos No.710 - Plaza España",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Edif Santa Fe.",
+        "direccion": "Calle 21 Calacoto, Edificio Santa Fe, nro 8846, en el frontis de la Libreria Gisberth",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Edif. Loza",
+        "direccion": "Av. América esq. Av. Pando, Edif. Loza No.289",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Edif. Saiduni",
+        "direccion": "Av. América esq. Pando Edif. Saiduni",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "El Ceibo",
+        "direccion": "Av. Juan Pablo II #2560",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "El Prado",
+        "direccion": "Av. 16 de Julio No.1473 - El Prado",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "El Prado LPZ 2",
+        "direccion": "Av. 16 de Julio esquina Calle Colombia, altura Plaza Venezuela. Nro 6",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "El Prado LPZ 3",
+        "direccion": "Av. 16 de Julio esquina Calle Colombia, altura Plaza Venezuela. Nro 6",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Farmacias Bolivia",
+        "direccion": "Av. Mariscal Santa Cruz, Farmacias Bolivia frente a Correos",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Franco Valle",
+        "direccion": "Av. Franco Valle entre Calle 1 y Calle 2 - El Alto",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Franco Valle 2",
+        "direccion": "Av. Franco Valle entre calles 8 y 9 Zona 12 de Octubre",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Gran Poder",
+        "direccion": "Calle Eloy Salmón No.929",
+        "horarioDeAtencion": "LV-10:00 a 20:00 y S-09:00 a 20:00",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Achumani",
+        "direccion": "Av. Strongest, Calle 31 N°100",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Los Pinos",
+        "direccion": "Av. José Aguirre Achá S/N - Hipermaxi Los Pinos (a media cuadra del Círculo Aeronáutico)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hospital Cossmil",
+        "direccion": "Av. Saavedra No.2204 frente a la Iglesia Remedios - Zona Miraflores",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hospital Obrero",
+        "direccion": "Av. Argentina No.1810 esq. José Gutiérrez y Rep. Dominicana - Miraflores",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hospital Obrero 2",
+        "direccion": "Av. Argentina No.1810 esq. José Gutiérrez y Rep. Dominicana - Miraflores",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hotel Presidente",
+        "direccion": "Calle Potosí esq. Jenaro Sanjines N°920 Edif. Hotel Presidente \"",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Identificaciones",
+        "direccion": "Av. Sucre esq. Bolivar N° 194 - Frente a Identificaciones",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Illampu",
+        "direccion": "Calle Illampu No.859 Edif. Limpieza Finesse",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Isabelita",
+        "direccion": "Edif. Isabelita - Plaza Isabel La Católica",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "La Florida",
+        "direccion": "Av. Arequipa casi esq. Costanerita No.8406 - La Florida",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Landaeta",
+        "direccion": "Calle Landaeta No.1747 - Plaza El Cóndor",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Manco Kapac",
+        "direccion": "Av. Manco Kapac, casi esquina Isaac Tamayo N°414",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Max Paredes",
+        "direccion": "Calle Max Paredes esq. Buenos Aires S/N - Sub Alcaldía Rosario",
+        "horarioDeAtencion": "LD- 07:00 a 22:00",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Megacenter Plz.",
+        "direccion": "Av. Rafael Pabón S/N (Mega Center) - Irpavi",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mercado Camacho",
+        "direccion": "Av. Camacho N°1545, frente al Mercado Camacho",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mercado Haití",
+        "direccion": "Calle Haití No.1248 entre Trinidad y Tobago y EE.UU. - Frente Mercado Haití",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mercado Irpavi",
+        "direccion": "Calle Altamirano esq. Calle 6 #6593 - Zona Irpavi",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mercado Rodriguez",
+        "direccion": "Calle Zoilo Flores esq. Riobamba No.1209",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mercado Yungas",
+        "direccion": "Calle Yungas esq. Francisco Monroy No.932 (diagonal al Mercado Yungas)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mirador Satelite",
+        "direccion": "Calle 1-B Nemesio Nuñez del Prado, Plan 561, Manzana K",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Monopol LPZ",
+        "direccion": "Calle Covendo N° 1 - Zona Villa Fátima",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Monumento Busch",
+        "direccion": "Av. Brasil esq. San Salvador - Monumento Busch",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Multicine",
+        "direccion": "Av. Arce No.2631 (Multicine) - Sopocachi",
+        "horarioDeAtencion": "LD- 10:00 a 22:00",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Obrajes C. 16",
+        "direccion": "Av. Hernando Siles casi esq. Calle 16 (Licorería Oasis) - Obrajes",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Of. Central LPZ 1",
+        "direccion": "Calle Colón esq. Mercado",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Of. Central LPZ 2",
+        "direccion": "Calle Colón esq. Mercado",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Of. Central LPZ 3",
+        "direccion": "Calle Colón esq. Mercado",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Of. Central LPZ 4",
+        "direccion": "Calle Colón esq. Mercado",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Of. Central LPZ 5",
+        "direccion": "Calle Colon esq. Mercado N°1308",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Of. Central LPZ 6",
+        "direccion": "Calle Colon esq. Mercado N°1308",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Perez Velasco 1",
+        "direccion": "Av. Montes y Pérez Velasco Final Comercio No.791",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Perez Velasco 2",
+        "direccion": "Av. Montes y Pérez Velasco Final Comercio No.791",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "PIL LPZ",
+        "direccion": "Av. Juan Pablo II, Km. 15, Zona Rio Seco - Comunidad Yunguyo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Plaza Abaroa",
+        "direccion": "Edif. Torre Zafiro, Local #2, calle Belisario Salinas esq. 20 de Octubre, zona San Jorge",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Plaza Triangular",
+        "direccion": "Av. Busch esquina Calle Nicaragua N°1409 - Frente a la Gasolinera",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Plaza Villarroel",
+        "direccion": "Calle Monje # 100 (Plaza Villarroel), Miraflores",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Rio Seco",
+        "direccion": "Ex Tranca Rio Seco (Av. Juan Pablo II, esq. Luis Espinal)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Sagarnaga",
+        "direccion": "Calle Sagárnaga No.383 entre Illampu y Linares",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "San Antonio",
+        "direccion": "Av. Pasoskanki No.1762 - Cruce Villa San Antonio",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Senkata",
+        "direccion": "Av. Aconcagua # 8414, Carretera a Oruro, Senkata",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "SUPER DE LICOR",
+        "direccion": "Av. Ballivián esq. Calle 9 de Calacoto",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Tembladerani",
+        "direccion": "Jaimes Freyre N°2098 esq. Jaime Zudañez - Tembladerani",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Terminal de Buses",
+        "direccion": "Plaza Antofagasta - Terminal de Buses La Paz",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "TERMINAL METROPOLITANA EL ALTO",
+        "direccion": "Av Ladislao Cabrera S/N – Entre Av. Panamericana y Calle 17 de febrero, en las Instalaciones de la Terminal Metropolitana de la ciudad de El Alto del departamento de La Paz",
+        "horarioDeAtencion": "LD- 04:00 a 23:59",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Torres del Poeta",
+        "direccion": "Av. Arce # 2519, Torres del Poeta - San Jorge",
+        "horarioDeAtencion": "LD- 10:00 a 22:00",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Tumusla",
+        "direccion": "Av. Tumusla # 748, zona 14 de Septiembre entre Calle Incachaca y Av. Buenos Aires",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "UPEA",
+        "direccion": "Av. Juan Pablo II # 64 frente a la UPEA - Zona Villa Esperanza",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Uyustus",
+        "direccion": "Av. Buenos Aires esq. Uyustus",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Villa Adela",
+        "direccion": "Av. Junín, Plaza del Policía esq. Calle Roboré No.1 - Villa Adela",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Villa Bolivar",
+        "direccion": "Calle Panamericana esq. Shangai, Zona Villa Bolivar - El Alto",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Villa Copacabana",
+        "direccion": "Av. Esteban Arce # 1747 – Zona Villa Copacabana",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Villa Dolores",
+        "direccion": "Plaza Juana Azurduy de Padilla esq. Calle 5 No.1026 (E.S. Central Yupanqui) - Villa Dolores",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Villa Fatima",
+        "direccion": "Av Las Americas y Calle Felipe Lopez, Ex Surtidor Villa Fátima La Paz",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "VILLA FATIMA 2",
+        "direccion": "Calle Felipe Lopez casi esq. Av. de las Américas, Zona Villa Fátima",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Yacuma",
+        "direccion": "Calle Colombia esq. Ex Yacuma - Plaza San Pedro",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Calacoto*",
+        "direccion": "Edificio Green Tower, subsuelo 1, avenidas Gral. Clemente Inofuentes y Gral. Ballivian N°1075 y N°1087, entre calles 17 y 18, zona de Calacoto",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "(*) Cajero Automático habilitado para Personas con Discapacidad"
+    }
+]

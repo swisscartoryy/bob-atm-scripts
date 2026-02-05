@@ -1,72 +1,72 @@
 [
     {
-        "Nombre": "Av. del Ejercito",
-        "Dirección": "Av. Del Ejército No.476 entre Calles Tarapacá y Tejerina",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Av. del Ejercito",
+        "direccion": "Av. Del Ejército No.476 entre Calles Tarapacá y Tejerina",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Bolívar",
-        "Dirección": "Calle Bolivar # 586, entre 6 de Octubre y Soria Galvarro",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Bolívar",
+        "direccion": "Calle Bolivar # 586, entre 6 de Octubre y Soria Galvarro",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "CNS Oruro",
-        "Dirección": "Av. La Paz entre Ave. Lira y Sgto Flores (Al frente de la Caja\n                                                        Nacional de Salud)",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "CNS Oruro",
+        "direccion": "Av. La Paz entre Ave. Lira y Sgto Flores (Al frente de la Caja Nacional de Salud)",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "La Plata",
-        "Dirección": "Calle la Plata entre Junin y Adolfo Mier nro 1428.",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "La Plata",
+        "direccion": "Calle la Plata entre Junin y Adolfo Mier nro 1428.",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Nueva Terminal Oruro",
-        "Dirección": "Calle Fraccionamiento El Cedro, Mzno B. S/N Zona Nor Este, Acera\n                                                        Sud Nueva Terminal de Buses",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Nueva Terminal Oruro",
+        "direccion": "Calle Fraccionamiento El Cedro, Mzno B. S/N Zona Nor Este, Acera Sud Nueva Terminal de Buses",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Of. Central ORU 1",
-        "Dirección": "Calle Bolivar esq. Presidente Montes (Plaza Principal)",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Of. Central ORU 1",
+        "direccion": "Calle Bolivar esq. Presidente Montes (Plaza Principal)",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Of.Central ORU 2",
-        "Dirección": "Calle Bolivar esq. Presidente Montes (Plaza Principal)",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Of.Central ORU 2",
+        "direccion": "Calle Bolivar esq. Presidente Montes (Plaza Principal)",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Pagador",
-        "Dirección": "Calle Pagador No.5611 entre Calle Cochabamba y Calle Caro",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Pagador",
+        "direccion": "Calle Pagador No.5611 entre Calle Cochabamba y Calle Caro",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Parque de la Union",
-        "Dirección": "Av. 6 de Octubre entre calles Aroma y Rodriguez",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Parque de la Union",
+        "direccion": "Av. 6 de Octubre entre calles Aroma y Rodriguez",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Terminal de Oruro",
-        "Dirección": "Calle Aroma B entre Backovic y Brasil - Puerta Sur Terminal de\n                                                        Buses",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Terminal de Oruro",
+        "direccion": "Calle Aroma B entre Backovic y Brasil - Puerta Sur Terminal de Buses",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     }
 ]

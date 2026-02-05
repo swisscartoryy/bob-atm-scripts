@@ -1,8 +1,8 @@
 [
     {
-        "Plataforma Digital": "Of. Central Oruro",
-        "Horario de atención": "Lun a Dom 24 horas",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Calle Bolívar esq. Presidente Montes (Plaza Principal)"
+        "plataformaDigital": "Of. Central Oruro",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle Bolívar esq. Presidente Montes (Plaza Principal)"
     }
 ]

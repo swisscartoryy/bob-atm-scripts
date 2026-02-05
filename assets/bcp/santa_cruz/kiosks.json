@@ -1,0 +1,110 @@
+[
+    {
+        "plataformaDigital": "Ag. Norte",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "3er. Anillo interno y Av. Banzer"
+    },
+    {
+        "plataformaDigital": "Of. Central Scz 1",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle 24 de Septiembre No. 158"
+    },
+    {
+        "plataformaDigital": "Of. Central Scz 2",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle 24 de Septiembre No. 158"
+    },
+    {
+        "plataformaDigital": "Ag. Hiper Norte",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Cristo Redentor esq. 3er. Anillo"
+    },
+    {
+        "plataformaDigital": "Ag. Cine Center Scz",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. El Trompillo 2do. Anillo esq. Monseñor Santiesteban"
+    },
+    {
+        "plataformaDigital": "Ag. Mutualista",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "3er. Anillo interno Av. Pedro Ribera Méndez S/N - Zona Mercado Mutualista"
+    },
+    {
+        "plataformaDigital": "Ag. La Ramada",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Isabel La Católica esq. Yotaú - Zona de La Ramada"
+    },
+    {
+        "plataformaDigital": "Ag. Doble Via La Guardia",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Grigota esq. Av. Ibérica No.3510 - Barrio Las Palmas"
+    },
+    {
+        "plataformaDigital": "Ag. Equipetrol Norte",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. San Martin S/N Calle F Barrio Equipetrol Norte UV.59 Mza. 21"
+    },
+    {
+        "plataformaDigital": "Ag. El Cristo",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Monseñor Rivero esq. Pasaje 24 de Septiembre"
+    },
+    {
+        "plataformaDigital": "Ag. Super Center",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Monseñor Rivero entre 6to. y 7mo. Anillo - Hipermaxi Supercenter"
+    },
+    {
+        "plataformaDigital": "Ag. Virgen De Cotoca",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "4to anillo Av. Virgen de Cotoca S/N urbanización Guaracachi Zona Este UV.43 Mza. 21"
+    },
+    {
+        "plataformaDigital": "Ag. Santos Dumont",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Santos Dumont Barrio la Morita, Uv. 48, Mzna. 29, Lote Nro. 4"
+    },
+    {
+        "plataformaDigital": "Ag. Warnes",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Principal 25 de Mayo esq. Calle Recaredo Roda Circunvalación localidad de Warnes"
+    },
+    {
+        "plataformaDigital": "Ag. Viedma",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Viedma esq. Calle Moldes Mza. 232 zona 1er anillo"
+    },
+    {
+        "plataformaDigital": "Ag. Chiriguano",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Barrió Santa Rosita calle pitajaya esquina Roque Aguilera UV. 30 manzana 61"
+    },
+    {
+        "plataformaDigital": "Ag. San Martin (WorkCafé)",
+        "horarioDeAtencion": "Lun a Vie de 08:00-20:00Sáb de 09:00-18:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. San Martin y Lugones, Barrio Equipetrol entre 2do y 3er Anillo"
+    },
+    {
+        "plataformaDigital": "Ag. Parque Industrial",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Parque Industrial, Mz P.I - 23, zona Noreste, Av. Transversal"
+    }
+]

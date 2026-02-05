@@ -1,44 +1,44 @@
 [
     {
-        "Nombre": "Av CÍVICA",
-        "Dirección": "Avenida Cívica, Villa Imperial Potosí",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Av CÍVICA",
+        "direccion": "Avenida Cívica, Villa Imperial Potosí",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Avenida Litoral",
-        "Dirección": "Avenida Litoral N° 521, Villa Imperial de Potosí",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Avenida Litoral",
+        "direccion": "Avenida Litoral N° 521, Villa Imperial de Potosí",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Av. Universitaria",
-        "Dirección": "Av. Universitaria N°162, zona las Delicias",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Av. Universitaria",
+        "direccion": "Av. Universitaria N°162, zona las Delicias",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP Boulevard",
-        "Dirección": "Calle Bolivar No.855",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP Boulevard",
+        "direccion": "Calle Bolivar No.855",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "C. Satélite PTS",
-        "Dirección": "Av. Murillo No.205 entre Calles Gareca y Manríquez - Ciudad\n                                                        Satélite",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "C. Satélite PTS",
+        "direccion": "Av. Murillo No.205 entre Calles Gareca y Manríquez - Ciudad Satélite",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Of. Central PTS 2",
-        "Dirección": "Calle Bolivar No.855",
-        "Horario de atención": "24 hrs.",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Of. Central PTS 2",
+        "direccion": "Calle Bolivar No.855",
+        "horarioDeAtencion": "24 hrs.",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     }
 ]

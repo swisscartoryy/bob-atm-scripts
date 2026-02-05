@@ -1,8 +1,8 @@
 [
     {
-        "Plataforma Digital": "Of. Central Potosí",
-        "Horario de atención": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Calle Bolívar No.855"
+        "plataformaDigital": "Of. Central Potosí",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle Bolívar No.855"
     }
 ]

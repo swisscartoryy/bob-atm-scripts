@@ -1,56 +1,56 @@
 [
     {
-        "Plataforma Digital": "Of. Central Cbb 1",
-        "Horario de atención": "Lun a Dom 24 horas",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "C. Nataniel Aguirre s/n esq. Calama"
+        "plataformaDigital": "Of. Central Cbb 1",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "C. Nataniel Aguirre s/n esq. Calama"
     },
     {
-        "Plataforma Digital": "Of. Central Cbb 2",
-        "Horario de atención": "Lun a Dom 24 horas",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "C. Nataniel Aguirre s/n esq. Calama"
+        "plataformaDigital": "Of. Central Cbb 2",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "C. Nataniel Aguirre s/n esq. Calama"
     },
     {
-        "Plataforma Digital": "Ag. Quillacollo",
-        "Horario de atención": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Av. Héroes del Chaco entre Gral. Pando y Cochabamba (acera este)"
+        "plataformaDigital": "Ag. Quillacollo",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Héroes del Chaco entre Gral. Pando y Cochabamba (acera este)"
     },
     {
-        "Plataforma Digital": "Ag. La Cancha",
-        "Horario de atención": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Calle 25 de Mayo esq. Ismael Montes"
+        "plataformaDigital": "Ag. La Cancha",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle 25 de Mayo esq. Ismael Montes"
     },
     {
-        "Plataforma Digital": "Ag. Blanco Galindo",
-        "Horario de atención": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Av. Blanco Galindo casi esquina Avenida Perú (acera Norte),\n                                                        manzana No. 623"
+        "plataformaDigital": "Ag. Blanco Galindo",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Blanco Galindo casi esquina Avenida Perú (acera Norte), manzana No. 623"
     },
     {
-        "Plataforma Digital": "Ag. Esteban Arce",
-        "Horario de atención": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Calle Totora entre Esteban Arce y Agustín Lopez"
+        "plataformaDigital": "Ag. Esteban Arce",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle Totora entre Esteban Arce y Agustín Lopez"
     },
     {
-        "Plataforma Digital": "Ag. El Prado",
-        "Horario de atención": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Av. Ballivian esq. España"
+        "plataformaDigital": "Ag. El Prado",
+        "horarioDeAtencion": "Lun a Vie de 09:00 a 16:00Sáb de 09:00 a 13:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. Ballivian esq. España"
     },
     {
-        "Plataforma Digital": "Ag. Fidel Anze (WorkCafé)",
-        "Horario de atención": "Lun a Vie de 8:00 a 21:00Sáb de 08:00 a 20:00Dom\n                                                        de 08:00 a 19:00",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Fidel Anze # 1016 casi esquina Calle Eudoro Galindo, parque Fidel\n                                                        Anze acera Sur"
+        "plataformaDigital": "Ag. Fidel Anze (WorkCafé)",
+        "horarioDeAtencion": "Lun a Vie de 8:00 a 21:00Sáb de 08:00 a 20:00Dom de 08:00 a 19:00",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Fidel Anze # 1016 casi esquina Calle Eudoro Galindo, parque Fidel Anze acera Sur"
     },
     {
-        "Plataforma Digital": "Ag. America",
-        "Horario de atención": "Lun a Dom 24 horas",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Av. América esq. Plazuela 4 de Noviembre (lado del Banco Nacional\n                                                        acera sur)"
+        "plataformaDigital": "Ag. America",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Av. América esq. Plazuela 4 de Noviembre (lado del Banco Nacional acera sur)"
     }
 ]

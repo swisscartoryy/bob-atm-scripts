@@ -1,8 +1,8 @@
 [
     {
-        "Plataforma Digital": "Of. Central Tdd",
-        "Horario de atención": "Lun a Dom 24 horas",
-        "Operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
-        "Dirección": "Calle Manuel Limpias S-34 casi esquina Cipriano Barace"
+        "plataformaDigital": "Of. Central Tdd",
+        "horarioDeAtencion": "Lun a Dom 24 horas",
+        "operaciones": "Renovación, Reposición de Tarjeta de Débito y consultas de saldo",
+        "direccion": "Calle Manuel Limpias S-34 casi esquina Cipriano Barace"
     }
 ]

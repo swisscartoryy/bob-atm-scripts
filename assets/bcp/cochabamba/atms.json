@@ -1,411 +1,411 @@
 [
     {
-        "Nombre": "6 de Agosto CBB",
-        "Dirección": "Av. 6 de Agosto esq. Valle Grande",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "6 de Agosto CBB",
+        "direccion": "Av. 6 de Agosto esq. Valle Grande",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Aeropuerto CBB",
-        "Dirección": "Aeropuerto Internacional Cbba.",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Aeropuerto CBB",
+        "direccion": "Aeropuerto Internacional Cbba.",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag Fidel Anze 1",
-        "Dirección": "Fidel Anze # 1016 casi esquina Calle Eudoro Galindo, parque Fidel\n                                                        Anze acera Sur",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag Fidel Anze 1",
+        "direccion": "Fidel Anze # 1016 casi esquina Calle Eudoro Galindo, parque Fidel Anze acera Sur",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag. America 1",
-        "Dirección": "Av. América esq. Plazuela 4 de Noviembre (lado del Banco Nacional\n                                                        acera sur)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag. America 1",
+        "direccion": "Av. América esq. Plazuela 4 de Noviembre (lado del Banco Nacional acera sur)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag. America 3",
-        "Dirección": "Av. América esq. Plazuela 4 de Noviembre (lado del Banco Nacional\n                                                        acera sur)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag. America 3",
+        "direccion": "Av. América esq. Plazuela 4 de Noviembre (lado del Banco Nacional acera sur)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag. Blanco Galindo",
-        "Dirección": "Av. Blanco Galindo casi esquina Av. Perú (acera Norte), manzana\n                                                        No.623",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag. Blanco Galindo",
+        "direccion": "Av. Blanco Galindo casi esquina Av. Perú (acera Norte), manzana No.623",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag. Blanco Galindo 2",
-        "Dirección": "Av. Blanco Galindo casi esquina Av. Perú (acera Norte), manzana\n                                                        No.623",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag. Blanco Galindo 2",
+        "direccion": "Av. Blanco Galindo casi esquina Av. Perú (acera Norte), manzana No.623",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag. Esteban Arce",
-        "Dirección": "Calle Totora entre Esteban Arce y Agustín Lopez",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag. Esteban Arce",
+        "direccion": "Calle Totora entre Esteban Arce y Agustín Lopez",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag. Fidel Anze 2",
-        "Dirección": "Fidel Anze # 1016 casi esquina Calle Eudoro Galindo, parque Fidel\n                                                        Anze acera Sur",
-        "Horario de atención": "LV-10:00 a 20:00 y S-09:00 a 20:00",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag. Fidel Anze 2",
+        "direccion": "Fidel Anze # 1016 casi esquina Calle Eudoro Galindo, parque Fidel Anze acera Sur",
+        "horarioDeAtencion": "LV-10:00 a 20:00 y S-09:00 a 20:00",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag. La Cancha 1",
-        "Dirección": "Calle 25 de Mayo esq. Ismael Montes",
-        "Horario de atención": "LD-07:00 a 22:00",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag. La Cancha 1",
+        "direccion": "Calle 25 de Mayo esq. Ismael Montes",
+        "horarioDeAtencion": "LD-07:00 a 22:00",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag. Prado 2",
-        "Dirección": "Av.Ballivian Esq. España",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag. Prado 2",
+        "direccion": "Av.Ballivian Esq. España",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag.Quillacollo 1",
-        "Dirección": "Av. Héroes del Chaco No.56 entre Gral. Pando y Cochabamba (acera\n                                                        este)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag.Quillacollo 1",
+        "direccion": "Av. Héroes del Chaco No.56 entre Gral. Pando y Cochabamba (acera este)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "América y Pando",
-        "Dirección": "Av. América N° E - 0860 entre Av. Pando y Av. Melchor Urquidi\n                                                        (acera Sur - Diagonal al Hipermercado IC Norte)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "América y Pando",
+        "direccion": "Av. América N° E - 0860 entre Av. Pando y Av. Melchor Urquidi (acera Sur - Diagonal al Hipermercado IC Norte)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Aniceto Arce",
-        "Dirección": "Av. Aniceto Arce #412 frente al Maternologico German Urquidi",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Aniceto Arce",
+        "direccion": "Av. Aniceto Arce #412 frente al Maternologico German Urquidi",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Aniceto Padilla",
-        "Dirección": "Calle Santa Cruz esq. Aniceto Padilla",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Aniceto Padilla",
+        "direccion": "Calle Santa Cruz esq. Aniceto Padilla",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Av. Perú",
-        "Dirección": "Av. Perú N° 0768 esq. Av. Dorbigni, Villa Galindo",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Av. Perú",
+        "direccion": "Av. Perú N° 0768 esq. Av. Dorbigni, Villa Galindo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Mercado 10 de febrero",
-        "Dirección": "Mercado 10 de febrero entre la Av. Simón López esquina Sumaj\n                                                        Llajta",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Mercado 10 de febrero",
+        "direccion": "Mercado 10 de febrero entre la Av. Simón López esquina Sumaj Llajta",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Av. Suecia",
-        "Dirección": "Av. Suecia No.1047 esq. Pasaje 10",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Av. Suecia",
+        "direccion": "Av. Suecia No.1047 esq. Pasaje 10",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP - Ayacucho",
-        "Dirección": "Av. Ayacucho esq. Heroinas N°113",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP - Ayacucho",
+        "direccion": "Av. Ayacucho esq. Heroinas N°113",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP - Hiper Juan de la Rosa",
-        "Dirección": "Av. Juan de la Rosa esq. Av. Gabriel Rene Moreno - Supermercado\n                                                        Hipermaxi",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP - Hiper Juan de la Rosa",
+        "direccion": "Av. Juan de la Rosa esq. Av. Gabriel Rene Moreno - Supermercado Hipermaxi",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP - Quillacollo 2",
-        "Dirección": "Av. Héroes del Chaco N°56",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP - Quillacollo 2",
+        "direccion": "Av. Héroes del Chaco N°56",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP 14 de Septiembre",
-        "Dirección": "Plaza 14 de Septiembre acera Oeste",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP 14 de Septiembre",
+        "direccion": "Plaza 14 de Septiembre acera Oeste",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP El Prado",
-        "Dirección": "Av. Ballivian esq. España",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP El Prado",
+        "direccion": "Av. Ballivian esq. España",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP IC Hipodromo",
-        "Dirección": "Av. Melchor Perez de Olguin esq. D´Orbignhy",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP IC Hipodromo",
+        "direccion": "Av. Melchor Perez de Olguin esq. D´Orbignhy",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP La Cancha 2",
-        "Dirección": "Calle 25 de Mayo esq. Ismael Montes",
-        "Horario de atención": "LD-07:00 a 22:00",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP La Cancha 2",
+        "direccion": "Calle 25 de Mayo esq. Ismael Montes",
+        "horarioDeAtencion": "LD-07:00 a 22:00",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP Tadeo Haenke",
-        "Dirección": "Av. Tadeo Haenke N° 1576 esq. Av. San Martin de la Rocha",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP Tadeo Haenke",
+        "direccion": "Av. Tadeo Haenke N° 1576 esq. Av. San Martin de la Rocha",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "BCP UNIVERSIDAD CATOLICA",
-        "Dirección": "FINAL AMÉRICA ESTE. PLAZUELA TARIJA ESQ. AV. GRAL GALINDO",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "BCP UNIVERSIDAD CATOLICA",
+        "direccion": "FINAL AMÉRICA ESTE. PLAZUELA TARIJA ESQ. AV. GRAL GALINDO",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Caja Nacional de Salud CBB",
-        "Dirección": "Av. Blanco Galindo Km. 5 # 109 Barrio Delicias(lado CNS) acera\n                                                        sur",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Caja Nacional de Salud CBB",
+        "direccion": "Av. Blanco Galindo Km. 5 # 109 Barrio Delicias(lado CNS) acera sur",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "CNS",
-        "Dirección": "Av. Blanco Galindo Km. 5 ½ acera sud – Caja Nacional de Salud",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "CNS",
+        "direccion": "Av. Blanco Galindo Km. 5 ½ acera sud – Caja Nacional de Salud",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Cruce Taquiña",
-        "Dirección": "Av. Ecologica s7n frente Rotonda Cruce Taquiña (continuacion\n                                                        Simon Lopez)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Cruce Taquiña",
+        "direccion": "Av. Ecologica s7n frente Rotonda Cruce Taquiña (continuacion Simon Lopez)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Edif.Colon",
-        "Dirección": "Av. Ballivian esq. Mexico",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Edif.Colon",
+        "direccion": "Av. Ballivian esq. Mexico",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "El Avión",
-        "Dirección": "Av. Fuerza Aérea N° 8004 esquina Av. Killman",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "El Avión",
+        "direccion": "Av. Fuerza Aérea N° 8004 esquina Av. Killman",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "FUD",
-        "Dirección": "Av. Oquendo esq. Calama acera noreste",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "FUD",
+        "direccion": "Av. Oquendo esq. Calama acera noreste",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Heroínas",
-        "Dirección": "Av. Heroínas No.435 entre Calle San Martín y 25 de Mayo (acera\n                                                        norte)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Heroínas",
+        "direccion": "Av. Heroínas No.435 entre Calle San Martín y 25 de Mayo (acera norte)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Híper Circunvalación",
-        "Dirección": "Av. Circunvalación, Calle Hernan Siles Suazo, A. Uzeda.",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Híper Circunvalación",
+        "direccion": "Av. Circunvalación, Calle Hernan Siles Suazo, A. Uzeda.",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Híper Oquendo",
-        "Dirección": "Av. Oquendo Supermercado HiperMaxi",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Híper Oquendo",
+        "direccion": "Av. Oquendo Supermercado HiperMaxi",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Hiper Villazón CBB",
-        "Dirección": "Av. Villazon Km 3, Zona El Castillo SN, Sacaba",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Hiper Villazón CBB",
+        "direccion": "Av. Villazon Km 3, Zona El Castillo SN, Sacaba",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Hipermaxi Blanco Galindo",
-        "Dirección": "Av. Blanco Galindo KM2 1/2 N° 2029 - Predios Supermercado\n                                                        Hipermaxi",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Hipermaxi Blanco Galindo",
+        "direccion": "Av. Blanco Galindo KM2 1/2 N° 2029 - Predios Supermercado Hipermaxi",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Hupermall",
-        "Dirección": "Av. Portales entre Av. Pando y Av. Melchor Urquidi",
-        "Horario de atención": "LD-10:00 a 22:00",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Hupermall",
+        "direccion": "Av. Portales entre Av. Pando y Av. Melchor Urquidi",
+        "horarioDeAtencion": "LD-10:00 a 22:00",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Juan de La Rosa",
-        "Dirección": "Av. Juan de la Rosa esq. Av. América No.1816 (En plena rotonda)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Juan de La Rosa",
+        "direccion": "Av. Juan de la Rosa esq. Av. América No.1816 (En plena rotonda)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "La Cancha",
-        "Dirección": "Av. Esteban Arce entre Totora y Quillacollo",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "La Cancha",
+        "direccion": "Av. Esteban Arce entre Totora y Quillacollo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Manaco",
-        "Dirección": "Av. Albina Patiño (prolongación Av. Blanco Galindo) s/n Esq. Av.\n                                                        Thomas Bata",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Manaco",
+        "direccion": "Av. Albina Patiño (prolongación Av. Blanco Galindo) s/n Esq. Av. Thomas Bata",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Melchor Perez",
-        "Dirección": "Av. Melchor Perez de Olguin esq. Av. América",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Melchor Perez",
+        "direccion": "Av. Melchor Perez de Olguin esq. Av. América",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Of. Central CBB 4",
-        "Dirección": "Calle Nataniel Aguirre s/n esq. Calama",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Of. Central CBB 4",
+        "direccion": "Calle Nataniel Aguirre s/n esq. Calama",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Of.Central CBB 1",
-        "Dirección": "C. Nataniel Aguirre s/n esq. Calama",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Of.Central CBB 1",
+        "direccion": "C. Nataniel Aguirre s/n esq. Calama",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Of.Central CBB 2",
-        "Dirección": "C. Nataniel Aguirre s/n esq. Calama",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Of.Central CBB 2",
+        "direccion": "C. Nataniel Aguirre s/n esq. Calama",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "PIL CBB",
-        "Dirección": "Av. Blanco Galindo Km. 10.5 - Puerta de ingreso Empresa PIL",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "PIL CBB",
+        "direccion": "Av. Blanco Galindo Km. 10.5 - Puerta de ingreso Empresa PIL",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Plaza Bolivar",
-        "Dirección": "Av. Blanco Galindo acera sur S/N entre calles 6 de Agosto y\n                                                        Pacheco a media cuadra de la plaza Bolívar",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Plaza Bolivar",
+        "direccion": "Av. Blanco Galindo acera sur S/N entre calles 6 de Agosto y Pacheco a media cuadra de la plaza Bolívar",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Recoleta",
-        "Dirección": "Av. Pando No.1122 Recoleta esq. paseo Boulevard / Ingreso a la\n                                                        Casa de Campo Suc. CBBA",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Recoleta",
+        "direccion": "Av. Pando No.1122 Recoleta esq. paseo Boulevard / Ingreso a la Casa de Campo Suc. CBBA",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "San Martin",
-        "Dirección": "Calle Uruguay No.475 entre Calle 25 de Mayo y Av. San Martín",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "San Martin",
+        "direccion": "Calle Uruguay No.475 entre Calle 25 de Mayo y Av. San Martín",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Sarco",
-        "Dirección": "Av. Beijing No.2322 entre Av. América y c. Alcides Arguedas -\n                                                        Zona Sarco",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Sarco",
+        "direccion": "Av. Beijing No.2322 entre Av. América y c. Alcides Arguedas - Zona Sarco",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Surt. El Cristo",
-        "Dirección": "Av. Juan de la Rosa No. 516 entre Alfredo Pardo y Armando Mendoza",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Depósitos, Retiros, Transferencias,\n                                                        Pago de Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Surt. El Cristo",
+        "direccion": "Av. Juan de la Rosa No. 516 entre Alfredo Pardo y Armando Mendoza",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Terminal de Buses CBB",
-        "Dirección": "Av. Ayacucho casi esq. Aroma - Interior Terminal de Buses",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Terminal de Buses CBB",
+        "direccion": "Av. Ayacucho casi esq. Aroma - Interior Terminal de Buses",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Terminal Quillacollo",
-        "Dirección": "Av. Circunvalación No.651 y Av. Blanco Galindo",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Terminal Quillacollo",
+        "direccion": "Av. Circunvalación No.651 y Av. Blanco Galindo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "U.San Simón",
-        "Dirección": "Calle Pasteur Esq. sobre Calle Sucre (Predios de la UMSS)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "U.San Simón",
+        "direccion": "Calle Pasteur Esq. sobre Calle Sucre (Predios de la UMSS)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Unilever",
-        "Dirección": "Av. Blanco Galindo Km 10.4 entre Calles Carlos Peña y Pasaje\n                                                        Quimbol (Unilever)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Unilever",
+        "direccion": "Av. Blanco Galindo Km 10.4 entre Calles Carlos Peña y Pasaje Quimbol (Unilever)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Ag. America 2*",
-        "Dirección": "Av. América esq. Plazuela 4 de Noviembre (lado del Banco Nacional\n                                                        acera sur)",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Ag. America 2*",
+        "direccion": "Av. América esq. Plazuela 4 de Noviembre (lado del Banco Nacional acera sur)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "Of. Central CBB 3*",
-        "Dirección": "C. Nataniel Aguirre s/n esq. Calama",
-        "Horario de atención": "24 horas",
-        "Transacciones": "Retiro, Transferencias, Pago de\n                                                        Servicios",
-        "Moneda que distribuye": "Bolivianos"
+        "nombre": "Of. Central CBB 3*",
+        "direccion": "C. Nataniel Aguirre s/n esq. Calama",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
     },
     {
-        "Nombre": "(*) Cajero Automático habilitado para Personas con\n                                                    Discapacidad"
+        "nombre": "(*) Cajero Automático habilitado para Personas con Discapacidad"
     }
 ]

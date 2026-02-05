@@ -1,0 +1,733 @@
+[
+    {
+        "nombre": "Aeropuerto SCZ",
+        "direccion": "Aeropuerto Viru Viru",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag Santos Dumont 2",
+        "direccion": "Av. Santos Dumont Barrio la Morita, Uv. 48, Mzna. 29, Lote Nro. 4",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Of. 24 de septiembre 1",
+        "direccion": "Calle 24 de Septiembre No. 158",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP Of. 24 de Septiembre 2",
+        "direccion": "Calle 24 de Septiembre No. 158",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Of. 24 de Septiembre 4",
+        "direccion": "Calle 24 de septiembre N°158",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. 7 Calles 2",
+        "direccion": "Calle Camiri No.65 U.V. 47 (Mercado 7 Calles)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Cine Center SCZ 2",
+        "direccion": "Av. El Trompillo 2do. Anillo esq. Monseñor Santiesteban",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. El Cristo 2",
+        "direccion": "Av. Monseñor Rivero esq. Pasaje 24 de Septiembre",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Mutualista",
+        "direccion": "3er. Anillo interno Av. Pedro Ribera Méndez S/N - Zona Mercado Mutualista",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Mutualista 2",
+        "direccion": "3er. Anillo interno Av. Pedro Ribera Méndez S/N - Zona Mercado Mutualista",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Norte",
+        "direccion": "3er. Anillo interno y Av. Banzer",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Parque Industrial 2",
+        "direccion": "Parque Industrial, Mz P.I - 23, zona Noreste, Av. Transversal",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Santos Dumont",
+        "direccion": "Av. Santos Dumont Barrio la Morita, Uv. 48, Mzna. 29, Lote Nro. 4",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Supercenter 2",
+        "direccion": "Av. Cristo Redentor entre 6to y 7mo anillo - Supermercado Hipermaxi Supercenter",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Viedma 2",
+        "direccion": "Av. Viedma esq. Calle Moldes, Mza. 232 - Zona 1er. Anillo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Virgen de Cotoca",
+        "direccion": "4to anillo Av. vurgen de Cotoca s/n Urbanizacion Guaracachi Zona este UV.43 Mza.21",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Virgen de Cotoca 2",
+        "direccion": "4to anillo Av. Virgen de Cotoca S/N urbanizacion Guaracachi Zona Este UV.43 Mza. 21",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Warnes 2",
+        "direccion": "Av. Principal 25 de Mayo esq. Calle Recaredo Roda Circunvalación localidad de Warnes, Zona 26 de Febrero",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "AGROPARTNER",
+        "direccion": "Sobre Av. Cuarto Anillo y entre Avenidas Mutualista y Perimetral. (Interior de la empresa AgroPartners SRL.)",
+        "horarioDeAtencion": "LV-08:00 a 16:00 y S-08:00 a 12:30",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Andina",
+        "direccion": "3er. Anillo externo y Radial 19 - Interior de la empresa Andina",
+        "horarioDeAtencion": "LV- 08:30-12:30 y 14:30-18:30",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Argomoza",
+        "direccion": "Av. Argomosa No.390 casi esq. Sucre - Cementerio General",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "ATM - Ag. Viedma",
+        "direccion": "Av. Viedma esq. Calle Moldes, Mza. 232 - Zona 1er. Anillo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "ATM Biopetrol Alemana",
+        "direccion": "Calle Totai esq. Av. Alemana - Barrio Petrolero",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "AVENIDA BRASIL",
+        "direccion": "Avenida Brasil, S/N Barrio Parque Industrial, 3er Anillo entre Calle Montenegro y Calle Valverde",
+        "horarioDeAtencion": "07:00 a 23:00",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Avión Pirata",
+        "direccion": "Av. Uruguay No.779 esq. Guillermo Velasco",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP - Ag. Doble Via la Guardia 2",
+        "direccion": "Av. Doble Via la Guardia esq. Av. Iberica, entre 3° y 4° anillo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP - Hiper Av. Beni",
+        "direccion": "Av. Beni esq. 4to Anillo - Supermercado Hipermaxi",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP - IC Norte",
+        "direccion": "Av. Busch esquina 3° anillo externo, Supermercado IC Norte",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP - Supercenter",
+        "direccion": "Av. Cristo Redentor entre 6to y 7mo anillo - Supermercado Hipermaxi Supercenter",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP Ag. Doble Via la Guardia",
+        "direccion": "Av. Doble Via la Guardia esq. Av. Iberica, entre 3° y 4° anillo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP Agencia Chiriguano 2",
+        "direccion": "Barrió Santa Rosita calle pitajaya esquina Roque Aguilera UV. 30 manzana 61",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP Agencia La Ramada",
+        "direccion": "Av. Isabel La Católica esq. Yotaú - Zona de La Ramada",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP Hípermaxi 3 Pasos al Frente",
+        "direccion": "Av. 3 Pasos al Frente esq. Tercer Anillo, UV 024, MZA 040",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP Hipermaxi Pampa de la Isla",
+        "direccion": "Av. Virgen de Cotoca esq. Calle 6 s/n Barrio San Lorenzo - Zona Este",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP Hipermaxi Pampa de la Isla 2",
+        "direccion": "Av. Virgen de Cotoca esq. Calle 6 s/n Barrio San Lorenzo - Zona Este",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP Plaza Blacud",
+        "direccion": "Plazuela Blacud entre Rene Moreno y Av. Velarde sobre la Calle Diego de Mendoza",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Belén",
+        "direccion": "Av. Cristo Redentor 6to anillo Barrio Ciudad Jardín Uv. 68 Mza.UM-8 Lote 2 Zona Norte (Patio de Comidas Belen)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Biopet. Roque",
+        "direccion": "3er. Anillo Av. Roca y Coronado esq. Av. Roque Aguilera - Barrio Villa Mercedes Uv.30 Mz.65",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Biopetrol Virgen de Cotoca",
+        "direccion": "Av. Virgen de Cotoca esq. Av. Departamento Pando Barrio Lazareto UV.21 Mza.1",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BPO Center",
+        "direccion": "Calle Horacio Ríos No 54 entre Bernabé Sosa y Av. Trinidad",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Burger King SCZ",
+        "direccion": "Av. Monseñor Rivero Esq. Calle Fortín Arce Barrio Los Bartos Uv.14",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Cosmet",
+        "direccion": "Av. Cañoto No.176 (Local Cosmet)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "DISMATEC SCZ",
+        "direccion": "Transversal 11 Esquina Diagonal 3A, Zona Industrial, Mza (PI-14 L-2), Santa Cruz de la Sierra.",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Edificio Sofía",
+        "direccion": "Cuarto Anillo entre Radial 21, Avenida Roca y Coronado, Santa Cruz de la Sierra (Edificio Sofía)",
+        "horarioDeAtencion": "LV-07:00 a 19:00 y S-09:00 a 13:00",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Estación Bimodal",
+        "direccion": "Nueva Terminal de Buses entre 2do. y 3er. Anillo - Zona La Nueva Feria, Barrio Lindo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "ESTROPICAL TOURS",
+        "direccion": "Av. Las Ramblas No.100 casi 4to. Anillo - Diagonal a la Torre Empresarial Equipetrol (Edificio ITC Tower)",
+        "horarioDeAtencion": "LS-08:00 a 23:00",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Fancesa",
+        "direccion": "Av. Banzer entre 7mo y 8vo anillo - Sevilla",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Farmacia Gutiérrez",
+        "direccion": "Calle 21 de Mayo No.76 (Farm. Gutiérrez) entre Ayacucho y Junín",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Farmacia Hipermaxi",
+        "direccion": "Av. Santos Dumont Esq.6to Anillo. Barrio Springfield UV 122 Mz. 53",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Fidalga Cotoca",
+        "direccion": "Carretera Cotoca Km 5 (Lado Urbanización Espíritu Santo)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Gas y Gas",
+        "direccion": "Av. Cañada Pailita Esq. Av. Prolongación Che Guevara Barrio Cañada Pailita UV 104",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Genex Warnes",
+        "direccion": "Av.25 de Mayo Circunvalación Warnes S/N entre Calles Cuarto Centenario y Calle Rene Moreno",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Green Tower Santa Cruz 1",
+        "direccion": "Edificio Green Tower, Torre Corporativa, ubicado en la zona Norte, Distrito 1, UV. N°59,Mza.21, lote N°20 de la ciudad de Santa Cruz de la Sierra.",
+        "horarioDeAtencion": "LD- 07:30 a 21:30",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Green Tower Santa Cruz 2",
+        "direccion": "Edificio Green Tower, Torre Corporativa, ubicado en la zona Norte, Distrito 1, UV. N°59,Mza.21, lote N°20 de la ciudad de Santa Cruz de la Sierra.",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Grupo Roda",
+        "direccion": "Parque Industrial Mza. 10 CIMAL - Gladimar (Lado ADM SAO) - Zona Este",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hamacas",
+        "direccion": "Av. Beni esq. Calle 3",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hamburguesas Toby",
+        "direccion": "Av. Trompillo esq. Av. San Aurelio, UV25, P6",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper 1 de Mayo 2",
+        "direccion": "Av. Principal 1° de Mayo y Calle 9 Este - Hipermaxi 1° de Mayo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Equipetrol",
+        "direccion": "Barrio Equipetrol Norte Av. San Martin S/N Uv.59 Mza.53",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Híper Mutualista",
+        "direccion": "Av. Japón 3er Anillo Interno N°3480",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Norte 1",
+        "direccion": "Av. Cristo Redentor esq Av. Pedro Ribera Mendez Barrio Macdonald Uv. 15 Mza. 92",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Norte 2",
+        "direccion": "Av. Cristo Redentor esq Av. Pedro Ribera Mendez Barrio Macdonald Uv. 15 Mza. 92",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Oeste",
+        "direccion": "Av. Doble Vía la Guardia y 4to. Anillo (Supermercado Hipermaxi Oeste Las Palmas",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Oeste 2",
+        "direccion": "Av. Doble Via la Guardia y 4to anillo (Supermercado Hipermaxi Oeste \"Las Palmas\")",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Pirai",
+        "direccion": "2do Anillo Av. 26 de Febrero esq. Av. Pirai - Barrio Santa Rosita Uv. 30",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Plan 3000",
+        "direccion": "Av. Paurito Barrio los Álamos Uv.163",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Plaza",
+        "direccion": "Av. Grigotá esq. Guariyú",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Radial 26",
+        "direccion": "4to Anillo y Av. Radial 26",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Roca y Coronado",
+        "direccion": "Av. Roca y Coronado esq. Calle Juan Carlos Torrez Barrio Los Milagros UV.55",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Sur 1",
+        "direccion": "3er. Anillo externo y Av. Santos Dumont",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hiper Sur 2",
+        "direccion": "3er. Anillo externo y Av. Santos Dumont",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hipermaxi Villa 1° de Mayo",
+        "direccion": "Av. Principal 1° de Mayo - Hipermaxi 1° de Mayo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hospital Obrero SCZ",
+        "direccion": "Av. Republica del Japón 3er anillo entre Av. Paragua y Av. Mutualista ET-4 (frente Calle Calle Destroyer Uv. 40 Mza. 29B)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hot Burger",
+        "direccion": "Av. Alemana Calle Claudio Farfan entre 3er y 4to Anillo Bario San Juan Macias UV. 39",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hot Burger El Palmar",
+        "direccion": "Av. 4to Anillo Esq. Av. El Palmar Mza. 58 UV. 54 - Barrio La Madre",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Hot Burger San Aurelio",
+        "direccion": "Av. San Aurelio 3er Anillo Interno UV. 24 Mz 24 S/N - Barrio Petrolero Sur",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Km 6 La Guardia",
+        "direccion": "Km. 6 Av. Grigota Barrio Bethesda UV 126 MZA 23 (entre 6to y 7mo anillo)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "KM 6 La Guardia 2",
+        "direccion": "Av. Doble vía la Guardia Km 6 Barrio Bethesda Uv.126 Mza. 23 Clínica de Salud",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "La Ganga",
+        "direccion": "2do Anillo Av. Cristóbal de Mendoza esq. Av. Busch - Barrio Los Bartos UV. 14 Mz.3",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "La Ramada",
+        "direccion": "Av. Grigota esq. Calle Salvatierra - Barrio La Ramada UV.10 Mz.11",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Las Brisas",
+        "direccion": "Av. Cristo Redentor esq. 4ª Anillo. Centro Comercial Las Brisas",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mall Plaza",
+        "direccion": "Av. Banzer esq. 4to. Anillo carretera Norte",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mall Ventura 1",
+        "direccion": "4to Anillo esq. Av. San Martin Barrio 2 de Abril s/n Uv.59 Mza.1 Zona Norte",
+        "horarioDeAtencion": "LD-07:00 a 23:00",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mall Ventura 2",
+        "direccion": "4to Anillo esq. Av. San Martin Barrio 2 de Abril s/n Uv.59 Mza.1 Zona Norte",
+        "horarioDeAtencion": "LD-07:00 a 23:00",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mini Market Pronto",
+        "direccion": "Av. Santa Cruz Esq. Paragua 2do Anillo Barrio Chacarilla Uv.19 P3",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Monopol SCZ",
+        "direccion": "Av.4to Anillo Bloque E casi Esq. Av. Brasil (Lado Feria Barrio Lindo)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Montero",
+        "direccion": "Av. Warnes a una cuadra de la Plaza principal de Montero - Diagonal a la Gobernación",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Montero 2",
+        "direccion": "Av. Warnes a una cuadra de la Plaza principal de Montero - Diagonal a la Gobernación",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Mutualista",
+        "direccion": "Av. Mutualista N° 215 esq. tercer anillo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Norte",
+        "direccion": "Avenida Cristo Redentor y Tercer Anillo Externo - Lado Ag. Norte",
+        "horarioDeAtencion": "LD-06:00 a 22:00",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "PIL SCZ",
+        "direccion": "Fabrica PIL SCZ, Carretera al Norte Km. 27 ½ - Warnes",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Plan 3000 Gas y Gas 2",
+        "direccion": "Av. Cañada Pailita esq. Che Guevara UV. 104 MZA. 12",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Pollos Ross",
+        "direccion": "Av. Santos Dumont N° 3630",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Tero Tero",
+        "direccion": "Av. Paragua esq. Calle 4 Surtidor Tero Tero entre 3er. y 4to. Anillo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Urubo",
+        "direccion": "Urbanizacion Colinas del Urubo s/n - Plaza Comercial Urubo",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "V. 1 de Mayo 2",
+        "direccion": "Av. Principal Villa 1ero de Mayo Calle 5 Este S/N Urbanizacion Pampa de la Cruz UV. 86 Mza. ZE-M6-A Lote 4",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Venado",
+        "direccion": "Carretera Km 27 y medio entre Santa Cruz y Warnes S/N UV. 00 Mza. 00 Distrito 13 Sección 3, Zona Norte (Lado de Aceite Fino)",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Villa 1ro de mayo",
+        "direccion": "Av. Principal Villa 1ro de mayo, Calle 5 este s/n Urbanizacion Pampa de la Cruz UV.86 MZA. ZE-M6-A Lote 4",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Depósitos, Retiros, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Warnes",
+        "direccion": "Av. Principal 25 de Mayo esq. Calle Recaredo Roda Circunvalación localidad de Warnes. Zona 26 de Febrero",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Yanbal",
+        "direccion": "Parque Industrial Manzana 29A",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Chiriguano 1*",
+        "direccion": "Barrió Santa Rosita calle pitajaya esquina Roque Aguilera UV. 30 manzana 61",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag. Parque Industrial 1*",
+        "direccion": "Parque Industrial, Mz P.I - 23, zona Noreste, Av. Transversal",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "Ag.C.Center SCZ 1*",
+        "direccion": "Av. El Trompillo 2do. Anillo esq. Monseñor Santiesteban",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "BCP Ag. El Cristo*",
+        "direccion": "Av. Monseñor Rivero esq. Pasaje 24 de Septiembre",
+        "horarioDeAtencion": "24 horas",
+        "transacciones": "Retiro, Transferencias, Pago de Servicios",
+        "monedaQueDistribuye": "Bolivianos"
+    },
+    {
+        "nombre": "(*) Cajero Automático habilitado para Personas con Discapacidad"
+    }
+]

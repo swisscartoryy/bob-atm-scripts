@@ -1,54 +1,54 @@
 [
     {
-        "Ciudad": "Cochabamba",
-        "Oficina": "Sucursal Cochabamba",
-        "Dirección": "Calle Nataniel Aguirre esquina Calama S-0498",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Cochabamba",
+        "oficina": "Sucursal Cochabamba",
+        "direccion": "Calle Nataniel Aguirre esquina Calama S-0498",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     },
     {
-        "Ciudad": "Cochabamba",
-        "Oficina": "Agencia América",
-        "Dirección": "Avenida America N° 408",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Cochabamba",
+        "oficina": "Agencia América",
+        "direccion": "Avenida America N° 408",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     },
     {
-        "Ciudad": "Cochabamba",
-        "Oficina": "Agencia Quillacollo",
-        "Dirección": "Av.Héroes del Chaco No 56",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Cochabamba",
+        "oficina": "Agencia Quillacollo",
+        "direccion": "Av.Héroes del Chaco No 56",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     },
     {
-        "Ciudad": "Cochabamba",
-        "Oficina": "Agencia El Prado",
-        "Dirección": "Avenida Ballivián esquina España N 683",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Cochabamba",
+        "oficina": "Agencia El Prado",
+        "direccion": "Avenida Ballivián esquina España N 683",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     },
     {
-        "Ciudad": "Cochabamba",
-        "Oficina": "Agencia Blanco Galindo",
-        "Dirección": "Av. Carlos Blanco Galindo casi esq. Av. Perú acera norte N°\n                                                            1214",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Cochabamba",
+        "oficina": "Agencia Blanco Galindo",
+        "direccion": "Av. Carlos Blanco Galindo casi esq. Av. Perú acera norte N° 1214",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     },
     {
-        "Ciudad": "Cochabamba",
-        "Oficina": "Agencia Esteban Arce",
-        "Dirección": "Calle Totora Entre Esteban Arce Y Agustin Lopez",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Cochabamba",
+        "oficina": "Agencia Esteban Arce",
+        "direccion": "Calle Totora Entre Esteban Arce Y Agustin Lopez",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     },
     {
-        "Ciudad": "Cochabamba",
-        "Oficina": "Agencia La Cancha",
-        "Dirección": "Calle Ismael Montes esquina 25 de Mayo N E-0392",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Cochabamba",
+        "oficina": "Agencia La Cancha",
+        "direccion": "Calle Ismael Montes esquina 25 de Mayo N E-0392",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     },
     {
-        "Ciudad": "(**) No cuenta con ventanillas para atención al público."
+        "ciudad": "(**) No cuenta con ventanillas para atención al público."
     }
 ]

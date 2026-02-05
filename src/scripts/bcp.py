@@ -17,17 +17,16 @@ htmlfiles = [
     "assets/bcp/branches.html",
 ]
 
-departmentids = [
-    "fondoOficinaLaPaz",
-    "fondoOficinaOruro",
-    "fondoOficinaPotosi",
-    "fondoOficinaTarija",
-    "fondoOficinaTrinidad",
-    "fondoOficinaSantaCruz",
-    "fondoOficinaCochabamba",
-    "fondoOficinaChuquisaca",
-]
-
+departmentidname: dict[str, str] = {
+    "fondoOficinaLaPaz": "la_paz",
+    "fondoOficinaOruro": "oruro",
+    "fondoOficinaPotosi": "potosi",
+    "fondoOficinaTarija": "tarija",
+    "fondoOficinaTrinidad": "beni",
+    "fondoOficinaSantaCruz": "santa_cruz",
+    "fondoOficinaCochabamba": "cochabamba",
+    "fondoOficinaChuquisaca": "chuquisaca",
+}
 
 for htmlfile in htmlfiles:
     with open(htmlfile, "r", encoding="utf-8") as file:
@@ -36,10 +35,9 @@ for htmlfile in htmlfiles:
     soup = BeautifulSoup(html, "html.parser")
     filename = f"{htmlfile[len("assets/bcp/") : -len(".html")]}.json"
 
-    for departmentid in departmentids:
+    for departmentid in departmentidname.keys():
         element = soup.find(id=departmentid)
-        department = departmentid[len("fondooficina") :].lower()
-        dirname = f"assets/bcp/{"beni" if department == "trinidad" else department}"
+        dirname = f"assets/bcp/{departmentidname[departmentid]}"
 
         os.makedirs(dirname, exist_ok=True)
 
@@ -67,8 +65,8 @@ for htmlfile in htmlfiles:
 
             drows = [dict(zip(headers, row)) for row in rows]
 
-            filename = f"{dirname}/{filename}"
+            jfilename = f"{dirname}/{filename}"
             json_data = json.dumps(drows, ensure_ascii=False, indent=4)
 
-            with open(filename, "w", encoding="utf-8") as jsonfile:
+            with open(jfilename, "w", encoding="utf-8") as jsonfile:
                 jsonfile.write(json_data)

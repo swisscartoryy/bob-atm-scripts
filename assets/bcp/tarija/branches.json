@@ -1,9 +1,9 @@
 [
     {
-        "Ciudad": "Tarija",
-        "Oficina": "Sucursal Tarija",
-        "Dirección": "Calle General Trigo N 0784",
-        "HorarioLun.- Vie.": "09:00 a 16:00",
-        "HorarioSábado": "09:00 a 13:00"
+        "ciudad": "Tarija",
+        "oficina": "Sucursal Tarija",
+        "direccion": "Calle General Trigo N 0784",
+        "horarioLun.-Vie.": "09:00 a 16:00",
+        "horarioSabado": "09:00 a 13:00"
     }
 ]
