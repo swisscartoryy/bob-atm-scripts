@@ -59,7 +59,7 @@ departments = [
 
 
 def jdata_from_jsonfile(filename: str):
-    with open(mode="r", file=filename, encoding="utf-8") as jsonfile:
+    with open(filename, mode="r", encoding="utf-8") as jsonfile:
         jdata = json.load(jsonfile)
 
     return jdata
@@ -69,7 +69,7 @@ def write_data_to_csvfile(filename: str, data: list):
     rows = [item.model_dump() for item in data]
     headers = [key for key in data[0].model_dump().keys()]
 
-    with open(mode="w", newline="", file=filename, encoding="utf-8") as csvfile:
+    with open(filename, mode="w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=headers)
         writer.writeheader()
         writer.writerows(rows)

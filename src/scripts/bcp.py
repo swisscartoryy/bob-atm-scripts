@@ -1,9 +1,17 @@
 import os
+import re
+
 import json
+import inflection
 
 from bs4 import BeautifulSoup
 
-html_paths = [
+transvowels = str.maketrans(
+    "áéíóúÁÉÍÓÚ",
+    "aeiouAEIOU",
+)
+
+htmlfiles = [
     "assets/bcp/atms.html",
     "assets/bcp/kiosks.html",
     "assets/bcp/branches.html",
@@ -11,21 +19,22 @@ html_paths = [
 
 departmentids = [
     "fondoOficinaLaPaz",
-    "fondoOficinaSantaCruz",
     "fondoOficinaOruro",
-    "fondoOficinaCochabamba",
     "fondoOficinaPotosi",
-    "fondoOficinaChuquisaca",
     "fondoOficinaTarija",
     "fondoOficinaTrinidad",
+    "fondoOficinaSantaCruz",
+    "fondoOficinaCochabamba",
+    "fondoOficinaChuquisaca",
 ]
 
-for html_path in html_paths:
-    with open(html_path, "r", encoding="utf-8") as file:
+
+for htmlfile in htmlfiles:
+    with open(htmlfile, "r", encoding="utf-8") as file:
         html = file.read()
 
     soup = BeautifulSoup(html, "html.parser")
-    filename = f"{html_path[len("assets/bcp/") : -len(".html")]}.json"
+    filename = f"{htmlfile[len("assets/bcp/") : -len(".html")]}.json"
 
     for departmentid in departmentids:
         element = soup.find(id=departmentid)
@@ -38,18 +47,28 @@ for html_path in html_paths:
             rsrows = element.select("table > tr")
             rsheaders = element.select("table > thead > tr > th")
 
-            rows: list[list[str]] = []
-            headers = [h.get_text(strip=True) for h in rsheaders]
+            headers = [
+                inflection.camelize(
+                    uppercase_first_letter=False,
+                    string=h.get_text(strip=True)
+                    .replace(" ", "_")
+                    .translate(transvowels),
+                )
+                for h in rsheaders
+            ]
 
-            for rsrow in rsrows:
-                rsprops = rsrow.select("td")
-                props = [rsprop.get_text(strip=True) for rsprop in rsprops]
-                rows.append(props)
+            rows = [
+                [
+                    re.sub(r"\s+", " ", rsprop.get_text(strip=True))
+                    for rsprop in rsrow.select("td")
+                ]
+                for rsrow in rsrows
+            ]
 
             drows = [dict(zip(headers, row)) for row in rows]
 
-            json_path = f"{dirname}/{filename}"
+            filename = f"{dirname}/{filename}"
             json_data = json.dumps(drows, ensure_ascii=False, indent=4)
 
-            with open(json_path, "w", encoding="utf-8") as file:
-                file.write(json_data)
+            with open(filename, "w", encoding="utf-8") as jsonfile:
+                jsonfile.write(json_data)
