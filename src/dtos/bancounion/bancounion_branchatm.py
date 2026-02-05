@@ -36,31 +36,31 @@ class BancoUnionBranchATM(BaseModel):
         validation_alias="TipoCajero",
     )
 
-    @computed_field(alias="tipoCajeroCol")
-    def tipo_cajerocol(self) -> Optional[str]:
+    @computed_field
+    def subtipo(self) -> Optional[str]:
         return None if self.tipo_cajero is None else self.tipo_cajero.upper()
 
     grafico: Optional[str] = Field(exclude=True, validation_alias="Grafico")
-    telefono: Optional[str] = Field(validation_alias="Telefono")
+    telefono: Optional[str] = Field(None, validation_alias="Telefono")
 
     punto_atencion: Optional[TipoPuntoAtencion] = Field(
         exclude=True,
         validation_alias="PuntoAtencion",
     )
 
-    @computed_field(alias="puntoAtencionCol")
-    def punto_atencioncol(self) -> Optional[str]:
+    @computed_field
+    def tipo(self) -> Optional[str]:
         return None if self.punto_atencion is None else self.punto_atencion.upper()
 
     dias_semana: str = Field(validation_alias="DiasSemana", exclude=True)
 
-    @computed_field(alias="diasSemanaCol")
-    def dias_semanacol(self) -> str:
+    @computed_field
+    def horario_atencion(self) -> str:
         dias_semana = re.sub(r"\s+", " ", self.dias_semana).strip()
-        return dias_semana.replace("HORAS", "HORAS,").strip(",")
+        return dias_semana.replace("HORAS", "HORAS;").strip(";")
 
-    sabado: Optional[str] = Field(validation_alias="Sabado")
-    domingo: Optional[str] = Field(validation_alias="Domingo")
+    sabado: Optional[str] = Field(validation_alias="Sabado", exclude=True)
+    domingo: Optional[str] = Field(validation_alias="Domingo", exclude=True)
 
     caja: Optional[str] = Field(validation_alias="Caja", exclude=True)
     codigo: Optional[str] = Field(validation_alias="Codigo", exclude=True)
