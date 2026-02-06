@@ -1,6 +1,7 @@
 import re
 
-from pydantic import BaseModel, Field, computed_field
+from pydantic import BaseModel, Field, computed_field, field_validator
+
 from .const import BancoSolOfficeName, BancoSolOfficeTypeName
 
 transvowels = str.maketrans(
@@ -11,6 +12,14 @@ transvowels = str.maketrans(
 
 class OpeningHours(BaseModel):
     hour: str
+
+    @field_validator("hour", mode="before")
+    def strip_props(cls, propvalue):
+        return (
+            propvalue
+            if not isinstance(propvalue, str)
+            else re.sub(r"\s+", " ", propvalue).strip()
+        )
 
 
 class BoliviaLocality(BaseModel):
@@ -64,9 +73,26 @@ class BancoSolBranchATM(BaseModel):
 
     @computed_field
     def type(self) -> str:
-        return re.sub(r"\s+", "_", self.office_type.name).upper()
+        return (
+            re.sub(r"\s+", "_", self.office_type.name)
+            .upper()
+            .replace("CAJEROS", "ATM")
+            .replace("AGENCIAS", "AGENCIA")
+        )
 
     @computed_field
     def subtype(self) -> str:
         typename = self.office_type.type_name.replace("-", " ")
-        return re.sub(r"\s+", "_", typename.translate(transvowels)).upper()
+        return (
+            re.sub(r"\s+", "_", typename.translate(transvowels))
+            .upper()
+            .replace("CAJERO_AUTOMATICO", "ATM")
+        )
+
+    @field_validator("*", mode="before")
+    def strip_props(cls, prop_value):
+        return (
+            prop_value
+            if not isinstance(prop_value, str)
+            else re.sub(r"\s+", " ", prop_value).strip()
+        )

@@ -1,7 +1,7 @@
 import re
 
 from typing import Optional
-from pydantic import BaseModel, Field, model_validator, computed_field
+from pydantic import BaseModel, Field, model_validator, computed_field, field_validator
 
 from .const import TipoCajero, TipoPuntoAtencion
 
@@ -65,3 +65,11 @@ class BancoUnionBranchATM(BaseModel):
     caja: Optional[str] = Field(validation_alias="Caja", exclude=True)
     codigo: Optional[str] = Field(validation_alias="Codigo", exclude=True)
     plataforma: Optional[str] = Field(validation_alias="Plataforma", exclude=True)
+
+    @field_validator("*", mode="before")
+    def strip_props(cls, prop_value):
+        return (
+            prop_value
+            if not isinstance(prop_value, str)
+            else re.sub(r"\s+", " ", prop_value).strip()
+        )
