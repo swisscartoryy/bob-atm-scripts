@@ -1,0 +1,1 @@
+from .bank_service_point_entity import BankServicePointEntity
