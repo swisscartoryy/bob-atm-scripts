@@ -2,17 +2,17 @@ from enum import IntEnum
 
 
 class BnbTipoEntidadId(IntEnum):
-    OFICINA = 1
-    CAJERO_AUTOMATICO = 2
+    ATM = 2
+    AGENCIA = 1
 
 
 class BnbSubtipoEntidadId(IntEnum):
+    ATM = 0
     AGENCIA = 3
     AUTO_BANCO = 1
     BNB_EXPRESS = 5
     OFICINA_EXTERNA = 6
     BNB_MULTICENTRO = 8
-    CAJERO_AUTOMATICO = 0
     OFICINA_PRINCIPAL = 2
     PUNTO_PROMOCIONAL = 4
 

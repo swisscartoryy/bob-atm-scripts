@@ -137,7 +137,12 @@ class BmscBranchATM(BaseModel):
     def tipo(self) -> Optional[str]:
         if not self.tipopoi is None:
             punto_atencion = self.tipopoi.replace("-", "")
-            return re.sub(r"\s+", "_", punto_atencion.translate(transvowels)).upper()
+            return (
+                re.sub(r"\s+", "_", punto_atencion.translate(transvowels))
+                .upper()
+                .replace("OFICINA", "AGENCIA")
+                .replace("CAJERO_AUTOMATICO", "ATM")
+            )
 
         return None
 
