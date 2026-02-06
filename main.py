@@ -10,14 +10,13 @@ from src.entities import BankServicePointEntity
 
 dotenv.load_dotenv()
 
-engine = create_engine(echo=True, url=os.getenv("DATABASE_URL", ""))
+engine = create_engine(echo=False, url=os.getenv("DATABASE_URL", ""))
 columns_order = list(BankServicePointEntity.model_fields.keys())[1:]
 
-dfs: list[pandas.DataFrame] = []
-for bankcode in get_args(BankCode):
-    df = generate_df(bankcode).reindex(columns=columns_order)
-    dfs.append(df.reset_index(drop=True))
-    print(df)
+dfs = [
+    generate_df(bankcode).reindex(columns=columns_order)
+    for bankcode in get_args(BankCode)
+]
 
 SQLModel.metadata.create_all(engine)
 df = pandas.concat(dfs, ignore_index=True)
