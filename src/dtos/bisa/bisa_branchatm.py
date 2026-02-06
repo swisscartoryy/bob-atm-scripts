@@ -10,6 +10,11 @@ from pydantic import BaseModel, Field, field_validator, computed_field
 
 from .enums import BoliviaCityId, BoliviaStateId, PointOfInterestId
 
+transvowels = str.maketrans(
+    "áéíóúÁÉÍÓÚ",
+    "aeiouAEIOU",
+)
+
 
 class BoliviaCity(BaseModel):
     city_id: BoliviaCityId = Field(validation_alias="cityId")
@@ -57,7 +62,7 @@ class BisaBranchATM(BaseModel):
 
     @computed_field(alias="typecol")
     def type(self) -> Annotated[str, Doc("normalized PoI")]:
-        return inflection.underscore(self.typepoi.value_name).upper()
+        return inflection.underscore(self.typepoi.value.name).upper()
 
     statecity: Annotated[Optional[BoliviaCity], Doc("branch / ATM city")] = Field(
         default=None,
@@ -70,7 +75,7 @@ class BisaBranchATM(BaseModel):
         return (
             None
             if self.statecity is None
-            else re.sub(r"\s+", "_", self.statecity.name.upper())
+            else re.sub(r"\s+", "_", self.statecity.name.upper().translate(transvowels))
         )
 
     state: Annotated[Optional[BoliviaState], Doc("branch / ATM state")] = Field(

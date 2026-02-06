@@ -5,9 +5,9 @@ from typing import Annotated
 
 class PointOfInterestId(IntEnum):
     ATM = 1
-    BRANCH = 2
-    SELF_SERVICE_TERMINAL = 3
-    BRANCH_WITH_EXTENDED_HOURS = 4
+    AGENCIA = 2
+    TERMINAL_AUTOSERVICIO = 3
+    AGENCIA_HORARIO_EXTENDIDO = 4
 
 
 class BoliviaStateId(IntEnum):
