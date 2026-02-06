@@ -51,8 +51,6 @@ def write_data_to_csvfile(filename: str, data: list):
         writer.writeheader()
         writer.writerows(rows)
 
-        print(filename, "generated")
-
 
 def generate_bankcsv(bankcode: BankCode) -> str:
     branchatms: list = []
