@@ -24,7 +24,7 @@ df = pandas.concat(dfs, ignore_index=True)
 df.to_csv("assets/branchatms.csv", index=False)
 df.to_sql(
     con=engine,
-    index=True,
+    index=False,
     method="multi",
     chunksize=1000,
     if_exists="replace",
