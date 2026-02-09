@@ -16,10 +16,7 @@ def generate_df(bankcode: BankCode) -> pandas.DataFrame:
     elif bankcode == "bisa":
         cond = df["type"].str.startswith("AGENCIA_")
         df.loc[cond, "subtype"] = df["type"]
-        df.loc[cond, "type"] = "AGENCIA"
-    elif bankcode == "bmsc":
-        df["subtype"] = df["type"]
-        df["type"] = df["subtype"].str.extract(r"^(AGENCIA|ATM)")
+        df.loc[cond, "type"] = "AGENCIA"        
     elif bankcode == "bancosol":
         typecol = df["type"].str.replace("_", " ").map(str.title)
         df["name"] = typecol + " " + df["name"]

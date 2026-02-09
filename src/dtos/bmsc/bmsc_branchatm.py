@@ -2,10 +2,16 @@ import re
 
 from annotated_doc import Doc
 
-from typing import Annotated, Optional
+from typing import Annotated, Optional, get_args
 from pydantic import BaseModel, Field, computed_field
 
-from .const import PosValue, TipoPuntoAtencion, DepartamentoBolivia
+from .const import (
+    PosValue,
+    TipoPuntoAtencion,
+    DepartamentoBolivia,
+    TipoPuntoAtencionATM,
+    TipoPuntoAtencionBranch,
+)
 
 transvowels = str.maketrans(
     "áéíóúÁÉÍÓÚ",
@@ -135,16 +141,42 @@ class BmscBranchATM(BaseModel):
 
     @computed_field
     def tipo(self) -> Optional[str]:
+        tipo: Optional[str] = None
+        tipo_branches: list[str] = list(get_args(TipoPuntoAtencionBranch))
+
         if not self.tipopoi is None:
-            punto_atencion = self.tipopoi.replace("-", "")
-            return (
-                re.sub(r"\s+", "_", punto_atencion.translate(transvowels))
+            if self.tipopoi in tipo_branches:
+                tipo = "AGENCIA"
+            elif self.tipopoi in get_args(TipoPuntoAtencionATM):
+                tipo = "ATM"
+        else:
+            for tipo_branch in tipo_branches:
+                if self.nombre.startswith(tipo_branch.upper()):
+                    tipo = "AGENCIA"
+                    break
+
+        return tipo
+
+    @computed_field
+    def subtipo(self) -> Optional[str]:
+        subtipo = None
+
+        if not self.tipopoi is None:
+            subtipo = (
+                re.sub(r"\s+", "_", self.tipopoi.translate(transvowels))
                 .upper()
-                .replace("OFICINA", "AGENCIA")
+                .replace("-", "")
                 .replace("CAJERO_AUTOMATICO", "ATM")
             )
+        else:
+            tipo_branches: list[str] = list(get_args(TipoPuntoAtencionBranch))
 
-        return None
+            for tipo_branch in tipo_branches:
+                tipo_branch = tipo_branch.upper()
+                if self.nombre.startswith(tipo_branch):
+                    subtipo = re.sub(r"\s+", "_", tipo_branch)
+
+        return subtipo
 
     horario_atencioncms_string: Annotated[
         str, Doc("horario atencion cms json string")

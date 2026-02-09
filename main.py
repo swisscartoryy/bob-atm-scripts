@@ -10,7 +10,7 @@ from src.entities import BankServicePointEntity
 
 dotenv.load_dotenv()
 
-engine = create_engine(echo=False, url=os.getenv("DATABASE_URL", ""))
+engine = create_engine(echo=True, url=os.getenv("DATABASE_URL", ""))
 columns_order = list(BankServicePointEntity.model_fields.keys())[1:]
 
 dfs = [
@@ -27,6 +27,6 @@ df.to_sql(
     index=False,
     method="multi",
     chunksize=1000,
+    name="banklocs",
     if_exists="replace",
-    name="bank_service_point",
 )

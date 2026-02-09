@@ -55,6 +55,7 @@ bank_columns: dict[BankCode, dict[str, str]] = {
     "bmsc": {
         "id": "bankid",
         "tipo": "type",
+        "subtipo": "subtype",
         "nombre": "name",
         "ciudad": "city",
         "latitud": "latitude",

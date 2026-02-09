@@ -6,10 +6,12 @@ PosValue = Literal[
 ]
 
 TipoPuntoAtencionBranch = Literal[
+    "Agencia",
     "Sucursal",
     "Agencia Fija",
     "Oficina Central",
     "Oficina Externa",
+    "Punto Promocional",
     "Punto Promocional Fijo",
 ]
 

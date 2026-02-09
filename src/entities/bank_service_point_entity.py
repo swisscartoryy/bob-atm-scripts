@@ -4,12 +4,12 @@ from sqlmodel import SQLModel, Field
 
 
 class BankServicePointEntity(SQLModel, table=True):
-    __tablename__ = "bank_service_point"
+    __tablename__ = "bank_location"
 
     id: Optional[int] = Field(None, primary_key=True)
 
     bankid: str = Field(index=True)
-    bankcode: str = Field(unique=True, index=True)
+    bankcode: str = Field(index=True)
 
     type: str = Field(index=True)
     subtype: Optional[str] = Field(None)
